@@ -31,22 +31,26 @@ On the first levels bubble the nasties,but don't burst them,as this gives you
 more time. Don't worry about Count Van Blubba. He moves fast but not very often,
 and is easy to avoid. When confronting the cookie monsters, always fire then
 jump to avoid cookies. Get them from behind if possible. Don't wait for them to
-speed up as they're deadly then.<br>
+speed up as they're deadly then.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;On level three trap the monsters quickly, then go to the bottom of the
 screen and collect any letters for EXTEND.  When the monsters flash, keep
 firing to trap them again.  When HURRY UP appears, burst them all and go to
-the bottom.  If you're lucky, a big diamond will appear.<br>
+the bottom.  If you're lucky, a big diamond will appear.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Don't be greedy and try to get fruits in dangerous places.  There is a way
 around every screen, try, try to look for ways to do it.  Level 32.is a
-hard one, but keep at it.<br>
+hard one, but keep at it.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;When playing two player, work as a team, not against each other.  Watch the
 meanies' patterns, they're predictable.  And the big tip is that you have
 six credits at the start, so if you lose all your lives, you can press your
 fire button and 1 or 2 giving you three more lives.  You'll lose your
-score, but not your letters.<br>
+score, but not your letters.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 Bubbles
@@ -81,7 +85,8 @@ Yellow Cross            Zaps lightning across screen
 Fruit                   Points
 Necklace                Ball Bouncing
 Green Potion            Lightning Bubbles
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(YS Smash Tips)</i> 
 <br>
@@ -103,7 +108,8 @@ Green Potion            Lightning Bubbles
 <tr><td>Immunity after death</td><td>44002,195:44003,244:44004,171</td></tr>
 <tr><td>PAUSE for next level</td><td>36854,255:36855,255:36856,195:36857,7:36858,141</td></tr>
 <tr><td>Always Get Heart</td><td>35397,62:35398,10</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -118,7 +124,8 @@ This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/You
 
 <br><hr>
 How d'ya fancy some infinite lives? Here they come incorporated into the
-Firebird hacker program.<br>
+Firebird hacker program.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 LET T=0
@@ -169,19 +176,5 @@ Firebird hacker program.<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

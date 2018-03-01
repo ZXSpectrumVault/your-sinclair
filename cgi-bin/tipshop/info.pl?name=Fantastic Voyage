@@ -23,7 +23,8 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>USING THE Pokes for Fantastic Voyage in the August issue, the first section of the sub is in the mouth; the second - intestines; the third - liver; the fourth - gall bladder; the fifth - pancreas; the sixth - duodenum; the seventh - stomach and the eighth is in the colon.<br>
+<TR><TD>USING THE Pokes for Fantastic Voyage in the August issue, the first section of the sub is in the mouth; the second - intestines; the third - liver; the fourth - gall bladder; the fifth - pancreas; the sixth - duodenum; the seventh - stomach and the eighth is in the colon.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you are worried about the time limit the clock restarts at 60 minutes. The escape route is through the optic nerve in the brain to the eye.
  <i>(Chris McGrail in Sinclair User issue 43)</i> 
@@ -37,23 +38,28 @@
 </TR>
 <tr><td>Infinite Lives</td><td>54492,0</td></tr>
 <tr><td>Infinite Temperature</td><td>54227,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
 </td></tr>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
-<TR><TD>TO OBTAIN unlimited divers in Fantastic Voyage ,enter the following to load and run the game code:<br>
+<TR><TD>TO OBTAIN unlimited divers in Fantastic Voyage ,enter the following to load and run the game code:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<br><pre>10 CLEAR 30791: LOAD "VOYAGE" CODE: POKE 54492,167: BORDER 0: PRINT USR 53248</pre><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><pre>10 CLEAR 30791: LOAD "VOYAGE" CODE: POKE 54492,167: BORDER 0: PRINT USR 53248</pre><br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The game will still end if the main body overheats during infection. [See later hack = 30791 should be 30719]
  <i>(S G Miles in Sinclair User issue 40)</i> <b><i>(not known to work)</i></b>
 
 <br><hr>
-THE INFINITE lives poke for Fantastic Voyage - July 1985 - needs correcting. Change CLEAR 30791 to 30719.<br>
+THE INFINITE lives poke for Fantastic Voyage - July 1985 - needs correcting. Change CLEAR 30791 to 30719.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;When the body overheats, stop the infections with the following program.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;When the body overheats, stop the infections with the following program.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br><pre>10 CLEAR 30719
 20 LOAD "VOYAGE" CODE
@@ -73,19 +79,5 @@ THE INFINITE lives poke for Fantastic Voyage - July 1985 - needs correcting. Cha
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

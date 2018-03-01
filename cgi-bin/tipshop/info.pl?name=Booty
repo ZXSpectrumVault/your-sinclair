@@ -81,7 +81,8 @@ normal loader program.
 <tr><td>Fish Caught=x (Hidden Game)</td><td>53037,x (x= 1-255)</td></tr>
 <tr><td>Always Complete Hidden Game</td><td>52824,195</td></tr>
 </table>
-<BR><BR><B>Enter the access hidden game POKE on the main control menu</B><br>
+<BR><BR><B>Enter the access hidden game POKE on the main control menu</B>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -94,7 +95,8 @@ normal loader program.
  <i>(YS Smash Tips)</i> 
 
 <br><hr>
-HERE ARE some infinite lives for Booty. Type in the program then load as normal.<br>
+HERE ARE some infinite lives for Booty. Type in the program then load as normal.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br><pre>10 BORDER 0: PAPER 0: INK 0
 20 CLEAR 26870
@@ -116,19 +118,5 @@ HERE ARE some infinite lives for Booty. Type in the program then load as normal.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

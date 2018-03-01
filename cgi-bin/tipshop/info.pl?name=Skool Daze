@@ -23,15 +23,20 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>FOR ANY of you having trouble with Skool Daze here are the dates of some of the battles:<br>
+<TR><TD>FOR ANY of you having trouble with Skool Daze here are the dates of some of the battles:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Hastings 1066; Waterloo 1815; San Jacinto 1265; Trafalgar 1805; Balaclava 1854; Flodden 1513; Yorktown 1781; Shrewsbury 1403; Poitiers 1356; Sedgemore 1685; Evesham 1265; Lexington 1775; Borodino 1812; Lepanto 1571.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hastings 1066; Waterloo 1815; San Jacinto 1265; Trafalgar 1805; Balaclava 1854; Flodden 1513; Yorktown 1781; Shrewsbury 1403; Poitiers 1356; Sedgemore 1685; Evesham 1265; Lexington 1775; Borodino 1812; Lepanto 1571.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;You often get lines for being knocked off your seat because there are too many pupils. To stop that happening in Geography, follow Mr Withit to the end of the room and he will turn round and start teaching the class without noticing you. In the reading room sit at the back as no-one else tries to sit there.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;You often get lines for being knocked off your seat because there are too many pupils. To stop that happening in Geography, follow Mr Withit to the end of the room and he will turn round and start teaching the class without noticing you. In the reading room sit at the back as no-one else tries to sit there.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;There are two timetables, parts of which are detailed below:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;There are two timetables, parts of which are detailed below:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Playtime / Map room / Revision - Library&nbsp;/ White room / Playtime / Reading room / White room / Playtime / Dinner / Playtime /?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Playtime / Map room / Revision - Library&nbsp;/ White room / Playtime / Reading room / White room / Playtime / Dinner / Playtime /?
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Playtime / Exam room / Map room / Playtime / White room / Reading room / Playtime / Dinner / Playtime / White room / Revision - Library / Playtime / White room / ?
  <i>(T S Nicholson in Sinclair User issue 37)</i> 
@@ -46,7 +51,8 @@
 <tr><td>Infinite Lines</td><td>63935,255:63937,0</td></tr>
 <tr><td>Immunity</td><td>30464,201</td></tr>
 </table>
-<BR><BR><B>With the "Immunity" POKE, the teachers will ignore you!<br>
+<BR><BR><B>With the "Immunity" POKE, the teachers will ignore you!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -55,7 +61,8 @@
 <TR><TD>This hack'll alleviate your writers' cramp when you're given all those lines to
 write from the nasty teachers. The title screen should load in less than a
 minute, but if the screen clears after the game's loaded then you'll have to
-rewind the tape and start again.<br>
+rewind the tape and start again.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 CLEAR 30000: LET S=0
@@ -72,7 +79,8 @@ rewind the tape and start again.<br>
 86,5,1,175,0,237,176,33,80,128,54,225,46,126,54,225,46,113,54,227,46,121,54,
          237,46,146,54,11,46,158,54,0,46,116,34,128
 100 DATA
-28,46,141,34,38,128,34,45,128,34,117,128,46,145,34,23,128,34,60,128,34,70,<br>
+28,46,141,34,38,128,34,45,128,34,117,128,46,145,34,23,128,34,60,128,34,70,
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;128,34,142,128,33,39,129,34,9,128,49,128,129,221,33,0,64,17,10,0,62,255,55,195
 110 DATA 0,128,62,254,221,174,255,32,148,50,168,128,17,246,63,205,83,
@@ -92,19 +100,5 @@ rewind the tape and start again.<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

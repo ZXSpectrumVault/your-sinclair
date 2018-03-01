@@ -26,7 +26,8 @@
 <TR><TD>Pssst, wanna be an instant
 hacker? Then load a copy of
 <A href="http://www.users.globalnet.co.uk/~jimg/yr08/yr08_50.htm"><I>YS MegaBasic</I></A> right now (you
-do have a copy don't you?). <BR><br>
+do have a copy don't you?). <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Once it's loaded, you're
 asked to Press 'm' to copy to a
@@ -34,7 +35,8 @@ microdrive (aaargh, I feel an
 attack of BAD SECTORS
 coming on). Instead, quickly
 press the following sequence of
-keys: g,a,m,l. <BR><br>
+keys: g,a,m,l. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Do it as quickly as possible
 as you've only got four seconds
@@ -42,18 +44,21 @@ to press all four keys. For all
 your hard work you'll be
 greeted with a message usually
 hidden from yer average
-Speccy user. <BR><br>
+Speccy user. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>Andy Taylor <BR>
 Sheffield</B>
- <BR> <BR><br>
+ <BR> <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<I>And of course, there's no
 chance of us letting on what the
 secret message is. You'll just
 have to take a butchers at your
 own copy of YS MegaBasic for
-that. <BR><br>
+that. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Now, what we'd really like to
 know is, what do the letters
@@ -75,7 +80,8 @@ the production of the
 program. All I can say is that
 it's such a big program it was
 inevitable that some things
-would slip through. <BR><br>
+would slip through. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	However, I have come up
 with a bit of code which will
@@ -93,7 +99,8 @@ and then RUN it. If the
 Spectrum NEWs itself, then
 all has gone well; if you get an
 error report - check your
-typing! <BR><br>
+typing! <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	To save the new version of
 MegaBasic, type SAVE &quot;MB&quot;
@@ -108,7 +115,8 @@ type CLEAR 44999: LOAD *&quot;M&quot;;1;&quot;MB&quot; CODE. Once
 loaded, Megabasic will
 automatically&nbsp;execute itself.
 That should stop anyone
-executing me! <BR><br>
+executing me! <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>Mike Leaman, <BR>
 Torquay, Devon</B>
@@ -163,19 +171,5 @@ OP
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

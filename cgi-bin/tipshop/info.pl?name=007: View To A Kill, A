@@ -23,9 +23,11 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>Code for first game     QRS21<br>
+<TR><TD>Code for first game     QRS21
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Code for second game    QQQQQ<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Code for second game    QQQQQ
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Code for third game     HRME2
  <i>(YS Smash Tips)</i> 
@@ -46,7 +48,8 @@ POKE 28032, 255: POKE 28087, 8: POKE 29243, 8: POKE 30543, 8
 <td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
 </TR>
 <tr><td>Level 3 Bug Fix</td><td>28032,255:28087,8:29243,8:30543,8</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -68,19 +71,5 @@ POKE 28032, 255: POKE 28087, 8: POKE 29243, 8: POKE 30543, 8
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -28,7 +28,8 @@ ladder.  Having reached it, go up it and forge to the right again, until
 you find a way down.  Go down, and then go right along a tunnel until you
 encounter three den beasts.  Be warned, there are a lot of zombies and a
 few gremlins as well.  When you come to the Princess you will have to
-defeat two large gremlins.  Ah, true love!" Thanks Andy...<br>
+defeat two large gremlins.  Ah, true love!" Thanks Andy...
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Oh.  What happened to the dragon mentioned in your preview on Ghosts 'n'
 Goblins?  Is he there or is he just invisible?
@@ -53,7 +54,8 @@ warehouse and the game will stop and crash.
 <tr><td>Lives = x</td><td>25177,x:49047,x&nbsp;(x= 1-255)</td></tr>
 <tr><td>Infinite Time</td><td>38303,0</td></tr>
 </table>
-<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI<br>
+<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -63,7 +65,8 @@ warehouse and the game will stop and crash.
  <i>(Cover Tape in Sinclair User issue 95)</i> 
 
 <br><hr>
-This hack'll give you infinite lives<br>
+This hack'll give you infinite lives
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 10 CLEAR 65000
@@ -85,19 +88,5 @@ This hack'll give you infinite lives<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

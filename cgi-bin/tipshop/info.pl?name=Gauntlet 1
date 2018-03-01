@@ -38,13 +38,16 @@ last finished.
 <br><hr>
 On the first level, if you fight your way up to the top right hand corner
 of the screen, you can skip straight to level 8, collecting three lots of
-food on your way.<br>
+food on your way.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Kill everything that looks nasty, except green Death, which you'll have to
-avoid like the plague - he'll whip 200 health points if you don't.<br>
+avoid like the plague - he'll whip 200 health points if you don't.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Be careful near potions - don't fire at them or you'll lose them, that goes
-for food too.<br>
+for food too.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once your status display starts flashing, be quick on the Caps Shift or
 Space key (depending on which hero you are) to reincarnate your mate.  You
@@ -52,25 +55,32 @@ can go on for ever if you do this rotation.  (Well, almost).
  <i>(Liz Walkland in Your Sinclair issue 15)</i> 
 
 <br><hr>
-When you get a no.  1 score, the computer adds 1,000,000 to your total!<br>
+When you get a no.  1 score, the computer adds 1,000,000 to your total!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Think carefully before rushing into battle.  Pick off as many ghouls from a
 safe position as possible.  Generators are often surrounded by extra
-troops, so a little shooting can make life easier...  and longer!<br>
+troops, so a little shooting can make life easier...  and longer!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Destroy as many generators as are in range - clearing one from a nearby
-passage may help you go up that passage later if you need to.<br>
+passage may help you go up that passage later if you need to.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Don't automatically use potions on Death - he can be dodged&nbsp;and potions are
-often very valuable!<br>
+often very valuable!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In two player mode, select Thor and Merlin.  Let Merlin pick up all the
-extra potions, except extra magic.  Let Thor take this.<br>
+extra potions, except extra magic.  Let Thor take this.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;To avoid destroying cider, let Thor bulldoze into a room (fighting hand to
-hand) and often you gain energy if helped by Merlin.<br>
+hand) and often you gain energy if helped by Merlin.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;In one player mode choose Thor, and don't rush into battle.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;In one player mode choose Thor, and don't rush into battle.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Avoid levels 2 and 3 in all games!"
  <i>(Mike Prior, Andrew Cope, Ben Wootton, Ha in Your Sinclair issue 16)</i> 
@@ -92,7 +102,8 @@ straight through the wall!  For 128K press '?'.
 </table>
 <BR><BR><B>I had LOADS of POKEs for this game, but NONE of them worked. I ended up with
 this because I rehacked it myself. I checked all of them, and none seemed to
-work at all. Oops!<br>
+work at all. Oops!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -151,19 +162,5 @@ WALLS (SAVES USING SHIFT!)
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

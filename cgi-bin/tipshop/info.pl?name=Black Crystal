@@ -23,17 +23,23 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>The adventure is loaded in several sections because of its memory requirements. Each section puts the user into a different scenario. For instance, the first part displays an overhead view of a fantasy land in which the game is taking place. In that land you have to find the rings which, when brought together, will destroy the evil black crystal.<br>
+<TR><TD>The adventure is loaded in several sections because of its memory requirements. Each section puts the user into a different scenario. For instance, the first part displays an overhead view of a fantasy land in which the game is taking place. In that land you have to find the rings which, when brought together, will destroy the evil black crystal.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;To find all the rings the player must go through forests and castles to reach the tower room where the black crystal has its domain.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;To find all the rings the player must go through forests and castles to reach the tower room where the black crystal has its domain.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;When I first started to play the game the rings seemed to be scattered randomly around the map. Soon I found that several of the rings could be detected in the forest area of the map every time I went back to the program.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;When I first started to play the game the rings seemed to be scattered randomly around the map. Soon I found that several of the rings could be detected in the forest area of the map every time I went back to the program.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;When I had found all the rings on map one I entered the castle in the middle of the map. There are several levels to the castle and on the lowest I found an invisibility charm which helped me to evade the ghouls which plagued me continually.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;When I had found all the rings on map one I entered the castle in the middle of the map. There are several levels to the castle and on the lowest I found an invisibility charm which helped me to evade the ghouls which plagued me continually.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Another difficulty which you may find on level two of the castle is the mist which can damage your health seriously. The best way to disperse it is by using your power drain.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Another difficulty which you may find on level two of the castle is the mist which can damage your health seriously. The best way to disperse it is by using your power drain.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;When moving round the castle it is best to keep your finger on the 'swerve' key. That will use some of your energy but you will avoid some of the nastier aspects of the monsters when they strike at you. To get to each map of the game you have to know the code numbers which have been given to you from the previous map.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;When moving round the castle it is best to keep your finger on the 'swerve' key. That will use some of your energy but you will avoid some of the nastier aspects of the monsters when they strike at you. To get to each map of the game you have to know the code numbers which have been given to you from the previous map.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br><b>HINTS AND TIPS</b><br>
 Castle stairs,<br>
@@ -52,19 +58,5 @@ The means to an end are always appropriate.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

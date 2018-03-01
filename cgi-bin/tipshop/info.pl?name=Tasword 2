@@ -30,7 +30,8 @@ convert it for use with
 <I>Tasword Two</I>, especially as
 you can use its own print
 routine instead of the
-published driver software.<BR><br>
+published driver software.<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	First up, load <I>Tasword Two</I>
 and return to Basic. POKE
@@ -40,7 +41,8 @@ the following values: 57978 to
 58012 to 58020 inclusive with
 zero. Now, enter the Basic
 lines provided; it may be
-necessary to alter the line feed<br>
+necessary to alter the line feed
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<BR>
 	<TABLE WIDTH="200">
@@ -56,10 +58,12 @@ necessary to alter the line feed<br>
 288 CLOSE &#163;2</CODE></TD></TR>
 	<TR><TD><FONT  SIZE="2"><B>Craig's wordprocessor mod. Note '&#163;' signs should be '#'s.</B></FONT></TD></TR>
 	</TABLE>
-<BR><br>
+<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;code to zero if your printer
-has auto-line feed.<BR><br>
+has auto-line feed.<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Run the program and save a
 copy of <I>Tasword Two</I>. If the
@@ -67,7 +71,8 @@ interface and printer are
 connected, you should now be
 able to specify the number of
 copies to be printed and abort
-printing if so desired.<BR><br>
+printing if so desired.<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>Craig L Joly, Sutton, Surrey</B>
  <i>(Craig L Joly in Your Spectrum issue 12)</i> 
@@ -81,7 +86,8 @@ printing if so desired.<BR><br>
 </TR>
 <tr><td>Border colour = x</td><td>64516,x (x= 0-7)</td></tr>
 </table>
-<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI<br>
+<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -95,19 +101,5 @@ printing if so desired.<BR><br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

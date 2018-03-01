@@ -83,7 +83,8 @@ several cassette boxes.
  <i>(The Romford Hacketeers in Your Spectrum issue 09)</i> 
 
 <br><hr>
-I HAVE broken into Cavelon by Ocean Software and discovered a way of getting any level.<br>
+I HAVE broken into Cavelon by Ocean Software and discovered a way of getting any level.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;First use all of the crosses, then by pressing every key at once the message "Hi, Chris, what do you want?" appears. Then press any key from 1 to 6 and the game returns to normal. Now the game will start from the level pressed. At the end of level six it plays Greensleeves.
  <i>(Marc Jones in Sinclair User issue 32)</i> 
@@ -96,7 +97,8 @@ I HAVE broken into Cavelon by Ocean Software and discovered a way of getting any
 <td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
 </TR>
 <tr><td>Infinite Lives</td><td>47250,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -110,19 +112,5 @@ I HAVE broken into Cavelon by Ocean Software and discovered a way of getting any
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -37,7 +37,8 @@
 <tr><td>No Locked Doors</td><td>63478,24</td></tr>
 <tr><td>Show Room Drawing</td><td>58813,62:58814,6</td></tr>
 <tr><td>Blindfold Nasties</td><td>32054,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -57,7 +58,8 @@ out long before you make it
 - there's a total of 140
 stages of decryption from
 you hitting LOAD to the
-game starting! <BR><br>
+game starting! <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	First it decrypts itself 20
 times just to turbo-load the
@@ -80,7 +82,8 @@ infinite lives, the ability to
 carry as much as you like,
 five barrels and the ability
 to open any previously
-locked doors! <BR><br>
+locked doors! <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	If you don't want all of
 these options then just
@@ -121,7 +124,8 @@ run as normal.
 <br><hr>
 This hack gives you all the usual goodies to help you complete the game, but
 only works with the updated version of Fairlight (the one with the Kempston
-joystick interface option).<br>
+joystick interface option).
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 LET T=0: FOR N=18000 TO 18175: READ A: LET T=T+A: POKE N,A: NEXT N: READ A:
@@ -194,7 +198,8 @@ The trolls are best covered by a
 barrel after killing them by placing
 a barrel over the spot you killed
 them. This prevents them from
-reappearing.<br>
+reappearing.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;After collecting the hourglass
 cross the drawbridge, using the
@@ -241,19 +246,5 @@ Finished!
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

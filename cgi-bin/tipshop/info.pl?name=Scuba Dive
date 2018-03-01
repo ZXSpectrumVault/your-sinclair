@@ -43,7 +43,8 @@ depth' treatment given to
 <I>(My, how time flies! Ed)</I>.
 Well, <B>Andy Orchard</B> has
 written in with lots of tips on
-how to muck around with it.<BR><br>
+how to muck around with it.<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	First off, to get the POKEs
 in, you've got to load the
@@ -54,7 +55,8 @@ the 'Y' key, press the Break
 key. You're now free to enter
 the POKEs and, to finish off
 the loading process, type 'GO
-TO 2' and press Enter.<BR><br>
+TO 2' and press Enter.<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	The obvious POKE to start
 off with is for varying number
@@ -63,7 +65,8 @@ of lives - POKE 55711,x
 lives up to 255). The only
 problem is cramming in too
 many divers into the boat on-
-screen.<BR><br>
+screen.<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	If you're playing an
 opponent, POKE 45696,0 will
@@ -89,7 +92,8 @@ backfire, would you?
 <tr><td>Lives = x</td><td>55711,x (x= 1-255)</td></tr>
 <tr><td>Makes clams open and close REALLY fast</td><td>45696,0</td></tr>
 </table>
-<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI<br>
+<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -103,19 +107,5 @@ backfire, would you?
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

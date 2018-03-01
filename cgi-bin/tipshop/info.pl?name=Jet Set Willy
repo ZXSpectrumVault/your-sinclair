@@ -26,7 +26,8 @@
 <TR><TD>I though I'd write to you and
 point out some interesting
 things you seem to have missed
-in your <A href="http://www.users.globalnet.co.uk/~jimg/yr06/yr06_21.htm">articles</A> on <I>Jet Set Willy</I>. <BR><br>
+in your <A href="http://www.users.globalnet.co.uk/~jimg/yr06/yr06_21.htm">articles</A> on <I>Jet Set Willy</I>. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Firstly, it was suggested that
 you need to get the invisible
@@ -41,7 +42,8 @@ ladder (could this be a tie-in
 with the famous book <I>The 39 Steps</I>?) but I've not managed
 to get the blasted thing yet!
 Perhaps someone out there has
-managed it? <BR><br>
+managed it? <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	You're right in thinking that
 the room called Nomen Luni is
@@ -63,7 +65,8 @@ be the front end of the plane?
 Hey presto ... the joke is that a
 plane, probably from
 Imagine's <I>Zzoom</I>, has crashed
-into the top of of Willy's mansion. <BR><br>
+into the top of of Willy's mansion. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	I do admit to being one of
 those poor souls who, having
@@ -126,7 +129,8 @@ glasses) the company
 now have a number of
 'fixes' you can add to
 your program. And this
-is what you do ... <BR><br>
+is what you do ... <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Rewind the <I>Jet Set Willy</I> tape and load it
 using MERGE &quot;&quot;, press
@@ -135,30 +139,35 @@ Once the loader program has been loaded
 you will get the 'OK'
 message on the screen
 and you should stop the
-tape. Now enter: <BR><BR><br>
+tape. Now enter: <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<CODE><B>CLEAR 32767 <BR>
 LOAD &quot;&quot; CODE</B>
-</CODE><br>
+</CODE>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;as direct commands and
 start the tape. After the
 main part of the program
 has loaded, enter the
 following as direct
-commands: <BR><BR><br>
+commands: <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<CODE><B>POKE 60231,0 <BR>
 POKE 42183,11 <BR>
 POKE 59901,82 <BR>
 POKE 56876,4</B>
 </CODE>
-<BR><BR><br>
+<BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;and your problems
 should be over. To start
 the new version of the
-game,&enter GO TO 40. <BR><br>
+game,&enter GO TO 40. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Of course, if you don't
 want to go through this
@@ -166,7 +175,8 @@ process each time,
 you can save it on
 another tape. So, once
 you've sorted out the
-leads for a SAVE, enter: <BR><BR><br>
+leads for a SAVE, enter: <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<CODE><B>SAVE &quot;JETSET&quot; LINE 10 <BR>
 SAVE&nbsp&quot;JSW&quot; CODE 32769,32768</B>
@@ -174,11 +184,14 @@ SAVE&nbsp&quot;JSW&quot; CODE 32769,32768</B>
  <i>(Ross Holman, Cameron Else in Your Spectrum issue 06)</i> 
 
 <br><hr>
-I HAVE managed recently to get my hands on a copy of the long-awaited Jet Set Willy. This game struck me as an example of the very finest games design possible and is a good target for other software houses but I was rather annoyed to find&nbsp;that there are one or two severe bugs in it.<br>
+I HAVE managed recently to get my hands on a copy of the long-awaited Jet Set Willy. This game struck me as an example of the very finest games design possible and is a good target for other software houses but I was rather annoyed to find&nbsp;that there are one or two severe bugs in it.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;After playing the game for some time I found a room by the name of "Dr Jones will never believe this".<br>
+&nbsp;&nbsp;&nbsp;&nbsp;After playing the game for some time I found a room by the name of "Dr Jones will never believe this".
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;From the time I left the room I found that unusual things began to happen in certain rooms. For a start, all the nasties in the chapel disappeared, the UFO in the bridge disappeared, and if you enter either the kitchen or the east wall base or inside the mega trunk one by one all your lives disappear.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;From the time I left the room I found that unusual things began to happen in certain rooms. For a start, all the nasties in the chapel disappeared, the UFO in the bridge disappeared, and if you enter either the kitchen or the east wall base or inside the mega trunk one by one all your lives disappear.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Another rather less cataclysmic bug is that when on the rope hanging over the beach, if you swing until the rope is at full swing and then jump off, so that you hit the top of the screen, you suddenly re-appear half way under the sand. Surely this could be corrected?
  <i>(Joseph Robson in Sinclair User issue 27)</i> 
@@ -383,12 +396,14 @@ mystery!)
 61:[unprintable]<br>
 62:[unprintable]<br>
 63:[unprintable]<br>
-</td></tr></table></center><br>
+</td></tr></table></center>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 
 <br><hr>
-MERGE the short loader program, stop the tape when loaded, insert the pokes you want into a new line 35, then run and start the tape again.<br>
+MERGE the short loader program, stop the tape when loaded, insert the pokes you want into a new line 35, then run and start the tape again.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;POKE 38240,0 - removes all moving objects; POKE 36477,1 - stops death when falling; POKE 37982,0 -&nbsp;allows you to walk through nasties; POKE 35899,0 - infinite lives; POKE 35123,0 - disable any moving object; POKE 38207,0 - disable Maria; POKE 36545,0 banyan tree easier; POKE 36358,0 - extra zip when jumping.
  <i>(Paul McCartan in Sinclair User issue 39)</i> 
@@ -398,32 +413,37 @@ MERGE the short loader program, stop the tape when loaded, insert the pokes you 
 <TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr04/yr04_60.htm#JSW2">http://www.users.globalnet.co.uk/~jimg/yr04/yr04_60.htm#JSW2</a>&nbsp; <i>(Andrew Pennell in Your Spectrum issue 04)</i> 
 
 <br><hr>
-I RECENTLY bought Jet Set Willy produced by Software Projects. It is an excellent game and I have found a way of poking in a code so that it is possible to have infinite lives. It has proved very useful and has enabled me to discover all the rooms and find the items without making the game boring. To obtain it you have to type in before loading:<br>
+I RECENTLY bought Jet Set Willy produced by Software Projects. It is an excellent game and I have found a way of poking in a code so that it is possible to have infinite lives. It has proved very useful and has enabled me to discover all the rooms and find the items without making the game boring. To obtain it you have to type in before loading:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br>35 POKE 35899,0 (return)<br>
 MERGE "" (return)<br>
 Load until 'OK' statement<br>
 Stop tape<br>
 RUN<br>
-Start tape<br><br>
+Start tape<br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;When the game has loaded you will find that when you are killed you will lose no lives. A word of warning - never fall into a room. If you do and find that you die continuously, press Caps Shift and Break and you will have to start all over again.
  <i>(David Gibson in Sinclair User issue 28)</i> 
 
 <br><hr>
-OUR THANKS to all who have sent letters revealing hints and tips for Jet Set Willy from Software Projects. First, infinite lives. To obtain immortality, load the program with MERGE "", stop the tape, and ENTER: 37 POKE 35899,0. Then ENTER:&nbsp;GOTO 10 and re-start the tape.<br>
+OUR THANKS to all who have sent letters revealing hints and tips for Jet Set Willy from Software Projects. First, infinite lives. To obtain immortality, load the program with MERGE "", stop the tape, and ENTER: 37 POKE 35899,0. Then ENTER:&nbsp;GOTO 10 and re-start the tape.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Pagett also tells of a way of disabling the sprite graphics to render the mansion virtually trouble-free. Using the preceding method, add the line: 35 FOR F=40000 TO 40191: POKE F,0:NEXT F: FOR F=43780 TO 46595: POKE F,0:NEXT F:FOR F=46845 TO 49178:POKE F,0:NEXT F.
  <i>(L Griffiths, Ian Rogers, David Pagett in Sinclair User issue 29)</i> 
 
 <br><hr>
-Finally, the last word should go to Software Projects. Now that the game has been won - see news story - the company has revealed a means of bypassing the so-called bug which involved instant death in several locations after visiting the Attic.<br>
+Finally, the last word should go to Software Projects. Now that the game has been won - see news story - the company has revealed a means of bypassing the so-called bug which involved instant death in several locations after visiting the Attic.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;It was not a bug at all but a deliberate attempt to make the game even more difficult in the later stages. To negate the feature, load the first part of the program with MERGE "". Then ENTER: CLEAR 32767 and LOAD "" CODE. Start the tape. When the main program has loaded, ENTER: POKE 60231,0 POKE 42183,11 POKE 59901,82 and POKE 56876,4. To play the new version, ENTER: GOTO 40. To save the new version, ENTER: SAVE "JETSET" LINE 10 and SAVE "JSW" CODE 32768,32768.
  <i>(Software Projects in Sinclair User issue 29)</i> 
 
 <br><hr>
-And if there are still Jet Set Willy fanatics out there I have some useful pokes. For any of the pokes type in CLEAR 30000: LOAD "" CODE: (put all pokes here separated by colons) : RANDOMISE USR 33792 (ENTER). Start your tape player.<br>
+And if there are still Jet Set Willy fanatics out there I have some useful pokes. For any of the pokes type in CLEAR 30000: LOAD "" CODE: (put all pokes here separated by colons) : RANDOMISE USR 33792 (ENTER). Start your tape player.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The pokes are: POKE 36353,44 - allows you to be sucked up a left hand wall; POKE 35899,0 - infinite lives; POKE 34795,x - type x as the number of the starting room, 0 to 60; POKE 36477,1 - stops you dying when you fall from a height; POKE 59900,255 - an anti-attic poke; POKE 41983,255 - get the tap from the bathroom, jump on your bed and see what happens; POKE 34275,10 - access to any room by pressing nine and another number key; POKE 36358,0 - jump higher than normal; POKE 35123,0 - deletes all baddies which move and removes ropes.
  <i>(Ian Comerford in Sinclair User issue 38)</i> 
@@ -438,19 +458,5 @@ And if there are still Jet Set Willy fanatics out there I have some useful pokes
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

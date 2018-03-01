@@ -59,7 +59,8 @@ just try your Leyrod!
  <i>(Evan Mason in Your Spectrum issue 21)</i> 
 
 <br><hr>
-On the first level search for a bow and trade this for a sickle with an elf. Cutting herbs with this will gain an ENERGISE spell.<br>
+On the first level search for a bow and trade this for a sickle with an elf. Cutting herbs with this will gain an ENERGISE spell.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Also, under a slab there lies a jewel. Trade it likewise for a message which, taken to yet another slab, will reveal the second level: the Lost Vaults - do you not shudder? Those who wish to escape this level must find the letters EXIT - subtlety here! - and arrange them on top of the E to reveal yet another layer.
  <i>(Master Adventurer Walters Of Knotty Gree in Sinclair User issue 40)</i> 
@@ -78,7 +79,8 @@ Hendrik von Braun of London, stepped up to offer help with Dragon Torc ... sligh
 <tr><td>Immunity</td><td>58337,255</td></tr>
 </table><HR>I assume this POKE gives you immunity as I left the game running for two hours with
 the character in a spot where I would constantly lose energy, and it was still running when
-I went back to it...<br>
+I went back to it...
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -92,19 +94,5 @@ I went back to it...<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

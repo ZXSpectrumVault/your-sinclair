@@ -23,25 +23,32 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>Level 1<br>
+<TR><TD>Level 1
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Use the Paint Gun for the snipers and when you get to the end of the level, swap
 to the Walther PPK. When you've shot him, run to the end of the level and you're
-out.<br>
+out.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 2
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Choose the night glasses (binoculars) and swap to them to tell the music lovers
 from the snipers. Shoot the snipers on your way out, and as you don't have to
-kill anyone to leave, just run out.<br>
+kill anyone to leave, just run out.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 3
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Let the weapons counter count down, 'cos you don't need any weapons for this.
 Just leg it across the level, ducking and jumping, making sure you stop to avoid
-the falling pipes. Just run to the end of the level to finish<br>
+the falling pipes. Just run to the end of the level to finish
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 4<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 4
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;This one's quite hard. Choose the bazooka and look for the agent with his
 explosive milk-bottles. Hit him three times and he'll disappear.
@@ -58,7 +65,8 @@ level and shoot the helicopter with the&nbsp;bazooka. Hooray!
 <td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
 </TR>
 <tr><td>Infinite Lives</td><td>42005,201</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -74,7 +82,8 @@ This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/You
 <br><hr>
 Infinite lives and/or start on any level, play the tape from the start. If the
 level poke is installed, you will start on level 1, but by pressing ABORT, (3
-and 4 simultaneously) you will go to the next level.<br>
+and 4 simultaneously) you will go to the next level.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  20 CLEAR 32970: LET t=0
@@ -109,19 +118,5 @@ and 4 simultaneously) you will go to the next level.<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

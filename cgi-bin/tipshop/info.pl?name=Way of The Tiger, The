@@ -31,7 +31,8 @@
 <tr><td>Infinite lives, unarmed combat level</td><td>45554,183</td></tr>
 <tr><td>Infinite lives, pole fighting level</td><td>45178,201</td></tr>
 <tr><td>Infinite lives, sword fighting level</td><td>45806,201</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -43,7 +44,8 @@ is where the routine lives. There's no easy cure to this either, since The Way
 Of The Tiger uses all of the memory at one time or another. Simply type it in
 and run it, and, if you don't get "CHECKSUM ERROR", play the original cassette
 from the start - it'll load and work as normal, but you'll be a lot more
-resilient!<br>
+resilient!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 10 REM WAY OF THE TIGER
@@ -68,19 +70,5 @@ resilient!<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

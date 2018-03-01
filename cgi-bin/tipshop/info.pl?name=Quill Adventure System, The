@@ -27,7 +27,8 @@
 <I>The Quill</I> which, although
 being very good, has four
 points that I may be able to
-clarify for other readers. <BR><br>
+clarify for other readers. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	Firstly, setting up a maze.
 The way I do this is to have
@@ -38,7 +39,8 @@ from 'room 1' and return to
 'room 1', and you can have
 exits from each room in all
 directions, ie, North, South,
-West and so on. <BR><br>
+West and so on. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	The way out of the maze is a
 little more difficult; I find it
@@ -49,41 +51,51 @@ location, for instance, exits the
 maze. You can, of course, even
 have a letter&nbsp;for your exit code,
 eg, D, E, W, and then use the
-letter in a 'help' message. <BR><br>
+letter in a 'help' message. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	To make a creature follow
-your character, you can type: <BR><BR><br>
+your character, you can type: <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>AT 10. ZERO 11. PRESENT 12. SET 14.
-LET 5-4</B> <BR><BR><br>
+LET 5-4</B> <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;as the first entry in status table,
-followed by: <BR><BR><br>
+followed by: <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>ZERO 11. NOTZERO 13. ABSENT 12.
 CREATE 12. MESSAGE &quot;The Rat
-followed me&quot;</B><BR><BR><br>
+followed me&quot;</B><BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;as the second entry in status
-table. Finally, enter: <BR><BR><br>
+table. Finally, enter: <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>PRESENT 12. ZERO 5. CHANGE 25.
 MESSAGE &quot;The Rat is tearing at my
-jugular&quot;. SET 18</B><BR><BR><br>
+jugular&quot;. SET 18</B><BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;as third entry in status table.
 SET 18 refers to another entry
 in the status table which causes
-a score turn end. <BR><br>
+a score turn end. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	One thing that you didn't
 mention in the review was how
-to use BRIGHT and FLASH. <BR><BR><br>
+to use BRIGHT and FLASH. <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>E MODE Cap Shift 9 (FLASH on) <BR>
 E MODE Cap Shift 8 (FLASH off) <BR>
 E MODE 9 (BRIGHT on) <BR>
-E MODE 8 (BRIGHT off)</B> <BR><BR><br>
+E MODE 8 (BRIGHT off)</B> <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;I'm not sure just what you
 mean by 'if A is true or if B is
@@ -99,7 +111,8 @@ do something in location 100
 which would create a 'gun' in
 location 5. You could do it by
 entering the following in the
-event table: <BR><BR><br>
+event table: <BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>PRESENT 14. MESSAGE &quot;THAT MADE
 AN IMPRESSION!&quot;. PAUSE 50. <BR>
@@ -119,19 +132,5 @@ GOTO 100. </B><BR>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -23,43 +23,62 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>Screen 01: Dead simple<br>
+<TR><TD>Screen 01: Dead simple
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 02: Knock beacons off then kill ring before other balls<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 02: Knock beacons off then kill ring before other balls
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 03: Get P then bong aliens while in centre of the screen<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 03: Get P then bong aliens while in centre of the screen
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 04: Get jump then bump spider, stay near centre of the screen and kill<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 04: Get jump then bump spider, stay near centre of the screen and kill
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 05: Get jump to high, then grab jump and P, then bump<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 05: Get jump to high, then grab jump and P, then bump
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 06: Get P, then bonus, then ring<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 06: Get P, then bonus, then ring
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 07: Power 3/4 of max, get P<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 07: Power 3/4 of max, get P
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 08: Power 3/4 of max, get P by jumping, bonus then jump<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 08: Power 3/4 of max, get P by jumping, bonus then jump
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 09: Power 3/4 of max. Stay near centre, just keep going<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 09: Power 3/4 of max. Stay near centre, just keep going
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 10: Collect bonus, if any, then the P, kill<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 10: Collect bonus, if any, then the P, kill
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 11: Power 1/3 then bump away<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 11: Power 1/3 then bump away
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 12: Power 1/2, no jump, bump<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 12: Power 1/2, no jump, bump
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 13: Power 1/2, no jump, collect jump<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 13: Power 1/2, no jump, collect jump
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 14: Power 1/2, collect every symbol<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 14: Power 1/2, collect every symbol
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 15: Low power, only collect if desperate<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 15: Low power, only collect if desperate
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 16: 1/2 power, preserve!<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 16: 1/2 power, preserve!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 17: Full except 2, easy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 17: Full except 2, easy
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 18: 1 power point, bonus<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 18: 1 power point, bonus
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen 19: Get bonus, power high<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen 19: Get bonus, power high
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Screen 20: No P, get P's
  <i>(YS Smash Tips)</i> 
@@ -84,7 +103,8 @@ the level you died on, instead of back to level 1.
 <LI>Because of the way the POKE works, you have to have a normal game BEFORE using
 the POKE, as the variables aren't set up at first, and it tries to start the game
 on level 0, and crashes.
-</UL><br>
+</UL>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -103,19 +123,5 @@ on level 0, and crashes.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -23,33 +23,44 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>Hitormis requires a book of spells, and will say "Fe2Cu".<br>
+<TR><TD>Hitormis requires a book of spells, and will say "Fe2Cu".
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Potbellius requires a beer tankard, and will give you an eye.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Potbellius requires a beer tankard, and will give you an eye.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Offalorien requires a pistol, and will give you a phone.  He will say
-"Fruit 4 me". If you give him four fruits, then&nbsp;he will give you Skull key 2.<br>
+"Fruit 4 me". If you give him four fruits, then&nbsp;he will give you Skull key 2.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Willy requires a whistle and gives you a pistol.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Willy requires a whistle and gives you a pistol.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Blotto requires a carrot, and will give you an iron<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Blotto requires a carrot, and will give you an iron
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;'B I' is written on a door which can be unlocked with a Bee and then an Eye.
 Inside you'll find the invisibility potion, which will enable you to pass the
-sleeping dragon.<br>
+sleeping dragon.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Hitormis will walk on and give you the clue "South West?".<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Hitormis will walk on and give you the clue "South West?".
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;From the dragon's cave you will get Skull key 1.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;From the dragon's cave you will get Skull key 1.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;'Fe2Cu' will be given as a clue.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;'Fe2Cu' will be given as a clue.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;You must give an iron to the&nbsp;policeman, and he will give you a bee.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;You must give an iron to the&nbsp;policeman, and he will give you a bee.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;'IC1bB4UXit' will be spoken by Potbellius when you first meet him.  If you
 give him the money bag, then a door in the pub unlocks.  The money bag is
 found in a room which is pitch black unless you carry the candle, which is
-found just outside.<br>
+found just outside.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you put the ring on the phone, then it will ring.  After a while, a
 message will appear.  It will read "Make red flag", and you must put a
@@ -58,16 +69,19 @@ locked door which is opened with a 'X', found in another hut.  To get into
 the annex hut, you must unlock the outside door with an acorn.  There will
 be a picture of an acorn on the door, and the acorn will be nearby in the
 village.  The sickle can be found in the pub room, and when put on the
-hammer, the Skull 3 key will be formed.<br>
+hammer, the Skull 3 key will be formed.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you put all three Skull keys in the Skull door, then the Skull will
-open, giving you access to the Mauron caverns.<br>
+open, giving you access to the Mauron caverns.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; In one&nbsp;of the secret caverns, you will find a pepper pot.  Mauron's only
 weakness is the fact that he is allergic to pepper.  You must fight your
 way to his throne past moats full of crocodiles, ravines, darts, arrows,
 etc.  Once there, you must use the pepper pot before he saps all of your
-stamina, and he will sneeze himself to death.<br>
+stamina, and he will sneeze himself to death.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;You must take the orb, drop through the correct trap door to the caverns,
 and return the way you came, without being killed by the sentry tomatoes.
@@ -83,7 +97,8 @@ Once in the village, you must put the orb in the cup to win.
 </TR>
 <tr><td>Infinite Lives</td><td>57318,0</td></tr>
 <tr><td>Infinite Energy</td><td>56833,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -93,7 +108,8 @@ Once in the village, you must put the orb in the cup to win.
  <i>(Cover Tape in Your Sinclair issue 40)</i> 
 
 <br><hr>
-Infinite lives, play tape from the start...<br>
+Infinite lives, play tape from the start...
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 CLEAR 25e3
@@ -121,19 +137,5 @@ Infinite lives, play tape from the start...<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

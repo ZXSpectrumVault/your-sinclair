@@ -23,7 +23,8 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Cheat modes</i></b></font></td></tr>
-<TR><TD>When playing Spectres you get one extra man every 3,000 points but if you reach 12,000 points the space at the top of the screen where the number of the men remaining is usually shown fills up with little dots. When that happens you seem to have an endless number of men. When I reached that point I left the game playing and noticed that every time a ghost got a man and took him to its den the space where the number of men left is usually shown did not change.<br>
+<TR><TD>When playing Spectres you get one extra man every 3,000 points but if you reach 12,000 points the space at the top of the screen where the number of the men remaining is usually shown fills up with little dots. When that happens you seem to have an endless number of men. When I reached that point I left the game playing and noticed that every time a ghost got a man and took him to its den the space where the number of men left is usually shown did not change.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;I watched the game play for another 10 minutes but it never ended. This bug allows the player to move round the maze, taking no notice of the ghosts and, like Jetpac, to amass a very big score. It is impossible to start a new game without pulling out the&nbsp;power plug and loading the game again.
  <i>(Andrew Horsfield in Sinclair User issue 23)</i> 
@@ -36,7 +37,8 @@
 <td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
 </TR>
 <tr><td>Infinite Lives</td><td>25680,183</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -50,19 +52,5 @@
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

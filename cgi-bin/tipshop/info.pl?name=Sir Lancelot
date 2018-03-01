@@ -24,7 +24,8 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>For a lot of lives you'll
-need the following program:<br>
+need the following program:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	<TABLE >
 	<TR><TD WIDTH="200" BGCOLOR=gray>
@@ -35,7 +36,8 @@ need the following program:<br>
 40 PRINT AT 1,3;&quot;Load Main Headerless Block&quot;<BR>
 50 RANDOMIZE USR 50000
 </CODE>	</TD></TR>
-	</TABLE><br>
+	</TABLE>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The 'x' in line 30 should be
 replaced with the number&nbsp;of
@@ -60,19 +62,5 @@ coming Guinevere!
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

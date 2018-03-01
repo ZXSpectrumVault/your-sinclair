@@ -24,24 +24,30 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>Fairly near the start there's an axe.  This can kill most nasties but some
-need other weapons.<br>
+need other weapons.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;There are two books, one green, the other magenta.  From one you learn
 about magic, and the other tells you that "Heal potions smell acidy", and
-"Poison potions smell sour".<br>
+"Poison potions smell sour".
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you find a potion, examine it and discover what it smells like.  A blue
 wand throws balls of magic, but this can only be used if you've learned
-about magic.<br>
+about magic.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Another weapon is a red stick.  Armed with the axe, stick and wand you can
-kill all the nastles.<br>
+kill all the nastles.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;You may discover a coin.  Take this to a box with the numbers one to five
-and use it, and then you can take an object from it.<br>
+and use it, and then you can take an object from it.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;When the power from the globe of Invulnerability runs out, use the power
-pack while inside the globe to restore power.<br>
+pack while inside the globe to restore power.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;You can go through fires if you are holding a poker.
  <i>(David McCaughey in Your Sinclair issue 13)</i> 
@@ -60,7 +66,8 @@ pack while inside the globe to restore power.<br>
 Nothing at all! I just included it here because I found it :)
 Actually, one switches off the detection, while the other just stops
 the energy being drained when you do hit something.
-<BR><BR><br>
+<BR><BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -74,19 +81,5 @@ the energy being drained when you do hit something.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

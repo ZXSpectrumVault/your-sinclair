@@ -58,15 +58,18 @@ first on the tape). Now reconnect the lead and start the
 tape up again. When the 'OK'
 message appears, pause the
 tape again and type in the
-following commands:<br>
+following commands:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<H4>POKE 24791,251: POKE 24792,207: RANDOMISE USR 24740</H4><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<H4>POKE 24791,251: POKE 24792,207: RANDOMISE USR 24740</H4>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;You should now get a
 garbage message on-screen -
 ignore it! Type 'NEW', press
 Enter and type in the
-following listing:<br>
+following listing:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<H4>100 READ N<BR>
 110 FOR X=62421 TO 62420+N<BR>
@@ -80,19 +83,24 @@ and add it to the above
 program. Each line does
 something different, but only
 one can be used at a time!
-For infinite lives:<br>
+For infinite lives:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<H4>150 DATA 11, 62, 0, 50, 240, 231, 50, 244, 231, 195, 242, 103</H4><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<H4>150 DATA 11, 62, 0, 50, 240, 231, 50, 244, 231, 195, 242, 103</H4>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;To stay immortal after finding
-a gem:<br>
+a gem:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<H4>150 DATA 11, 62, 0, 50, 153, 148, 50, 154, 148, 195, 242, 103
 </H4>
 To make the weapons appear
-in the same places each game:<br>
+in the same places each game:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<H4>150 DATA 8, 62, 0, 50, 199, 232, 195, 242, 103</H4><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<H4>150 DATA 8, 62, 0, 50, 199, 232, 195, 242, 103</H4>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;All you have to do now is
 type 'RUN', press Enter and
@@ -101,7 +109,8 @@ and thanks to Chris Wood
 without whose inspiration you
 would have been typing in
 about 500 bytes of machine
-code instead.<br>
+code instead.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	<TABLE  WIDTH="410" BGCOLOR=gray>
 	<TR><TD>
@@ -118,7 +127,8 @@ code instead.<br>
 190 DATA 32, 13, 4, 0, 128, 217, 3
 </CODE>
 	</TD></TR>
-	</TABLE><br>
+	</TABLE>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<FONT  SIZE="2"><B>The special loader you'll need to use if you stand any chance of extending your time in <I>Underwurlde</I>.</B></FONT>
  <i>(Dave Nicholls in Your Spectrum issue 11)</i> 
@@ -135,7 +145,8 @@ code instead.<br>
 <tr><td>Weapons Don't Move</td><td>59591,0</td></tr>
 <tr><td>Lives = x</td><td>36980,x (x= 1-255)</td></tr>
 </table>
-<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI<br>
+<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -144,7 +155,8 @@ code instead.<br>
 <TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr11/yr11_44.htm#Hacker">http://www.users.globalnet.co.uk/~jimg/yr11/yr11_44.htm#Hacker</a>&nbsp; <i>(Dave Nicholls in Your Spectrum issue 11)</i> 
 
 <br><hr>
-First off, type in the following special header program.<br>
+First off, type in the following special header program.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 100 CLEAR 32000
@@ -157,11 +169,13 @@ First off, type in the following special header program.<br>
 170 DATA 221,33,12,128,17,17,0,175,205,194
 180 DATA 4,201,0,175,66,85,83,84,69, 82,83,32
 190 DATA 32,13,4,0,128,217,3
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Run this and Save it onto a blank tape (following the instructions provided on
 screen). Once done, rewind the tape and clear your Spectrum using the command
-RANDOMIZE USR 0.<br>
+RANDOMIZE USR 0.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Now type CLEAR 25000, press Enter, type LOAD "" and start up your tape.
 When the header's loaded, take out your tape and replace it with the
@@ -169,14 +183,17 @@ Underwurlde master.  Remove the lead from your cassette machine and listen
 to the tape, pausing it just after the program header (this is the short
 section that's heard first on the tape).  Now reconnect the lead and start
 the tape up again.  When the 'OK' message appears, pause the&nbsp;tape again and
-type in the following commands:<br>
+type in the following commands:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 POKE 24791,251:  POKE 24792,207 RANDOMIZE USR 24740
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;You should now get a garbled message on screen - ignore it.  Type New,
-press Enter and type in the following listing.<br>
+press Enter and type in the following listing.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 100 READ N
@@ -184,23 +201,31 @@ press Enter and type in the following listing.<br>
 120 READ Y: POKE X,Y
 130 NEXT X
 140 RANDOMIZE USR 62374
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The final stage is to select one of the following Data lines and add it to
 the above program.  Each line does something different, but only one can be
-used at a time!<br>
+used at a time!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;For infinite lives:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;For infinite lives:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;150 DATA 11,62,0,50,240,231,50,244,231,195, 242,103<br>
+&nbsp;&nbsp;&nbsp;&nbsp;150 DATA 11,62,0,50,240,231,50,244,231,195, 242,103
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;To stay immortal after finding a gem;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;To stay immortal after finding a gem;
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;150 DATA 11,62,0,50,153,]48,50,154,148, 195,242,103<br>
+&nbsp;&nbsp;&nbsp;&nbsp;150 DATA 11,62,0,50,153,]48,50,154,148, 195,242,103
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;To make the weapons appear in the same places each game;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;To make the weapons appear in the same places each game;
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;150 DATA 8,62,0,50,199,232,195,242,103<br>
+&nbsp;&nbsp;&nbsp;&nbsp;150 DATA 8,62,0,50,199,232,195,242,103
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;All you have to do now is type Run, press Enter and re- start the tape. Good
 luck!
@@ -216,19 +241,5 @@ luck!
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

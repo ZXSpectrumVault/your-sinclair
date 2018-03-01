@@ -30,7 +30,8 @@
 </TR>
 <tr><td>Infinite Lives</td><td>48440,0</td></tr>
 <TR><TD>Lives=x</TD></TR>47633,X (x=1-255)</TD></TR>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -40,26 +41,32 @@
  <i>(Cover Tape in Your Sinclair issue 40)</i> 
 
 <br><hr>
-A quick hack for infinite lives might aid your progress.<br>
+A quick hack for infinite lives might aid your progress.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 10 CLEAR 60000: LOAD ""CODE: POKE 65522,252
 20 FOR N=64512 TO 64517: READ A: NEXT N
 30 PRINT USR 64753
 40 DATA 50,56,189,195,0,104
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;This second hack is for the more serious typists who want to control cheat modes
 from within the game! Once you've loaded the Batty program into this routine you
 can press any one of the keys below to get the feature you require. You don't
 have to press any of these keys, but then that makes typing the routine in a bit
-of a waste!<br>
+of a waste!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Q Turns Infinite lives on<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Q Turns Infinite lives on
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;W Turns Infinite lives off<br>
+&nbsp;&nbsp;&nbsp;&nbsp;W Turns Infinite lives off
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;E Gives three more lives if you lose one<br>
+&nbsp;&nbsp;&nbsp;&nbsp;E Gives three more lives if you lose one
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 CLEAR 6e4: LET t=0
@@ -104,19 +111,5 @@ of a waste!<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

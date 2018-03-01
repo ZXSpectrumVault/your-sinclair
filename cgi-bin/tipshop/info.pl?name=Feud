@@ -24,48 +24,65 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>Always look for herbs which make up missile spells like Fireball, Lightning
-and Sprites as these are more effective.<br>
+and Sprites as these are more effective.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once you've armed yourself with a spell, never leave the book open at the
-correspon- dance page as the spell will disappear if you do.<br>
+correspon- dance page as the spell will disappear if you do.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Beware when entering the herb garden (bottom left on the map) as there is a
-guardian which chases you and drains your energy.<br>
+guardian which chases you and drains your energy.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;To kill Leanoric quickly, simply arm yourself with three missile spells and
 wait by your cauldron.&nbsp; Leanoric will appear after a while, totally
-vulnerable to your spells.<br>
+vulnerable to your spells.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you find that Leanoric has a herb before you, just move into a
 neighbouring screen and wait for a minute or two.  Then re-enter the screen
-and the herb will be back again.!<br>
+and the herb will be back again.!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Here are the spells you need:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Here are the spells you need:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Teleport - this spell will teleport from anywhere you like back to your cauldron<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Teleport - this spell will teleport from anywhere you like back to your cauldron
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Protect - this one will make you invulnerable for a short while<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Protect - this one will make you invulnerable for a short while
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Sprites - this is a missile spell<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Sprites - this is a missile spell
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Zombie - this will create a slow moving zomble that'll follow you around.
 If Leanoric is on the screen the zombie will appear on top of him, draining
-his energy<br>
+his energy
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Swift - this allows you to move at twice the speed for a short time<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Swift - this allows you to move at twice the speed for a short time
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Freeze - if Leanoric is on the screen, this will stop him from moving<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Freeze - if Leanoric is on the screen, this will stop him from moving
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Doppleganger - will produce a replica of you which will divert Leanoric's
-attention while you do other things<br>
+attention while you do other things
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Lightning - a missile spell<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Lightning - a missile spell
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Invisible - guess what this does?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Invisible - guess what this does?
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Reverse - will make Leanoric move in the opposite direction to the one he wants to<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Reverse - will make Leanoric move in the opposite direction to the one he wants to
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Heal - self explanatory<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Heal - self explanatory
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Fireball - a missile spell
  <i>(David McCandless in Your Sinclair issue 18)</i> 
@@ -79,14 +96,16 @@ attention while you do other things<br>
 </TR>
 <tr><td>Infinite Energy</td><td>51425,0:51447,0</td></tr>
 </table>
-<BR><BR><B>If anyone finds&nbsp;out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B><br>
+<BR><BR><B>If anyone finds&nbsp;out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
 </td></tr>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
 <TR><TD>For infinite energy, Merge the loader and add this to line 4 before the
-RANDOMIZE USR;<br>
+RANDOMIZE USR;
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;LET a=51425: POKE a,0: POKE a+22,0: POKE a+68.201:
  <i>(YS Smash Tips)</i> 
@@ -101,19 +120,5 @@ RANDOMIZE USR;<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

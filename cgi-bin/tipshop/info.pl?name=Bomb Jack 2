@@ -24,26 +24,32 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>Timing is most important, especially when you're jumping onto short platforms
-inhabited by monsters.<br>
+inhabited by monsters.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;It's a good idea to get off each screen before the baddies start jumping.
 The first baddies will jump around randomly, and not follow you&nbsp;about.  If
 you hang about long enough for them to mutate into the next stage they
 become intelligent and home in on you.  Screens are impossible to finish
-once they get to this stage, so try and clear them beforehand.<br>
+once they get to this stage, so try and clear them beforehand.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;It's important to learn which platforms on which screen can be jumped too,
-as you won't have time to stop and think about it while playing.<br>
+as you won't have time to stop and think about it while playing.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The secret of sack collecting is to suss the order in which you must get
 the sacks, as collecting them in the wrong order means you have to pick one
-out of order.  So try not to get out of sequence.<br>
+out of order.  So try not to get out of sequence.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;There are two sorts of screens with special techniques:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;There are two sorts of screens with special techniques:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;1. Some screens have only one route around them. First go one way to pick up a
 sack, backtrack to pick&nbsp;up the next sack, then the other way around for the
-third. Try not to get dizzy!<br>
+third. Try not to get dizzy!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;2. On others, one platform acts as a 'key' linking
 two sets of platforms. This is usually the one you start on, and thus where the
@@ -59,7 +65,8 @@ platform numerous times, try not to kill the baddies unless totally necessary.
 <td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
 </TR>
 <tr><td>Infinite Lives</td><td>25379,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -92,19 +99,5 @@ This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/You
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

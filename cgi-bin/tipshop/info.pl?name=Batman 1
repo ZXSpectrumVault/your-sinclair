@@ -26,7 +26,8 @@
 <TR><TD>To complete the game, once you have all the seven parts, find the room
 where the pieces are all assembled on two stump like posts.  Use the parcel
 to jump onto the Batcraft, move to the front of the car and push onto the
-front of the cockpit.  The tune will play, and that's the end of the game.<br>
+front of the cockpit.  The tune will play, and that's the end of the game.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In the boots room, you can avoid the henchmen very easily using the
 following method.  It is possible to balance on the edge of the blocks and
@@ -56,7 +57,8 @@ die if you fell into certain bits. If&nbsp;this happens, enter POKE 33908,192 to
 immunity back off. Then when you die, switch it back on</b>
 <BR>
 The "Fast Batman" POKEs only makes you go faster in empty rooms. Try it
-combined with a "Go Faster" - ZOOM!!!<br>
+combined with a "Go Faster" - ZOOM!!!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -75,19 +77,5 @@ combined with a "Go Faster" - ZOOM!!!<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -29,7 +29,8 @@ quarters of the way across the screen. When the dock comes, dock as usual, but
 after you have docked press keys for back and fire and keep your fingers on the
 keys until your ship has filled up with nine men. When it is full, carry on
 playing and then drop your men off. You will now get a big bonus. Now manoeuvre
-yourself to the centre of the river and wait.<br>
+yourself to the centre of the river and wait.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;You will see two blue strips coming towards you. Go between them (this will
 take a bit of practice). Now you will proceed to the next sheet.
@@ -72,7 +73,8 @@ with the number required to get the 5000 point bonus.
 <tr><td>Lives = x</td><td>33199,x (x= 1-255)</td></tr>
 </table>
 <BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI</B>
-<BR><BR><B>If anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B><br>
+<BR><BR><B>If anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -86,19 +88,5 @@ with the number required to get the 5000 point bonus.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

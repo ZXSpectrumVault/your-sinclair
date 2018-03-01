@@ -23,7 +23,8 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>Screen One:<br>
+<TR><TD>Screen One:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;First, whip the left hand brick out from under the guard as he walks along the
 platform. Then press duck/fire, fire, duck/fire, fire, duck/fire, fire. Get the
@@ -31,18 +32,22 @@ key and work your way up to the exit. Get the gems on either side of the screen
 if you must, but don't worry about them. Enter the centre block from the side
 and get the three trinkets, not forgetting the other three hidden in the brick
 underneath. Then wait for the bird to bounce off the wall on your side&nbsp;and pass
-you, and jump on the platform behind him and scoot to the exit.<br>
+you, and jump on the platform behind him and scoot to the exit.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen Two:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen Two:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Step forward one brick and press fire. The animal will walk towards you and drop
 down the hole. Press duck/fire and step forward and press fire. The same thing
 happens. Now press duck/fire, step forward, jump/fire, fire and the creature
 will fall down again. Now repeat that last sequence, and the creatures will
 begin to fall down the hole. Cross the gap by placing a brick in it, stepping
-over and then removing it again. Then you're free to get the key and get out.<br>
+over and then removing it again. Then you're free to get the key and get out.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen Three:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen Three:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;First, place two bricks in the right hand corner of the compartment. Wait until
 the fireball goes over your head, then jump, fire, jump, fire and&nbsp;you're into
@@ -53,14 +58,18 @@ the bird, get the key and release the spider, jumping out of the way to let it
 pass. Jump down into the next bit and shoot a fireball at the guard. Get the
 bag, and headbutt the brick under the bird. Get the trinket and climb up to&nbsp;the
 last bit. Wait until the llamas leave you enough space and then duck/fire,
-forward, fire, jump, duck/fire, forward and duck/fire- then you're in.<br>
+forward, fire, jump, duck/fire, forward and duck/fire- then you're in.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen Four:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen Four:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Well, yes. Okay, so you can walk straight across, but it's a good idea to&nbsp;spend
-a little time rescuing the angels at the top.<br>
+a little time rescuing the angels at the top.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen Five:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen Five:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Very tricky. As fast as you can, drop a brick in front of you, back up one and
 drop another brick beside it (the devil will drop down on top of you if you
@@ -69,9 +78,11 @@ his brick. Let him walk across it and jump over him, destroying the bridge
 behind you. Jump and steer yourself underneath to get the key. You'll probably
 get killed if you don't get off floor level as soon as possible. Otherwise, make
 a staircase again and this time go up and over the spider and drop down into the
-exit.<br>
+exit.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Screen Six:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Screen Six:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Gotta be fast. Wait until the bird bounces off the bricks and the devils drop.
 Press duck/fire, forward, fire, jump, fire, jump, fire, jump, duck/fire. Wait
@@ -103,7 +114,8 @@ infinite lives. Simple, innit?
 <tr><td>Infinite Fireballs</td><tD>50831,0</td></tr>
 <tr><td>Immunity</td><td>49334,201</td></tr>
 <tr><td>Infinite time</td><td>37995,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -122,19 +134,5 @@ infinite lives. Simple, innit?
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

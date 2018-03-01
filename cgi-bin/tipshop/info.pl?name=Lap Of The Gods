@@ -24,11 +24,13 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>First collect the effigies in the first two mazes (called DARWAIN and
-PRIMEOUS) to get Yellow Slab Acid, Blue Block Digger, and Hover Power.<br>
+PRIMEOUS) to get Yellow Slab Acid, Blue Block Digger, and Hover Power.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;With these it should be possible to go round the other mazes and just keep
 digging until you find&nbsp;the crystals. I think the idea is to collect them
-in order, ie.  first PRIMEOUS, then SECONDUS, etc.<br>
+in order, ie.  first PRIMEOUS, then SECONDUS, etc.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;When you have finished the game, the playing window goes black and white
 and scrolls upward.  You are then asked for your name for the hi-score
@@ -49,7 +51,8 @@ built in, accessible by pressing FIRE.
 to pick up, but if anyone finds out otherwise, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B>
 <br><br>Also, enter your name in the high-score table as CHEAT. Next time you play,
 you will&nbsp;have an extra menu called Cheat Mode. This turns on all the special modes.
-This cheat comes courtesy of Clive Brooker, the author. Hurrah!<br>
+This cheat comes courtesy of Clive Brooker, the author. Hurrah!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -63,19 +66,5 @@ This cheat comes courtesy of Clive Brooker, the author. Hurrah!<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

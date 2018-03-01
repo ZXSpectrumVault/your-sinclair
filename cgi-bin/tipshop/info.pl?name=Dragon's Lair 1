@@ -25,7 +25,8 @@
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>First put the game on keyboard.  On the first screen get to the middle of
 the disk.  When the wind monster appears (parp) hold down the movement keys
-and fire.  You should stay right on the spot.<br>
+and fire.  You should stay right on the spot.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;On the second screen, stand still, but keep pressing fire.  Once the first
 lot of nastiness has gone you can move on.
@@ -33,11 +34,13 @@ lot of nastiness has gone you can move on.
 
 <br><hr>
 Here's the continuation of the solution started by Anthony Hetherington in
-the March YS (Issue 15).<br>
+the March YS (Issue 15).
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Level 2 (Skull Hallway)
 <pre>
-Nasty   Move    Count (Jumps)<br>
+Nasty   Move    Count (Jumps)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Skulls  Up       10
 Hand    Fire      3
@@ -51,23 +54,28 @@ Goo     Up        6
 Hand    Fire      1
 Goo     Right     4
 </pre>
-The Goo has to be dodged perfectly or it's goodbye Dirk!<br>
+The Goo has to be dodged perfectly or it's goodbye Dirk!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 3 (Burning Ropes)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 3 (Burning Ropes)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;This level is simple, apart from one place where the fire button has to be
 pressed at exactly the right time.  The ropes swing in five distinct
 positions; far right, mid right, centre, mid left and far left.  The fire
 button must be pressed when&nbsp;the rope is in the 'mid' positIons.  Then
 you'll get across.  It's not worth swinging back and forth on the rope 'cos
-you'll fall off!<br>
+you'll fall off!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 4 (Weaponry)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 4 (Weaponry)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Here you employ the same tactic as Level 2, but the nasties are different.
 Proceed as follows:
 <pre>
-Nasty           Move     Count (Jumps)<br>
+Nasty           Move     Count (Jumps)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sword           Fire     4
 Ball & Chain    Fire     4
@@ -81,31 +89,40 @@ Axe             Left     3
 Arrow           Fire     4
 Arrow           Fire     3
 Shield          Up       2
-</pre><br>
+</pre>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 5 (Giddy Goons)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 5 (Giddy Goons)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you're using the joystick, you're in for a tough time, as the enter key
 comes into play.  It's quite easy, as there's no rush.  When there are only
 three walls left, kill the nasty and run to the left (you don't need to
 jump).  Run into the goon and keep your finger on the fire button.
-Eventually you'll kill the last goon and jump onto the final platform.<br>
+Eventually you'll kill the last goon and jump onto the final platform.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 6 (Tentacles)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 6 (Tentacles)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once again the level 2 and 4 tactic comes into play.  Tentacles coming down
-are slashed, and those coming up should be jumped.<br>
+are slashed, and those coming up should be jumped.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 7 (Disc Park II)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 7 (Disc Park II)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;This is identical to level 1's disc elevator, apart from the fact that you
 jump onto it from the right hand side.  Just hold down all the control keys
-at once, and you'll stay where you are.<br>
+at once, and you'll stay where you are.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Level 9 (Get 'Singe'd)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Level 9 (Get 'Singe'd)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;WARNING:  This stage will start&nbsp;as soon as it's loaded - there's no 'Press
-Enter' message.<br>
+Enter' message.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;All of the rocks can be hit three times by Singe. I haven't been able to
 get past the 'mush', so I can't say how you can get the dragon on his
@@ -120,7 +137,8 @@ deathbed.
 <td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
 </TR>
 <tr><td>Infinite Lives</td><td>51867,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -149,19 +167,5 @@ deathbed.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

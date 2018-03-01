@@ -27,37 +27,48 @@
  <i>(Cover Tape in Sinclair User issue 118)</i> 
 
 <br><hr>
-Amethyst (Starting platform)<br>
+Amethyst (Starting platform)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Shoot the wall for extra points. Worth up to 750 extra points if shot in the
 right order. Don't shoot the top of the tower, although you can, as this
 contains essential energy reserves. Land on it with the jet&nbsp;to collect them. In
 the store shed shoot the ground based crystals first as the suspended ones have
-special properties and scores attached.<br>
+special properties and scores attached.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Lapis Lazuli (East of Amethyst)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Lapis Lazuli (East of Amethyst)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Blast pyramids to allow travel eastwards.At the low wall, raise yourself to look
-over and activate the switch.<br>
+over and activate the switch.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Obsidian (North of Amethyst)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Obsidian (North of Amethyst)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;To cross the ravine, shoot or knock over the slab to form a bridge. Knocking
 over gives a better score though! Incidentally, it's safer to go in the shed the
-way&nbsp;back.<br>
+way&nbsp;back.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Topaz (West of Amethyst)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Topaz (West of Amethyst)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The laser beacon is more of an irritation than a real threat. Shoot it and it
 turns through 90deg. to face the other way. Watch you don't walk into its beam
-again.<br>
+again.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Emerald (East of Lapis Lazuli)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Emerald (East of Lapis Lazuli)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Walk close to the walls to avoid the attentions of the beacons. The beacon to
-the West is not active!<br>
+the West is not active!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;General Hints:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;General Hints:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Activating the teleports allows for quicker travel. Go to Topaz, then over the
 wall and west to Beryl. Activate the lift up switch and go into the suspended
@@ -69,9 +80,11 @@ west, leading to an aquamarine. To gain access to the light side, shown white on
 the model you got with the game, set all four switches in Niccolate, Alabaster,
 Opal and Quartz to a downward position, so all four lights are lit. This
 destroys the southern wall of Opal (so guess which one you do last?) allowing
-access to Diamond!<br>
+access to Diamond!
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Drilling<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Drilling
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;On Topaz, the centre to drill is right over the south end of the low wall. Use
 Arrows on Aquamarine. Use west arrow in Aquamarine to position rig on girders in
@@ -90,7 +103,8 @@ centre is in the swimming pool. Evaporate&nbsp;the water with your lasers.
 <tr><td>Infinite Shields</td><td>49425,0:49022,0</td></tr>
 <tr><td>Infinite Time</td><td>47882,195</td></tr>
 </table>
-<BR>This only seems to work in some areas as in some parts, you lose energy and shields as usual.<br>
+<BR>This only seems to work in some areas as in some parts, you lose energy and shields as usual.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -113,7 +127,8 @@ This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/You
 
 <br><hr>
 This routine gives you infinite time, shields and energy. Use this to load your
-master tape.<br>
+master tape.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 CLEAR 32767: LET T=0
@@ -142,19 +157,5 @@ master tape.<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

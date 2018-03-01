@@ -87,7 +87,8 @@ thanks Nigel!
 <tr><td>Always walk fast</td><td>44675,255:44677,84:44685,186</td></tr>
 </table>
 <BR><BR><B>The "See Ending" POKE just shows you the end message after you pick something up.
-Unfortunately, it completely screws up all the graphics in the game.<br>
+Unfortunately, it completely screws up all the graphics in the game.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 
@@ -100,15 +101,18 @@ Anyone having trouble with Sabre Wulf? POKE 44685,186; POKE 44676,255 and POKE 4
 <TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr06/yr06_36.htm#Hack">http://www.users.globalnet.co.uk/~jimg/yr06/yr06_36.htm#Hack</a>&nbsp; <i>(Dave Nicholls in Your Spectrum issue 06)</i> 
 
 <br><hr>
-HAVING JUST hacked my way through Sabre Wulf, I have discovered how to obtain infinite lives.<br>
+HAVING JUST hacked my way through Sabre Wulf, I have discovered how to obtain infinite lives.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Load the first part of the program press BREAK and stop tape. Type: POKE 23756,1:CLEAR 65535. Edit the line, move the cursor to the end and delete: PRINT USR 23424: Add line 10, with any of the following POKES: POKE 43575,255 - for infinite lives, one player; POKE 45520,255 - infinite lives, two players; POKE 45599,255 - number of infinite lives (1 to 255); POKE 41725,255 - no limit on gained lives.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Load the first part of the program press BREAK and stop tape. Type: POKE 23756,1:CLEAR 65535. Edit the line, move the cursor to the end and delete: PRINT USR 23424: Add line 10, with any of the following POKES: POKE 43575,255 - for infinite lives, one player; POKE 45520,255 - infinite lives, two players; POKE 45599,255 - number of infinite lives (1 to 255); POKE 41725,255 - no limit on gained lives.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Next add line 20: 20 PRINT USR 23424 and then type RUN to load the rest of the program.
  <i>(Jeremy Diccox in Sinclair User issue 32)</i> 
 
 <br><hr>
-FOR THOSE who have Sabre Wulf I have a poke which enables you to go twice the normal speed and also makes all animals and amulets disappear. That means that you don't need to get all the pieces of the amulet to beat Sabre Wulf, all you need to do is get into the cave. However, if you press the fire key, everything will turn back to normal as long as you are holding the fire key down.<br>
+FOR THOSE who have Sabre Wulf I have a poke which enables you to go twice the normal speed and also makes all animals and amulets disappear. That means that you don't need to get all the pieces of the amulet to beat Sabre Wulf, all you need to do is get into the cave. However, if you press the fire key, everything will turn back to normal as long as you are holding the fire key down.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;First type in MERGE enter, and start your tape as if loading normally. When the header has loaded type in POKE 23756,1. Then press the edit key. Move the cursor to just before the PRINT USR command. Type in POKE 44876,0: then enter. Type in RUN. Then restart the tape. Sometimes the program crashes but that is rare.
  <i>(Ian Comerford in Sinclair User issue 38)</i> 
@@ -123,19 +127,5 @@ FOR THOSE who have Sabre Wulf I have a poke which enables you to go twice the no
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

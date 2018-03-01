@@ -23,13 +23,15 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>Kokotoni Wilf is probably one of my favourite games and I know codes to reach the second and third time zones.<br>
+<TR><TD>Kokotoni Wilf is probably one of my favourite games and I know codes to reach the second and third time zones.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;At the start, when the title is displayed, press 2 to enter time zone two (1066) or press 3 to enter time zone three (1467). It&nbsp;is not possible to reach the later time zones by the same method.
  <i>(Simon Evans in Sinclair User issue 39)</i> 
 
 <br><hr>
-Kokotoni Wilf is probably one of my favourite games and I know codes to reach the second and third time zones.<br>
+Kokotoni Wilf is probably one of my favourite games and I know codes to reach the second and third time zones.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;At the start, when the title is displayed, press 2 to enter time zone two (1066) or press 3 to enter time zone three (1467). It&nbsp;is not possible to reach the later time zones by the same method.
  <i>(Simon Evans in Sinclair User issue 39)</i> 
@@ -46,14 +48,16 @@ the PAPER colour turns green,
 stop the tape and don't rewind
 it. Next, reset the Spectrum
 and enter:<BR>
-<BR><br>
+<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>10 CLEAR 24100: LOAD &quot;&quot; CODE:
 RANDOMIZE USR 65100: LOAD
 &quot;&quot; CODE: POKE 43742,0: POKE
 42177,2: RANDOMIZE USR
 41200</B><BR>
-<BR><br>
+<BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;RUN the program and then
 start the tape&nbsup again. The
@@ -80,13 +84,15 @@ you on contact.
 <tr><td>Immunity</td><td>28929,8:28934,8:28939,8</td></tr>
 <tr><td>Lives = x</td><td>42214,x (x= 1-255)</td></tr>
 </table>
-<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI<br>
+<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
 </td></tr>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
-<TR><TD>Take the invincibility hack against the nasties.<br>
+<TR><TD>Take the invincibility hack against the nasties.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 10 POKE 23693,4: CLEAR 24100: LOAD ""CODE
@@ -106,19 +112,5 @@ you on contact.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

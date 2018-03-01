@@ -49,7 +49,8 @@ This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/Sin
 <tr><td>Player 2 Lives=x</td><td>63797,x (x=1-255)</td></tr>
 <tr><td>Turbo Speed</td><td>62769,0</td></tr>
 <tr><td>Infinite Lives (both players)</td><td>59911,182</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -75,7 +76,8 @@ This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/You
  <i>(Cover Tape in Your Sinclair issue 40)</i> 
 
 <br><hr>
-A Speedlock 4 hack to provide you with infinite lives. (player 1 only).<br>
+A Speedlock 4 hack to provide you with infinite lives. (player 1 only).
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 CLEAR: LET t=0
@@ -145,19 +147,5 @@ A Speedlock 4 hack to provide you with infinite lives. (player 1 only).<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -35,7 +35,8 @@
 <tr><td>Infinite Time</td><td>44460,201</td></tr>
 <tr><td>Rooms to complete = x</td><td>45121,x (x = 1-36)</td></tr>
 </table>
-<BR><BR><B>Don't set the "Rooms" POKE to more than 36, or you'll never complete the game!</B><br>
+<BR><BR><B>Don't set the "Rooms" POKE to more than 36, or you'll never complete the game!</B>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -64,7 +65,8 @@
 
 <br><hr>
 This program will give you infinite robot replacement packs and though it won't
-stop the clock, it'll give all the time in the (other) world.<br>
+stop the clock, it'll give all the time in the (other) world.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 LET tot=0: FOR n=50000 TO 50089: READ a: LET tot=tot+a: POKE n, a: NEXT n
@@ -79,18 +81,22 @@ stop the clock, it'll give all the time in the (other) world.<br>
  <i>(YS Smash Tips)</i> 
 
 <br><hr>
-FOR THOSE who are having problems with Alien 8 I have a poke which gives you infinite lives and enables you to last a light year.<br>
+FOR THOSE who are having problems with Alien 8 I have a poke which gives you infinite lives and enables you to last a light year.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br><pre>10 LET tot=0: FOR n=50000 TO 50089: READ a: LET tot=tot+a: POKE n,a: NEXT n
 20 IF tot<>10530 THEN PRINT "ERROR IN DATA":STOP
 25 STOP
 30 PRINT AT 10,10; "INSERT TAPE": RANDOMIZE USR 50000
 100 DATA 62, 255, 55, 17, 141, 5, 221, 33, 203, 92, 20, 8, 21, 243, 62, 15, 211, 254, 205, 98, 5, 48, 233, 33, 86, 176, 34, 233, 96, 33, 157, 195, 17, 28, 238, 1, 200, 0, 237, 176, 243, 237, 94, 33, 41, 236, 229, 33, 137, 97, 229, 51, 51, 17, 41, 236, 1, 242, 1, 33, 253, 94, 253, 33, 239, 96, 221, 33, 184, 98, 62, 200, 237, 79, 195, 137, 97, 62, 0, 50, 24, 202, 62, 201, 50, 172, 173
-110 DATA 195, 0, 99</pre><br><br>
+110 DATA 195, 0, 99</pre><br>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;After typing in the program press RUN.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;After typing in the program press RUN.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;After running it you should get a 'STOP statement' message. If you get 'ERROR IN DATA' go back and check your data. If all's well, you can now take out line 25 and SAVE the program - next time you use it you can just run it.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;After running it you should get a 'STOP statement' message. If you get 'ERROR IN DATA' go back and check your data. If all's well, you can now take out line 25 and SAVE the program - next time you use it you can just run it.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Then enter 'GOTO 30' and put your fully rewound Alien 8 tape in the cassette recorder and press PLAY.
  <i>(Daniel Rose in Sinclair User issue 39)</i> 
@@ -105,19 +111,5 @@ FOR THOSE who are having problems with Alien 8 I have a poke which gives you inf
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

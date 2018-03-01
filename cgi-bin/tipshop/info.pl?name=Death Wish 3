@@ -23,39 +23,50 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>The first and most important thing is to shoot the thugs only.<br>
+<TR><TD>The first and most important thing is to shoot the thugs only.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Don't shoot the women or the medics, as these can't be killed and only
-waste ammo.<br>
+waste ammo.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Don't shoot Grannies, tables, chairs or TVs - you lose points for grannies
-and get no points for furniture.<br>
+and get no points for furniture.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Don't shoot too many cops, 'cos when you've cleared the street of thugs,
 the cops swarm the streets shooting at you, and your injury level shoots
-up.<br>
+up.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;When your injury level is high, enter a house and find a room where you&nbsp;can
 see both sides.  No thugs or cops can enter the room to harm you, so you
-can just stand still until your injuries go down.<br>
+can just stand still until your injuries go down.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;It's best to go after the gang leaders only when you have two or three
 weapons with a lot of ammo, because the thugs cover the streets and a lot
-of ammo is needed to clear them.<br>
+of ammo is needed to clear them.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;To conserve ammo while walking around the streets, use a hand gun.  This
-uses fifty rounds which fire off very slowly, making it last longer.<br>
+uses fifty rounds which fire off very slowly, making it last longer.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;To clear crowd scenes, let off short bursts of machine gun fire.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;To clear crowd scenes, let off short bursts of machine gun fire.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Wait to see if the thugs fall down, 'cos they take a while, and you don't
-want to waste bullets if they're already hit.<br>
+want to waste bullets if they're already hit.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Save the rocket launcher for when you meet a gang leader, to clear the
-thugs around him.<br>
+thugs around him.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Shotguns have limited ammo, fire quickly and are handy if you don't have a
-machine gun.<br>
+machine gun.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;One last thing, shoot out all the windows to gain extra points.
  <i>(YS Smash Tips)</i> 
@@ -70,7 +81,8 @@ machine gun.<br>
 <tr><td>No Injury</td><td>39856,201</td></tr>
 <tr><td>Infinite Ammo</td><td>38678,175:39253,175</td></tr>
 <tr><td>No Back Stabbing</td><td>41734,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -104,19 +116,5 @@ machine gun.<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

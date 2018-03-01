@@ -24,24 +24,30 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>In the 'If It Moves' scenario, play exactly like Tau Ceti, in other words
-edge forward and use scanner.<br>
+edge forward and use scanner.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In 'Red Dawn', use the same tactics as above but use bomb on factories.  In
 'Meltdown', put on your Elite uniform and Go For It!  You'd better be a
-darn good combatter, though.<br>
+darn good combatter, though.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In 'Softly, Softly' the mines form a kind of Race Track - watch out for the
-irregularly spaced ones, 'cos they're not mines, they're 'thingies'!<br>
+irregularly spaced ones, 'cos they're not mines, they're 'thingies'!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Don't move along the spoke in 'Cipher' - attack at&nbsp;right angles and use Tau
-Ceti tactics.<br>
+Ceti tactics.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In the 'OK Corral' scenario, use Tau Ceti again, but use missiles on small
-and 'Sid Vicious' meanies.<br>
+and 'Sid Vicious' meanies.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;In 'Where To Guv?' don't, repeat, don't use the jump pads!  Since
 navigation is awful, go West, then East, then slightly South to get to the
-action.<br>
+action.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Finally, in 'Hide And Seek' use Suppressor Droids (spinning tops) to stop
 the discs firing.  Use bombs to destroy them.
@@ -68,7 +74,8 @@ the discs firing.  Use bombs to destroy them.
 <tr><td>Ammo = x</td><td>47755,x (x= 1-255)</td></tr>
 <tr><td>Flares = x</td><td>47756,x (x= 1-255)</td></tr>
 <tr><td>Bombs = x</td><td>47757,x (x= 1-255)</td></tr>
-</table><hr><br>
+</table><hr>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -82,19 +89,5 @@ the discs firing.  Use bombs to destroy them.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

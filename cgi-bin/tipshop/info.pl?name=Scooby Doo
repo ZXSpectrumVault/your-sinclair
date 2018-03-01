@@ -31,7 +31,8 @@
 <tr><td>Infinite Lives</td><td>29614,0</td></tr>
 <tr><td>Immune to nasties</td><td>34536,0</td></tr>
 <tr><td>No ghosts</td><td>34541,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -41,18 +42,21 @@
  <i>(Cover Tape in Your Sinclair issue 40)</i> 
 
 <br><hr>
-First of all, tap in this loader and play the tape from the start.<br>
+First of all, tap in this loader and play the tape from the start.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 10 LOAD ""CODE
 20 POKE 64027,86
 30 POKE 64028,5
 40 RANDOMIZE USR 64e3
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once the game has loaded, the border will flash indicating that it is waiting
 for something more to load. Press the BREAK key and you'll get an error, D
-Break, CON repeats.<br>
+Break, CON repeats.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you now type POKE 29614,0 you'll have infinite lives,
 then RANDOMIZE USR 25e3 to start the game
@@ -68,19 +72,5 @@ then RANDOMIZE USR 25e3 to start the game
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

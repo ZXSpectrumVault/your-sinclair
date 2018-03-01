@@ -26,30 +26,36 @@
 <TR><TD>1.	Get the light bulb, and then
 the torch to allow you to see
 in the darkroom to the right of
-the swimming pool. <BR><br>
+the swimming pool. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.	Get the cork, then the
 popgun to allow you past the
-soldiers. <BR><br>
+soldiers. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;3.	Get box key and honey pot,
 return to first screen and stand
 on the Jack-in-a-Box; you're
 then able to get the teddy
-bear. <BR><br>
+bear. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.	Use the Teddy to help
 unlock the door in the dalek
-room. <BR><br>
+room. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;5.	In the dalek room you will
 see a short rope. Jump at this
 with the rope and it will
-lengthen. <BR><br>
+lengthen. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;6.	The duck in the swimming
 pool is now accessible,
-although difficult. <BR><br>
+although difficult. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;7.	Try using the duck to get
 stones from the castle, they
@@ -96,7 +102,8 @@ now got infinite Herberts.
 <tr><td>Infinite Lives</td><td>39696,0:39698,58</td></tr>
 </table>
 <BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI
-<BR>The Lives=x POKE makes a bit of a mess of the lives and score counters, but it works OK..</B><br>
+<BR>The Lives=x POKE makes a bit of a mess of the lives and score counters, but it works OK..</B>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -110,19 +117,5 @@ now got infinite Herberts.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

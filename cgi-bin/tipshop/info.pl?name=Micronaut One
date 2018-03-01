@@ -24,17 +24,22 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>Collect the small clouds which float about the tunnels as these increase
-your energy.<br>
+your energy.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Destroy all the webs by shooting the grey blobs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Destroy all the webs by shooting the grey blobs.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Don't shoot the eggs, as it wastes energy.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Don't shoot the eggs, as it wastes energy.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Only attend to the ETUs when they are at the 'Danger' or 'Critical', or you
-waste time.<br>
+waste time.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The other objects in the tunnel are only there to get in your way, so don't
-waste time and energy shooting at them.<br>
+waste time and energy shooting at them.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The first three levels are the Tunnels Of Ceres, The Tunnels Of Ganymede
 and The Tunnels Of Phobos ..
@@ -57,7 +62,8 @@ and The Tunnels Of Phobos ..
 </table>
 <BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI
 <BR><BR>All of these POKEs work as far as I can tell, but then I can't play this game anyway :)</B>
-<BR><B>If anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B><br>
+<BR><B>If anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -71,19 +77,5 @@ and The Tunnels Of Phobos ..
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

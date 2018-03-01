@@ -23,19 +23,26 @@
 <center>
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
-<TR><TD>The action centres on a maze of seven levels. Each level can be reached by moving up a staircase on the right of the maze.<br>
+<TR><TD>The action centres on a maze of seven levels. Each level can be reached by moving up a staircase on the right of the maze.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The object of your quest is to find the rings of power but to do that you must kill as many of the Things as you can. To do so you have a bow and arrow, lightning bolts which may rebound on you, and magical firebolts. The monsters are also equipped with those weapons and if you are hit by one of them your strength is sapped.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The object of your quest is to find the rings of power but to do that you must kill as many of the Things as you can. To do so you have a bow and arrow, lightning bolts which may rebound on you, and magical firebolts. The monsters are also equipped with those weapons and if you are hit by one of them your strength is sapped.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;To regain your magical strength you must drink as much as you can of the milk which is lying around the maze. That part of the game is not stressed in the documentation with the package, as the authors believe that players should find their own ways to survive.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;To regain your magical strength you must drink as much as you can of the milk which is lying around the maze. That part of the game is not stressed in the documentation with the package, as the authors believe that players should find their own ways to survive.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;One of the most important tips which I picked up during play was that you should have your finger on the fireball key when you enter a section of the maze from the stairway. When you get into the maze you will not be able to see all the monsters which are approaching you. A fireball will be produced if the monster is in your vicinity, so when you see that flame flare you should beware of the Things.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;One of the most important tips which I picked up during play was that you should have your finger on the fireball key when you enter a section of the maze from the stairway. When you get into the maze you will not be able to see all the monsters which are approaching you. A fireball will be produced if the monster is in your vicinity, so when you see that flame flare you should beware of the Things.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The fireball is the easiest weapon to use, so at some point in the game you will&nbsp;be tempted to use it all the time. Unfortunately that weapon is also the most costly in terms of magical strength. If you have time you should try to use your bow and arrow.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The fireball is the easiest weapon to use, so at some point in the game you will&nbsp;be tempted to use it all the time. Unfortunately that weapon is also the most costly in terms of magical strength. If you have time you should try to use your bow and arrow.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The bow is the most difficult of the weapons to use as the Things will often surprise you and launch a quick attack even before you have your bow stringed. To fire an arrow you must indicate in which direction you want it to fly and then press the arrow release key. Several shafts can be fired at one time if the need arises.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The bow is the most difficult of the weapons to use as the Things will often surprise you and launch a quick attack even before you have your bow stringed. To fire an arrow you must indicate in which direction you want it to fly and then press the arrow release key. Several shafts can be fired at one time if the need arises.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The mazes which are created in Halls of the Things are set randomly but the game is easier to play in some parts of the maze than in others. The upper levels are the easiest to play in because there are fewer narrow corridors and more open spaces in which to see monsters coming. The expert, however, will find many things to tax the brain in the lower part of the maze.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The mazes which are created in Halls of the Things are set randomly but the game is easier to play in some parts of the maze than in others. The upper levels are the easiest to play in because there are fewer narrow corridors and more open spaces in which to see monsters coming. The expert, however, will find many things to tax the brain in the lower part of the maze.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br><b>HINTS AND TIPS</b><br>
 When entering you will be amazed,<br>
@@ -48,7 +55,8 @@ The wall's one place to metamorphose.
 <br>
 </td></tr>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Cheat modes</i></b></font></td></tr>
-<TR><TD>I HAVE written about a bug in the supposedly bugless Spectrum game Halls of the Things, where it states that you have to get seven rings before you can get into the last section. I have found a way of getting into the last section at any point in the game.<br>
+<TR><TD>I HAVE written about a bug in the supposedly bugless Spectrum game Halls of the Things, where it states that you have to get seven rings before you can get into the last section. I have found a way of getting into the last section at any point in the game.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;What you do is press '2', then 'space', which opens the last section automatically. When you have entered the section a little hint is to stop and press fireball as many times as you can and then walk to the other side of&nbsp;the 'maze', where you will find a key. When you get the key you can finish the game by going back to the stairway which finishes the game automatically.
  <i>(Ian Sloan in Sinclair User issue 24)</i> 
@@ -58,9 +66,11 @@ The wall's one place to metamorphose.
 <TR><TD>	Now, prepare to enter the <I>Hall of Things</I> (<I>sounds a bit
 like a trip to Castle Rathbone! Ed</I>). The game has one of
 those mean looking loaders so <B>Bruce Phipps</B> has come up
-with the following few lines:<br>
+with the following few lines:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<H4 >[<FONT  COLOR=red>code not printed in the magazine</FONT>]</H4><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<H4 >[<FONT  COLOR=red>code not printed in the magazine</FONT>]</H4>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Run this and play the tape
 from the start. The picture will load as usual and don't
@@ -81,7 +91,8 @@ game.
 <tr><td>Magic = x</td><td>35923,x (x= 1-255)</td></tr>
 <BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI</B>
 </table>
-<BR><BR><B>I don't have a clue how to play this, so if anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B><br>
+<BR><BR><B>I don't have a clue how to play this, so if anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A></B>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -97,7 +108,8 @@ game.
 70 FOR X=61440 TO 61451: READ Z: POKE X,A: NEXT X
 80 DATA 17,0,96,33,64,156,1,0,64,237,176,201
 90 RANDOMIZE USR 61440
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Once you've got that in, type POKE 32717,0 for infinite energy or no wounds;
 POKE 35923,n where n is your starting magic and then RANDOMIZE USR 24567 to
@@ -114,19 +126,5 @@ start the game
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

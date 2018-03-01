@@ -28,18 +28,22 @@ hackers among you, here's
 a tricky tip to get you
 infinite lives on <I>Invasion Of The Body Snatchas</I>, thanks
 to the &quot;<B>Led Zepplin freak</B>&quot;.
-You start by: <BR><br>
+You start by: <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;CLEAR 32767: MERGE &quot;&quot;:
 POKE 23787,201: PRINT USR
-23776: NEW <BR><br>
+23776: NEW <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Next, enter this lot, and
-you'll be there! <BR><br>
+you'll be there! <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;CLEAR 32767: MERGE &quot;&quot;:
 POKE 23787,201: PRINT
-USR 23776: NEW <BR><br>
+USR 23776: NEW <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;10	POKE 61724,48: POKE 61725,242 <BR>
 20	FOR I=62000 TO 62025 <BR>
@@ -47,7 +51,8 @@ USR 23776: NEW <BR><br>
 40	DATA 33, 57, 242, 34, 12, 91, 195, 0, 91, 62 <BR>
 50	DATA X, 50, 150, 159, 62, 24, 50, 246, 170 <BR>
 60	DATA 175, 50, 242, 170, 195, 0, 158 <BR>
-35	PRINT USR 61440 <BR><br>
+35	PRINT USR 61440 <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Replace X In line 50 with
 the number of lives&nbsp;you
@@ -63,7 +68,8 @@ want, up to as many as
 </TR>
 <tr><td>Infinite Lives</td><td>43762,183</td></tr>
 <tr><td>Infinite Bombs</td><td>45235,183</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -77,19 +83,5 @@ want, up to as many as
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -62,7 +62,8 @@ allow you to get to the door because of
 your gun. I won't spoil the last bit for you
 but I will tell you that you have to jump at
 the magnetic lock. I hope that furnishes
-you with happy pyjamas! Zing!<br>
+you with happy pyjamas! Zing!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br><b>LOADER OLD RUBBISH</b><br>
 Just a quick erratum... oooooooh,
@@ -122,7 +123,8 @@ with infinite lives on
 <I>Pyjamarama</I>. [see <A href="http://www.users.globalnet.co.uk/~jimg/yr18/yr18_05.htm#Hacking">issue 18</A>] The hyperloader
 makes things a little tricky
 here, so a small&nbsp;program [<A href="#note">note</A>] is
-required to get round it:<br>
+required to get round it:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	<TABLE >
 	<TR><TD WIDTH="200" BGCOLOR=gray>
@@ -134,20 +136,23 @@ required to get round it:<br>
 60 RANDOMIZE USR 30000<BR>
 70 DATA 221, 33, ?9, 127, 17, 216, 1, 62, 255, 55, 205, 86, 5, 201
 </CODE>	</TD></TR>
-	</TABLE><br>
+	</TABLE>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Run this and then start playing
 the tape at the first data block
 (not the program header) and
 press any key to load it. Stop
 the tape as soon as it's in, then
-use these POKEs:<br>
+use these POKEs:
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	<TABLE >
 	<TR><TD WIDTH="200" BGCOLOR=gray>
 <CODE>80 POKE 32844,207: POKE 32845,26: POKE 32828,251: POKE 32829,201: POKE 32789,243: POKE 32921,0: POKE 33000,0
 </CODE>	</TD></TR>
-	</TABLE><br>
+	</TABLE>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Next, to Hyperload it, enter
 RANDOMIZE USR 32789
@@ -183,7 +188,8 @@ This code is reproduced as printed in the magazine. There is one obvious error (
 <tr><td>Lives = x</td><td>43883,x (x = 1-255)</td></tr>
 </table>
 <BR><BR>You can tell which version to use by the tune which plays on the
-loading SCREEN$. If it is Popcorn (Jean Michelle Jarre tune), then use the Popcorn version (obviously)<br>
+loading SCREEN$. If it is Popcorn (Jean Michelle Jarre tune), then use the Popcorn version (obviously)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -191,10 +197,12 @@ loading SCREEN$. If it is Popcorn (Jean Michelle Jarre tune), then use the Popco
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
 <TR><TD>There are two versions of Pyjamarama, so if you've got the earlier one (without
 the demo feature), use the following routine. Owners of the newer version skip
-to second routine.<br>
+to second routine.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The hyper load makes things a bit tricky, so a small program&nbsp;is required to get
-round it;<br>
+round it;
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 10 CLEAR 29999: RESTORE 70
@@ -204,22 +212,28 @@ round it;<br>
 50 PAUSE 0
 60 RANDOMIZE USR 30000
 70 DATA 221,33,39,127,17,216,1,62,255,55,205,86,5,201
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Run this and then start playing the tape from the first data block (not the
 program header) and press any key to load it. Stop the tape as soon as it's in,
-then use these Pokes;<br>
+then use these Pokes;
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;80 POKE 32844,207: POKE 32845,26: POKE 32828,251: POKE 32829,201: POKE
-32789,243: POKE 32921,0: POKE 33000,0<br>
+32789,243: POKE 32921,0: POKE 33000,0
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Next, to Hyper load it, enter RANDOMIZE USR 32789 and restart the tape. If a
-loading error occurs, rewind and try again. When it loads, it will not start.<br>
+loading error occurs, rewind and try again. When it loads, it will not start.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;For 'x' lives, enter POKE 43883,x. Then POKE 48680,50 and RANDOMIZE USR 63524
-and away you go You're now ready to make a right Wally of yourself.<br>
+and away you go You're now ready to make a right Wally of yourself.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;If you've got the 'demo' version, use this little proggypoo;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;If you've got the 'demo' version, use this little proggypoo;
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
  10 FOR I=23297 TO 23376
@@ -231,7 +245,8 @@ and away you go You're now ready to make a right Wally of yourself.<br>
 33,63,91,34,61,128,195,22,128,33,72,91,34,229,190,195,36,248
 170 DATA 62,X,50,97,171,195,0,130: REM REPLACE X WITH NUMBER OF LIVES
 170 DATA 175,50,18,190,195,0,130,0: REM OR USE THIS FOR INFINITE LIVES
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;As you can see, there are two line 170's one is for 'x' number&nbsp;of lives and the
 other is plain ol' infinite lives. The program doesn't have a checksum, so I
@@ -248,19 +263,5 @@ suggest you save it before you run it.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

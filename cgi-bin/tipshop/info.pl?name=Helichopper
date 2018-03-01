@@ -24,18 +24,24 @@
 <table width=600>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Cheat modes</i></b></font></td></tr>
 <TR><TD>When you get to the menu screen press 3, 7, 9, 0, simultaneously for a nice blue
-screen. Now type any of these:<br>
+screen. Now type any of these:
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;forever - Infinite lives<br>
+&nbsp;&nbsp;&nbsp;&nbsp;forever - Infinite lives
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;clear - Immortality<br>
+&nbsp;&nbsp;&nbsp;&nbsp;clear - Immortality
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;show - Demo instead of going back to the menu after the scoring system<br>
+&nbsp;&nbsp;&nbsp;&nbsp;show - Demo instead of going back to the menu after the scoring system
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;screen - Re-enter cheat mode, followed by a number between 1-23 to start the game
-on that screen. Note you will not be allowed to complete it.<br>
+on that screen. Note you will not be allowed to complete it.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;main - Immortality and Infinite lives<br>
+&nbsp;&nbsp;&nbsp;&nbsp;main - Immortality and Infinite lives
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;restart - Kills all the cheat modes installed
  <i>(YS Smash Tips)</i> 
@@ -52,7 +58,8 @@ on that screen. Note you will not be allowed to complete it.<br>
 <tr><td>Immunity</td><td>37604,0</td></tr>
 <tr><td>No dangerous swamps</td><td>41158,0</td></tr>
 <tr><td>Only 1 man to save</td><td>41738,0</td></tr>
-</table><br>
+</table>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -66,19 +73,5 @@ on that screen. Note you will not be allowed to complete it.<br>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

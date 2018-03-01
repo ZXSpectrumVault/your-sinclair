@@ -27,7 +27,8 @@
 To use a Kempston joystick you must first Merge in the Basic loader and then
 edit the following lines. Remember that there's some degradation in sound
 quality when using this method but 'you pays yer money and yer takes yer
-choice!'<br>
+choice!'
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<pre>
 20 DATA
@@ -35,7 +36,8 @@ choice!'<br>
         33,182,255,17,210,132,1,5,0,237,176,201,0,0,0,205,105,254,24,63
 50 FOR N=65423 TO 65466
 3000 RANDOMIZE USR 65423
-</pre><br>
+</pre>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(YS Smash Tips)</i> 
 <br>
@@ -46,10 +48,12 @@ choice!'<br>
 <br><hr>
 To get infinite lives and time, Merge the program and stop the tape when you get
 the OK message. Now list the Basic loader and edit lines 20,50 and 3000 to match
-the lines shown below. Now type Run and start the tape from where you left off.<br>
+the lines shown below. Now type Run and start the tape from where you left off.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;20 DATA 55,62,255,221,33,0,64,17,156,191,205,86,5,62,0,50,190,136,50,15,132,201
-50 FOR N=65423 TO 65444<br>
+50 FOR N=65423 TO 65444
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;3000 RANDOMIZE USR 65423
  <i>(YS Smash Tips)</i> 
@@ -64,19 +68,5 @@ the lines shown below. Now type Run and start the tape from where you left off.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

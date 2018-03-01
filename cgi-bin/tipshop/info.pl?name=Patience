@@ -29,18 +29,22 @@ would only allow kings to be
 placed on empty files in the
 <A href="http://home.worldonline.dk/~frankie/type-in/yourspec/patience.zip">Patience</A> game, <I>YS</I> issue
 14, here are my alterations
-to allow you to do just that. <BR><br>
+to allow you to do just that. <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;	First of all, modify line 1628
-to read: <BR><br>
+to read: <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>	PRINT INK 4;AT W+2;&quot;<U>&lt;3 spaces&gt;</U>&quot;;INK 0;&quot;:&quot;</B>
 <BR>
 	Secondly, renumber line
 1643 to 1642, and then include
-the new line: <BR><br>
+the new line: <BR>
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<B>	1643 IF ATTR(3,pp*4)=36 AND c$(1)&lt;&gt;&quot;<U>&lt;graphics M&gt;</U>&quot; THEN GO SUB 1784: RETURN</B> <BR><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<B>	1643 IF ATTR(3,pp*4)=36 AND c$(1)&lt;&gt;&quot;<U>&lt;graphics M&gt;</U>&quot; THEN GO SUB 1784: RETURN</B> <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<B>J Sneideris <BR>
 Gildersome, Leeds.
@@ -56,19 +60,5 @@ Gildersome, Leeds.
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -27,7 +27,8 @@
 be hankering for endless
 lives on <I>Jack and the Beanstalk</I>. <B>Kev Panton</B> has
 sent in the POKE for that.
-Try typing in this one: <BR><br>
+Try typing in this one: <BR>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;POKE 56115,0: 56116,0:
 56388,62: 56389,27:
@@ -51,7 +52,8 @@ lives on Thor's <I>Jack and the Beanstalk</I> with POKE 56110,0
 </table>
 <BR><BR><B>The second Infinite Lives POKE is mine. It seems to work, even though it's a
 lot shorter... Mind you, I can't get off the first screen (blush), so if anyone
-finds out which one works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A><br>
+finds out which one works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
@@ -65,19 +67,5 @@ finds out which one works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A>
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

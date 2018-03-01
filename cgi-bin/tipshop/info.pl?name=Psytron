@@ -52,17 +52,21 @@ program itself - shame!
 <tr><td><B>---OR---</B></td></tr>
 <tr><td>Infinite Lives</td><td>40625,0:41098,17:41099,32:41100,1:41101,0</td></tr>
 </table>
-<BR><BR><B>If&nbsp;anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A> (I don't know how to play this game)<br>
+<BR><BR><B>If&nbsp;anyone finds out if this works, <a href="mailto:tipshop@ysrnry.co.uk">let me know</A> (I don't know how to play this game)
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
 <br>
 </td></tr>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
-<TR><TD>HERE IS the format of the 62 byte service record and a method to create your own fake record for those wishing to play Psytron on all six levels.<br>
+<TR><TD>HERE IS the format of the 62 byte service record and a method to create your own fake record for those wishing to play Psytron on all six levels.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Bytes 1-23 your name; Byte 24 header (202); Bytes 25-60; 36 bytes of score information, for each of the six levels, five previous scores and the average score; Bytes 61-62 checksum of bytes 25-60.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Bytes 1-23 your name; Byte 24 header (202); Bytes 25-60; 36 bytes of score information, for each of the six levels, five previous scores and the average score; Bytes 61-62 checksum of bytes 25-60.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The following program will create a service record of 99 per cent for each level.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;The following program will create a service record of 99 per cent for each level.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<br><pre>10 FOR N = 33001 TO 33023
 20 POKE N,66
@@ -73,7 +77,8 @@ program itself - shame!
 70 NEXT N
 80 POKE 33061,236
 90 POKE 33062,13
-100 SAVE "FAKE" CODE 33001,62</pre><br><br>
+100 SAVE "FAKE" CODE 33001,62</pre><br>
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Run this program but do not start your tape for the SAVE until the first bloc - Spectrum header - has been sent. You now have a service record which you can load to play at any level.
  <i>(Colin And Roger Bennett in Sinclair User issue 41)</i> 
@@ -88,19 +93,5 @@ program itself - shame!
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 

@@ -25,14 +25,17 @@
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
 <TR><TD>It's possible to score beginning at the centre spot with only three passes!
 Plus, when played correctly it's very hard to defend and only takes three
-mins!<br>
+mins!
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have found the strategy to win.  Press arrow and kick together.
-Immediately you've kicked it, keep your finger on the arrow button.<br>
+Immediately you've kicked it, keep your finger on the arrow button.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;The ball will bounce off the opposing centre forward's head but continue on
 its journey.  Get under it and let it bounce on your head until all your
-players are stationary.<br>
+players are stationary.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;When they are, let the bail drop to your feet.  Kick the ball along the
 floor to the player at the bottom of the screen.  Run him towards the
@@ -45,9 +48,11 @@ kick it, the goalie may well jump up and save it!
 <br>
 </td></tr>
 <TR><TD bgcolor="blue" background=""><font color="white"><b><i>Game bugs</i></b></font></td></tr>
-<TR><TD>When the ball is kicked by a player towards a goalpost, it sometimes appears to rest against the post and neither player can move it.<br>
+<TR><TD>When the ball is kicked by a player towards a goalpost, it sometimes appears to rest against the post and neither player can move it.
+<br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;If a player scores just on half time or full time, the clock carries on for 90 minutes before the match restarts and then the clock goes haywire and returns to zero.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;If a player scores just on half time or full time, the clock carries on for 90 minutes before the match restarts and then the clock goes haywire and returns to zero.
+<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sometimes the players can run around with their hands in the air after a goal even when scored by the opposition.
  <i>(Steven Knott in Sinclair User issue 41)</i> 
@@ -62,19 +67,5 @@ kick it, the goalie may well jump up and save it!
 plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
 <p>
 </center>
-<SCRIPT LANGUAGE="JavaScript">
-<!-- Begin
-qs=(document.referrer?escape(document.referrer):"-")+",";
-qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
-qs+=(navigator.javaEnabled()?"1,":"0,");
-for(i=0;i<navigator.plugins.length;i++)
-{p=navigator.plugins[i];
-if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
-document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
-document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
-// -->
-</SCRIPT>
-<NOSCRIPT>
-<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
-</NOSCRIPT>
+
 
