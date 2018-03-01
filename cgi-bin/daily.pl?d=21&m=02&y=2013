@@ -1,0 +1,384 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix!</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b><IMG WIDTH=1 HEIGHT=1 SRC="/daily_bug.png"></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=20&m=02&y=2013">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday 21st February 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=22&m=02&y=2013">&gt;&gt;&gt;</a></b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: thermometertemplate.txt -->
+<META NAME="keywords" CONTENT="Double Dragon III Jon Pillar your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="Double Dragon III review, by Jon Pillar from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>Double Dragon III</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo3.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/ingame/DoubleDragonIII-TheRosettaStone.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../wosfiles/ingame/DoubleDragonIII-TheRosettaStone.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/loader/DoubleDragonIII-TheRosettaStone.gif"><IMG WIDTH=256 HEIGHT=192 ALT="Loader" BORDER=0 SRC="../wosfiles/loader/DoubleDragonIII-TheRosettaStone.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue75/Pages/YourSinclair7500010.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue75/Pages/YourSinclair7500011.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys75_10.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD ALIGN=CENTER><a href="ftp://ftp.worldofspectrum.org/pub/sinclair/games-adverts/d/DoubleDragonIII-TheRosettaStone.jpg"><IMG BORDER=0 SRC="../wosfiles/advert_thumbs/DoubleDragonIII-TheRosettaStone.jpg"></a></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+Double Dragon III
+</b></FONT></TD></TR>
+<TR><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/Storm.htm">Storm</a>
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+&pound;11.99/15.99
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys75.htm">Mar 1992 YS75</a>
+</b></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+	<TR><TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="lifeexpectancy.gif" ALT="Life Expectancy:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;82</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="instantappeal.gif" ALT="Instant Appeal:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;95</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newgraphics.gif" ALT="Graphics:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;94</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newaddictiveness.gif" ALT="Addictiveness:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;80</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD>
+		<IMG WIDTH=32 HEIGHT=52 SRC="8temp.gif" ALT="Overall:">&nbsp;</TD><TD><FONT SIZE=7><b>88&deg;</b></FONT>
+	</TD>
+<TD>&nbsp;</TD>
+<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+<table><tr><td align=center><a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0001463" target="wos"><IMG WIDTH=80 HEIGHT=30 SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0001463" target="tip"><IMG WIDTH=80 HEIGHT=27 SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+</TD></TR></TABLE>
+</TD></TR>
+
+<TR><TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="CENTER"><b><i>
+Third time lucky for the Dragons. Not quite the best beat-'em-up of all, but darn close.
+</i></b></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/jon_p.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="Jon_Pillar_index.htm">Jon Pillar</a></i></b></FONT></TD></TR></TABLE>
+<div><b>They're feisty, they're furious, 
+they've got trend-setting 
+haircuts. The Dragon Brothers 
+are back, and this time they're 
+looking for pebbles. </b>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Billy's girlfriend Marion. Evidently a little groggy after 
+being raised from the dead in Part Two has wandered 
+off and been kidnapped (again). Being somewhat 
+discerning sophisticates, her captors have demanded 
+the priceless and altogether spooky Rosetta Stones as 
+ransom. The story of these stones is a strange and 
+disturbing one, starting in the wild China of myth and 
+lumbering on until, ooh, the end of this column at least. 
+If you squat down beside me on this hand-woven mat, 
+I'll tell you their tale. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Way back in the mists of time, the gods threw the 
+five Rosetta Stones out of heaven after 
+mistaking them for loaded dice. 
+Legend spoke of their mystic 
+energy, and that if they were 
+ever brought together, they 
+would confer mickle powers on 
+their owner. Sadly, no-one got a 
+chance to test this theory as the 
+stones were scattered across the world 
+by a series of excessively noisy natural disasters. They 
+lay in secret places for countless centuries, 
+undiscovered despite the intense efforts of the wisest 
+scholars and the most Scandinavian of tourists. Then, 
+by chance, the First Emperor Ming stumbled over one 
+while pottering in the garden. Unfortunately, as he 
+consequently fell into an ornamental pond and 
+drowned, they remained undiscovered for several more 
+centuries. And then a couple more after that. At last, in 
+1963 one turned up in the house of famed historian 
+and academic Professor Duncan Pog. He had been 
+using it as a doorstop. Hiruko the soothsayer, 
+Duncan's close and wizened friend, speedily deduced 
+where the others were but refused to tell as he feared 
+they may fall into the wrong hands. Since then, 
+many have gone in search of the stones but
+none have returned, mainly because they 
+got lost. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Well my pretties, that's the story. Marion's 
+captors want the stones, and you can bet 
+your last peseta it isn't because Arthur Negus 
+is coming to tea. Still. What's the fate of the world when 
+compared with that of your gal? Ah, true lurve! Without 
+a second thought you pack an overnight bag, look up 
+Hiruko in the <I>Yellow Pages</I> and persuade him to help 
+with a heartfelt plea and a lumpy club. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b><I>Mine's a double </I></b><br>
+<I>Double Dragon 3</I> is something of a rarity - it isn't a 
+licenced conversion. Storm evidently relish the 
+freedom of an original game, as they've gone 
+overboard on the features. For starters, the action 
+takes place over fourteen stages, spanning five 
+countries and three continents - quite a step 
+up from the dingy back-alleys of the first two 
+games. Starting on the streets of New York, 
+our intrepid pair are confronted by a gang of 
+villains that make most baddies look like 
+gingerbread men.
+These guys take an 
+awful lot of fancy 
+fistwork to overpower. 
+And there are always 
+more ready to take their 
+place. Before long you'll be getting fed up with your 
+basic jumpy-punchy skills and will be on the look-out
+for extra weapons. However, in a daring break with 
+tradition Storm have dispensed with the weapons-left-in-the street approach. Instead, you'll find bijou 
+armouries dotted about the levels, cos in this game you 
+pay your way. Not only that, and this is the really 
+devious bit, you also pay with your credits. So the 
+temptation to get those matching spiked batons or that 
+instruction pamphlet on deadly nose-poking has to be 
+weighed against continuing the game when you pop 
+your pixie boots. You can almost hear the 
+programmers cackling 
+as you ponder.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN=RIGHT WIDTH=200 BORDER><TR><TD><CENTER><FONT SIZE=6><B>BLIM!</B></FONT><br>The Rosetta Stones do exist. They were carved some time in the eighth century AD and became known as Li's Marbles because a man named Li used them as marbles.</CENTER></td></tr></table>
+Make it past the 
+cream of America's 
+street gangs and you 
+face the obligatory end-of-level baddy. Defeat 
+him and Hiruko will point 
+you toward the next 
+stone. And so it goes 
+on, with our heroes 
+racing across the world,
+travelling to ancient and 
+exotic cultures and 
+beating up the locals. 
+Before the game's end 
+you'll have been matched against mad bikers, fur-clad 
+Chinese wrestlers, graceful samurai lords, phantom ninjas 
+and, erm, lots of other people. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b><I>Lovely doubley</I></b><br>
+As you've probably guessed, I like <I>Doub/e Dragon 3</I> rather a lot. To be honest, after 
+the total disasters of the first two I wasn't expecting much, so the 
+sheer spankiness of the game came as a jolly nice surprise. 
+Although it seems slow at first you'll find the gameplay perfectly 
+paced, with the two-player option a bonus rather than a 
+necessity. The variety of baddies and strategies keeps interest 
+from flagging - you're never quite sure what the game is going 
+to throw at you next. On the presentation side, the graphics are 
+eye-gogglingly good, with excellent detail and a real feeling of weight 
+to the sprites. The backgrounds are of an equally high quality, atmospherically 
+recreating the countries you visit. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;For all this, the game isn't Megagame material. It's 128k 
+only. But there's still a heck of a lot of multiloading. Then 
+there's the difficulty level. In an effort to provide a meaty 
+challenge, Storm have made the game too tough. If you get
+hemmed in by your opponents - something that's hard to 
+avoid - it seems to be up to Lady Luck whether you escape or 
+not. Even so, you should 
+put this game on your 
+shopping list. It more 
+than makes amends for 
+the preceding <I>Double 
+Dragons</I> and <I>almost</I> 
+topples <I><a href="targetrenegade.htm">Target 
+Renegade</a></I> from the 
+number one beat-'em-up 
+spot.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<center><b>5 DRAGON FACTS</b></center>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>1) </b> Dragons existed well before man, but did rather badly afterwards.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>2) </b> The word "dragon" first appeared in Catherine Gillespie's love poem "Ode to Benjamin". It is in stanza six, line four and is almost certainly a spelling mistake.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>3) </b> Dragons flew by the application of thermodynamics. They would find the nearest village and threaten to burn it down unless the peasants built them a hang-glider.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>4) </b> Dragons were very large. If you imagine Christopher Biggins standing on Russell Grant, this is still not quite as funny as a full-size dragon trying to land.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<b>5) </b> The collective noun for a group of dragons is an aarghh, for obvious reasons.
+
+<br><br>
+<p>
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR><TD BGCOLOR="black"><FONT COLOR="yellow"><b><i><center>Arcade version screenshot...</center></i></b></font></td></tr>
+<tr><td BGCOLOR="black" ALIGN="center">
+<IMG SRC="http://www.ysrnry.co.uk/cgi-bin/randpic.pl?root=%2fmame%2fdoubledragoniii_&num=4" width=320 height=232 ALT="Arcade screenshot"><br>
+</td></tr>
+<tr><td BGCOLOR="black"><FONT COLOR="yellow"><b><center>Click <a href="../mame/doubledragoniii.htm">here</a> to view all 4 pics</center></b></font></td></tr>
+</table>
+</center>
+<p>
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR BGCOLOR=white BACKGROUND=""><TD><center><b><i>Ratings given by other magazines</i></b></center></td></tr>
+<tr BGCOLOR=cyan BACKGROUND=""><TD>
+<TABLE WIDTH=100% cellspacing=0 cellpadding=0><TR>
+
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.crashonline.org.uk"><IMG SRC="../crlogo.gif" ALT="CRASH" BORDER=0></a>&nbsp;
+<font color="red" size=6>7/10</font>
+</td>
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.sincuser.f9.co.uk/"><IMG SRC="../sulogo.gif" ALT="Sinclair User" BORDER=0></a>&nbsp;
+<font color="red" size=6>9/10</font>
+</td><td rowspan=2>&nbsp;&nbsp;</td></tr><tr><TD ALIGN=CENTER><font size=1><a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=1648&rid=9460">Crash Review</a></font></td><td ALIGN=CENTER><font size=1>---</font></td></tr></table>
+</td>
+</tr>
+<tr BGCOLOR=white BACKGROUND=""><td><center><font size=2><b><i>Info supplied by the <a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a> database</i></b></font></center></td></tr>
+</table>
+</center>
+<p>
+
+<CENTER><TABLE BORDER BGCOLOR=black BACKGROUND=""><TR><TD COLSPAN=5 BGCOLOR=white><center><b><i>YS Cross-references</i></b></center></td></tr>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue70/Pages/YourSinclair7000016.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Double Dragon III/Storm</TD><TD BGCOLOR="yellow"><a href="../ys70.htm">YS70</a></TD><TD BGCOLOR="red"><CENTER>FUT<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue74/Pages/YourSinclair7400026.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Double Dragon III/Storm</TD><TD BGCOLOR="yellow"><a href="../ys74.htm">YS74</a></TD><TD BGCOLOR="red"><CENTER>PRE<CENTER></TD></TR>
+<tr BGCOLOR=white BACKGROUND=""><td colspan=5><center><font size=2><b><i>Some info from <a href="http://www.worldofspectrum.org/infoseek.cgi">Sinclair Infoseek</a>+<a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a></i></b></font></center></td></tr>
+</TABLE><p></CENTER>
+
+</TD>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR>
+<TD WIDTH=5 BGCOLOR=black></TD>
+<TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="center"><center><TABLE><TR><TD ALIGN="center"><IMG SRC="lifeexpectancy.gif"><br>Life Expectancy</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newgraphics.gif"><BR>Graphics</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="instantappeal.gif"><br>Instant Appeal</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newaddictiveness.gif"><br>Addictiveness</td></tr></table></center></td>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</tr>
+
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+
+<TR><TD bgcolor="yellow"><center><b><i>Reviews in other magazines:</i></b></center></TD></TR>
+<TR><TD bgcolor="black"><center><TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_0">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue96/Pages/Crash9600060.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue96/Pages/Crash9600061.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cr96_60.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_0"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_1">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue119/Pages/SinclairUser11900048.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue119/Pages/SinclairUser11900049.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/su119_48.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_1"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Crash (<a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=1648&rid=9460">HTML</a>)</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Sinclair User</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+</center></TD></TR><TR bgcolor="yellow"><TD><CENTER><B><I>Click pages to enlarge</i></b></center></TD></TR>
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

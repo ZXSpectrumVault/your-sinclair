@@ -1,0 +1,99 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Athena</b></font></center>
+<center>Number of entries found: 4</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>51212,0</td></tr>
+<tr><td>Infinite Time</td><td>55268,61</td></tr>
+<tr><td>Megajumps</td><td>50267,0</td></tr>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/SinclairUser/Issue74/Tape/">this issue of Poke City</a>.
+ <i>(Cover Tape in Sinclair User issue 74)</i> 
+
+<br><hr>
+This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/YourSinclair/Issue40/Tape/">this issue of Pokes</a> in the Speedlock 2 section.
+ <i>(Cover Tape in Your Sinclair issue 40)</i> 
+
+<br><hr>
+<pre>
+ 10 CLEAR 49151
+ 20 LET T=0: LET W=0
+ 30 FOR L=47872 TO 48019
+ 40 READ A: POKE L,A: LET T=T+A*W: LET W=W+1
+ 50 NEXT L
+ 60 IF T<>1243247 THEN PRINT "CHECKSUM ERROR, TRY AGAIN": STOP
+ 70 PRINT AT 10, 2;"Play ATHENA tape from start"
+ 80&nbsp;LOAD "" CODE
+ 90 RANDOMIZE USR 47872
+100 DATA 221,33,129,187,6,6,197,221,110,0,221,102
+110 DATA 1,221,78,2,6,0,17,0,125,237,176,235
+120 DATA 54,201,30,150,205,0,125,221,35,221,35, 221
+130 DATA 35,193,16,222,33,103,238,17,0,136,1,0
+140 DATA&nbsp;4,237,176,175,50,115,135,62,205,50,23,139
+150 DATA 33,173,139, 34,24,139,33,80,187,17,173,139
+160 DATA 1,48,0,237,176,195,244,138,50,255,30,62
+170 DATA 195,205,182,139,201,50,76,139,33,192,139,34
+180 DATA 77,139,201,253,33,58,92,62,16,1,253,127,237
+190 DATA 121,175,50,173,204,50,16,191,50,20,191
+200 DATA 49,216,158,195,192,248,0,0,0,249,228,16
+210 DATA 9,229,24,71,229,12,83,229,14,97,229,25
+220 DATA 133,229,11,0,0,0
+</pre>
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

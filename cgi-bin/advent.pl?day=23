@@ -1,0 +1,147 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 23</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=22&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;22</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=24&show_all=1"><font size=2>DEC&nbsp;24&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_23.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_23.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>KING OF CHRISTMAS</i></b></font><br><font size=3 color="red"><b><i>2 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+With eight Speccy Christmases to choose from before the market
+declined so much that the Spectrum Top Ten games charts stopped being
+published in the magazines, which software label do you think was the
+King Of Christmas?
+<br>&nbsp;&nbsp;&nbsp;&nbsp;If we take the Christmas Top Tens published in the March issues of
+Your Sinclair and give software labels ten point for each Number One,
+nine for each Number Two, and so on down to one point for a Number
+Ten, then the winner by a mile is Ocean, even when the Imagine games
+are separated from them.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="left" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d23_1985_ad11.png" target="1985_ad11.png"><IMG SRC="pngs/d23_1985_ad11_small.jpg" WIDTH=300 HEIGHT=213></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>OK, so they weren't so great in the early days...</i></b></font></TD></TR>
+</TABLE>
+Ocean may have won this accolade purely because they published a
+higher number of full price games each year compared to their rivals,
+helped by the fact that they published games from 1983 until 1992 -
+practically the whole of the Spectrum's commercial lifetime - but
+their Christmas output is more interesting than that.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="right" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d23_1987_ad8.png" target="1987_ad8.png"><IMG SRC="pngs/d23_1987_ad8_small.jpg" WIDTH=300 HEIGHT=217></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>...but they were warming up at the end of 1987...</i></b></font></TD></TR>
+</TABLE>
+Their history can be divided into two halves, with the second half
+starting at Christmas 1987. Whilst their output has been mainly
+licensed games from the arcades or toys and television shows and
+movies, before that Christmas the quality of their games was pretty
+poor to say the least. Sure, there were some good games dotted around
+<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/vG8f95A-pxM&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/vG8f95A-pxM&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Kenny Everett's 12 Days of Christmas</u></b></font></center><font size=-1 color="#ffffff">Incredibly silly, but very funny! <b><i>(4:20)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=vG8f95A-pxM" target="vG8f95A-pxM">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+such as <i>Daley Thompson's Decathlon</i>, <i>Cobra</i>, and anything coming from
+Jon Ritman, but during that time Ocean was more remembered for late
+games based on popular TV shows which were awful when they finally
+appeared after a heap of marketing and hype - step forward <i>Knight
+Rider</i>, <i>Street Hawk</i>, <i>Miami Vice</i>, <i>It's A Knockout</i>... the list was
+embarrassingly long.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The end of 1987 was a watershed moment - the last of the toy licences,
+<i>MadBalls</i>, was got out of the way as the Ocean label ditched the TV and
+toy licences in favour of getting big name arcade and film licences
+whilst bumping up the programming quality of their games. Throughout
+1987 and 1988 the magazine ratings earned kept on rising, and from the
+end of 1988 over the following couple of years it was very rare for an
+Ocean title to not score upwards of 90% when reviewed. The <i>Knight
+Rider</i> and <i>Kong</i> days were long gone, Ocean had become the leading
+software label and pretty much stayed that way until they started
+seriously moving onto the 16-bit machines, leaving their Spectrum
+titles as also-rans.
+<TABLE ALIGN="center" WIDTH=522 CELLPADDING=5><TR>
+<TD><a href="pngs/d23_1988_ad8.png" target="1988_ad8.png"><IMG SRC="pngs/d23_1988_ad8_small.jpg" WIDTH=140 HEIGHT=100></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d23_1988_ad17.png" target="1988_ad17.png"><IMG SRC="pngs/d23_1988_ad17_small.jpg" WIDTH=68 HEIGHT=100></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d23_1989_ad9.png" target="1989_ad9.png"><IMG SRC="pngs/d23_1989_ad9_small.jpg" WIDTH=142 HEIGHT=100></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d23_1990_ad4.png" target="1990_ad4.png"><IMG SRC="pngs/d23_1990_ad4_small.jpg" WIDTH=142 HEIGHT=100></a></TD></TR>
+<TR><TD COLSPAN=7 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>...and then the coast was clear to slaughter the opposition.</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/miosjU1rlYo&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/miosjU1rlYo&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>BBC2 Starts Up On Christmas Day 1988</u></b></font></center><font size=-1 color="#ffffff">Featuring a logo so '80s that it hurts. <i>Nice</i>... <b><i>(2:06)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=miosjU1rlYo" target="miosjU1rlYo">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/tAcEzhQ7oqA&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/tAcEzhQ7oqA&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>WarGames Trailer</u></b></font></center><font size=-1 color="#ffffff">Would you like to play a game? <b><i>(2:18)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=tAcEzhQ7oqA" target="tAcEzhQ7oqA">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+This meant that Ocean barely featured in the Christmas charts until
+1987, at which point they'd get at least two or three titles into the
+Top Ten, and yet the Number One spot always seemed to elude them. It
+must have been terribly frustrating for them to get three Christmas
+Number Twos in four years, usually getting beaten by a licence which
+was slightly bigger than Ocean's best.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;For a latecomer like me, whose first proper Speccy Christmas was in
+1987, Ocean usually stood out from the crowd, surrounded by the likes
+of US Gold (arguably an Ocean spin-off), Imagine (definitely so) and
+Activision. I'm so glad that I caught them at their finest, getting
+hooked on the hype their games produced over the subsequent years.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;So, if Ocean were the Kings Of Christmas, what was the best Speccy
+Christmas ever? Find out tomorrow...
+</TD></TR></TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

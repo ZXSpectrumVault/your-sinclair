@@ -1,0 +1,133 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 10</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=9&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;9</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=11&show_all=1"><font size=2>DEC&nbsp;11&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_10.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_10.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>COMMANDO</i></b></font><br><font size=3 color="red"><b><i>15 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+I got my Spectrum+ in November 1985 - it was one of the infamous
+Dixons Special Offer deal done with Sinclair Research to help tide over the
+latter to 1986 - so, knowing little of the outside world when it
+came to Speccy games, Christmas 1985 was unremarkable to anybody
+outside my family beyond us exploring the machine's possibilities
+whilst playing game after game after game of <i>Horace Goes Skiing</i>,
+<i>Chequered Flag</i>, <i>Space Raiders</i>, and even <i>Castle Spellerous</i>. For some
+reason each of us had full-length toweling dressing gowns, and for
+some reason I remember my Saturdays would consist mainly of waiting
+for my father to return from the weekly food shop before grabbing a
+couple of fresh baps and making salami sandwiches for breakfast,
+chomping on them whilst waiting for the games to load.
+<TABLE ALIGN="center"><TR><TD VALIGN="top"><TABLE  WIDTH=200 CELLPADDING=5><TR>
+<TD><a href="pngs/d10_1985_mag7.png" target="1985_mag7.png"><IMG SRC="pngs/d10_1985_mag7_small.jpg" WIDTH=200 HEIGHT=144></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Your Sinclair's first MegaPreview. Umm. You'll need to tilt your head...</i></b></font></TD></TR>
+</TABLE></TD><TD>&nbsp;&nbsp;</TD><TD VALIGN="top"><TABLE  WIDTH=200 CELLPADDING=5><TR>
+<TD><a href="pngs/d10_1985_rev3.png" target="1985_rev3.png"><IMG SRC="pngs/d10_1985_rev3_small.jpg" WIDTH=200 HEIGHT=148></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Crash still has a rather basic page design at the end of 1985, even for the biggies.</i></b></font></TD></TR>
+</TABLE></TD></TR></TABLE>
+<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/dpoxQ2_y4D8&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/dpoxQ2_y4D8&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Thames TV Continuity and Adverts Christmas 1988</u></b></font></center><font size=-1 color="#ffffff">Remember live First Division football games on ITV on Sundays? <b><i>(3:25)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=dpoxQ2_y4D8" target="dpoxQ2_y4D8">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/F5kwsbcWG5k&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/F5kwsbcWG5k&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>One Night in Bangkok / Murray Head</u></b></font></center><font size=-1 color="#ffffff">This was played to death on the radio at the end of 1985 - tremendously catchy, and you can hear the ABBA influence. <b><i>(3:55)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=F5kwsbcWG5k" target="F5kwsbcWG5k">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+Amusingly, I also tinkered about with <i>VU-3D</i>, a simple CAD program
+which had a ray-tracing feature. "Little did I know... " that around
+twenty years later I'd be using a 3D animation package I wrote which
+used a ray-tracer as a renderer!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;As I was currently addicted to those 1982- and 1983-era titles, I
+don't know what I would have made of 1985's offerings. From a
+historian's perspective, it was this Christmas which featured coin-op
+conversions entering the festive charts. Indeed, the #1 and #2 games
+(<i>Commando</i> and <i>Yie Ar Kung Fu</i>) came from the arcades, and it was
+<i>Commando</i> which was exciting the press at the time.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;I say "exciting", but to put this into perspective this was 1985 -
+little hype, and Sinclair User's half-page preview was damning with
+faint praise: "The action is chaotic and the animation smooth.
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/2yoEVJXxQE0&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2yoEVJXxQE0&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Christmas Adverts from 1985</u></b></font></center><font size=-1 color="#ffffff">A nice selection of ads from 1985 - you don't get many cartoon-style of adverts these days. My father filled a cupboard with those free petrol station glasses... <b><i>(3:44)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=2yoEVJXxQE0" target="2yoEVJXxQE0">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+<i>Commando</i> is very similar to the original, but in terms of the
+Spectrum's graphics, colour and sound, it can't compete." I guess the
+author was still getting used to the idea of coin-op conversions where
+the arcade hardware had moved on a generation! Your Sinclair were far
+more enthusiastic in their launch issue's MegaPreview.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="left" WIDTH=200 CELLPADDING=5><TR>
+<TD><a href="pngs/d10_1985_ad2.png" target="1985_ad2.png"><IMG SRC="pngs/d10_1985_ad2_small.jpg" WIDTH=200 HEIGHT=142></a></TD></TR>
+</TABLE>
+The final reviews were definitely more appreciable, though, with top
+marks across the board. Just as well considering it became the
+Christmas #1! It didn't age too well, though - this was the first
+fast, furious and fun "<i>Commando</i>-type game" that was released, and once
+the novelty wore off and other software houses had their stabs at the
+genre, by the time <i>Commando</i> got re-released in 1989 the YS reviewer
+only gave it a six, ending the review with "I'd say you're better off
+going for a <i>Commando</i>-type game than <i>Commando</i> itself. Amazing but
+true."
+</TD></TR></TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

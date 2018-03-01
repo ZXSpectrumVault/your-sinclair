@@ -1,0 +1,328 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix!</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b><IMG WIDTH=1 HEIGHT=1 SRC="/daily_bug.png"></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=27&m=2&y=2013">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thursday 28th February 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=1&m=3&y=2013">&gt;&gt;&gt;</a></b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: ratingonlytemplate.txt -->
+<META NAME="keywords" CONTENT="Dodgy Geezers Mike Gerrard your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="Dodgy Geezers review, by Mike Gerrard from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>Dodgy Geezers</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo3.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/ingame/DodgyGeezers.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../wosfiles/ingame/DodgyGeezers.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/loader/DodgyGeezers.gif"><IMG WIDTH=256 HEIGHT=192 ALT="Loader" BORDER=0 SRC="../wosfiles/loader/DodgyGeezers.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue15/Pages/YourSinclair1500058.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue15/Pages/YourSinclair1500059.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys15_58.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD ALIGN=CENTER><a href="ftp://ftp.worldofspectrum.org/pub/sinclair/games-adverts/d/DodgyGeezers.jpg"><IMG BORDER=0 SRC="../wosfiles/advert_thumbs/DodgyGeezers.jpg"></a></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+Dodgy Geezers
+</B></FONT></TD></TR>
+<TR>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/Melbourne_House.htm">Melbourne House</a>
+</b></TD>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+&pound;7.95
+</b></TD>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys15.htm">Mar 1987 YS15</a>
+</b></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<!--	<TR><TD NOWRAP> -->
+	<TR><TD NOWRAP ALIGN=CENTER VALIGN=MIDDLE WIDTH=50%>
+	<FONT SIZE=5><B>7</B></FONT>
+	</TD>
+	<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+	<table><tr><td align=center><a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0006189" target="wos"><IMG SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+	<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0006189" target="tip"><IMG SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+	</TD></TR></TABLE>
+</TD></TR>
+
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/mike_ger.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="Mike_Gerrard_index.htm">Mike Gerrard</a></i></b></FONT></TD></TR></TABLE>
+<div>Here's the one all you villains 
+out there have been waiting 
+for, and I know from my 
+mailbag that lots of you are 
+fans of the Lever-Jones style 
+of adventure writing. I liked 
+<i><a href="adventuregreats.htm">Hampstead</a></i>, but was disappointed by 
+the follow-up, <i>Terrormolinos</i>, so it's 
+good to report that <i>Dodgy Geezers</i> is a 
+treat. Must be all those hours I've 
+spent watching <i>Minder</i>, because the 
+lingo in this one is right up Arthur 
+Daley's street, though I'll spare you 
+what every other reviewer will 
+probably do, which is try to cobble 
+together a review full of phrases like 
+'Leave it out, John', 'Straight up' and 
+'A nice little earner for Melbourne 
+House.' 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;You've just done three years at Her 
+Majesty's pleasure and you're back on 
+the loose. Are you still a villain, 
+though? What! Is the Pope a Catholic? 
+The first thing you'll want to do is set 
+up a job, ignoring the advice of Bullet-Proof George who's released the same 
+day as you and tells you to go straight. 
+Go straight to Ron Rigg's bookies, 
+more like, or the Korner Kaff to see 
+which of the old gang is still around. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;You can find out about the lads, or 
+should that be lags, just by examining 
+the wanted posters that are scattered 
+about the place. Lads like Mr Video, 
+Cracker, Tweedle Dee and even Little 
+Ken. It's hard to rate the graphics in 
+this game, as quality's high but 
+quantity's low, though that doesn't 
+matter too much as there's plenty 
+going on in the text to keep you 
+amused... and baffled. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;My first piece of advice is to make 
+sure you do your map on a big sheet of 
+paper, and spread the locations out 
+because there are plenty of them and 
+my own map soon started to look like 
+the Spaghetti Junction interchange -
+pretty apt since the job you were put 
+away for was the famous Long Ditton 
+Spaghetti Caper. The WAIT command 
+has been retitled as HANG ABOUT, 
+and make full use of that as this is the 
+type of game where you've got to be in 
+the right place at the right time and 
+slowly piece together what information 
+you can about what's going on and 
+when in your little patch. For instance, 
+go to a builder's yard at night and all 
+you find is a locked hut, but go in the 
+day and you may be able to provide 
+yourself with a pickaxe left lying 
+around by the workmen. Shops, banks 
+and pubs keep to their regular opening 
+hours, and you're given an update on 
+what time and day it is, though the 
+game isn't very accurate as you can 
+stay in a place like the bank overnight, 
+if you like, while the other characters 
+still go about their business. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Most of the business is predictably 
+dodgy - alarms go off and characters 
+run through the streets laden with 
+videos and the like. The aim of the 
+first part of the game is to piece 
+together a gang that you can take into 
+part two and then pull off the crime. 
+Your progress is impeded by a 
+mysterious man in white Gucci shoes 
+who appears after 200 moves and fills 
+your wellies with cement before 
+suggesting a little late-night 
+swimming. You can check how close 
+you are to that midnight dip by typing 
+TURNS, though that command isn't 
+documented. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;SAVE regularly, especially when you 
+reach the tunnel that leads to the dog-track. There you're asked for a tip by 
+Tweedle, and he gets right cheesed off 
+and disappears if you don't pick the 
+right doggie from runners like 
+Dagenham Lad and Arthur's Dream. 
+All good dishonest fun, right down to 
+the Chas and Dave records on the juke 
+box in the Frog and Peach. Buy it and 
+make it a nice little earner for 
+Melbourne House. Sorry! I forgot. 
+
+<br><br>
+<p>
+
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR BGCOLOR=white BACKGROUND=""><TD><center><b><i>Ratings given by other magazines</i></b></center></td></tr>
+<tr BGCOLOR=cyan BACKGROUND=""><TD>
+<TABLE WIDTH=100% cellspacing=0 cellpadding=0><TR>
+
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.crashonline.org.uk"><IMG SRC="../crlogo.gif" ALT="CRASH" BORDER=0></a>&nbsp;
+<font color="red" size=6>8/10</font>
+</td>
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.sincuser.f9.co.uk/"><IMG SRC="../sulogo.gif" ALT="Sinclair User" BORDER=0></a>&nbsp;
+<font color="red" size=6>4/10</font>
+</td><td rowspan=2>&nbsp;&nbsp;</td></tr><tr><TD ALIGN=CENTER><font size=1><a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=1596&rid=6599">Crash Review</a></font></td><td ALIGN=CENTER><font size=1>---</font></td></tr></table>
+</td>
+</tr>
+<tr BGCOLOR=white BACKGROUND=""><td><center><font size=2><b><i>Info supplied by the <a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a> database</i></b></font></center></td></tr>
+</table>
+</center>
+<p>
+
+<CENTER><TABLE BORDER BGCOLOR=black BACKGROUND=""><TR><TD COLSPAN=5 BGCOLOR=white><center><b><i>YS Cross-references</i></b></center></td></tr>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue12/Pages/YourSinclair1200005.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Dodgy Geezers/Melbourne House</TD><TD BGCOLOR="yellow"><a href="../ys12.htm">YS12</a></TD><TD BGCOLOR="red"><CENTER>NEWS<CENTER></TD></TR>
+<tr BGCOLOR=white BACKGROUND=""><td colspan=5><center><font size=2><b><i>Some info from <a href="http://www.worldofspectrum.org/infoseek.cgi">Sinclair Infoseek</a>+<a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a></i></b></font></center></td></tr>
+</TABLE><p></CENTER>
+
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+<TR><TD BGCOLOR="#FFFFFF" ALIGN="center"><B><I>Mike Gerrard has kindly authorised this site<br>
+Visit <a href="http://www.mikegerrard.com/">Mike's website</a> and see what he's up to nowadays!
+</i></b></td></tr>
+
+<TR><TD bgcolor="yellow"><center><b><i>Reviews in other magazines:</i></b></center></TD></TR>
+<TR><TD bgcolor="black"><center><TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_0">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue38/Pages/Crash3800090.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue38/Pages/Crash3800091.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cr38_90.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_0"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_1">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue059/Pages/SinclairUser05900086.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue059/Pages/SinclairUser05900087.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/su059_86.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_1"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_2">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8702/Pages/ZXComputing870200058.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ZXComputing/Issue8702/Pages/ZXComputing870200059.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/zxc8702_58.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_2"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Crash (<a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=1596&rid=6599">HTML</a>)</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Sinclair User</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">ZX Computing</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+<TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_3">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue064/Pages/CVG06400106.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue064/Pages/CVG06400107.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cvg064_106.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_3"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_4">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ComputerGamer/Issue25/Pages/ComputerGamer2500040.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ComputerGamer/Issue25/Pages/ComputerGamer2500041.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cg25_40.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_4"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_5">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourComputer/Issue8702/Pages/YourComputer870200022.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourComputer/Issue8702/Pages/YourComputer870200023.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/yc8702_22.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_5"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">C+VG</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Computer Gamer</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Your Computer</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+</center></TD></TR><TR bgcolor="yellow"><TD><CENTER><B><I>Click pages to enlarge</i></b></center></TD></TR>
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

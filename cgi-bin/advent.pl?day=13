@@ -1,0 +1,177 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 13</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=12&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;12</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=14&show_all=1"><font size=2>DEC&nbsp;14&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_13.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_13.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>PRE-SPECTRUM</i></b></font><br><font size=3 color="red"><b><i>12 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+You'll notice that I'm a late-80's Speccy user, and this nostalgic
+lookback centres around that period as a result. Sorry about that -
+whilst you were probably marvelling at <i>3D Ant Attack</i>, <i>Knightlore</i> and
+<i>Monty Mole</i>, I was probably completely unaware of this sort of thing
+bar a few games on the school BBC B and a friend's C64.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="right" WIDTH=200 CELLPADDING=5><TR>
+<TD><a href="pngs/d13_watches.png" target="watches.png"><IMG SRC="pngs/d13_watches_small.jpg" WIDTH=200 HEIGHT=138></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>When digital watches caught on, suddenly they were given every thinkable feature under the sun - even simple games.</i></b></font></TD></TR>
+</TABLE>So what was the Christmas run-up like for the non-Specchum? Life
+centred around three things: music on the radio, the Christmas List,
+and of course the last day of school in which everybody brought their
+toys in to play with whilst eating copious amounts of cakes and
+sweets.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/TBXj4BM8RwY&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/TBXj4BM8RwY&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Top Of The Pops Top 40 Xmas 1984</u></b></font></center><font size=-1 color="#ffffff">Because you can never get enough Simon Bates... <b><i>(3:02)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=TBXj4BM8RwY" target="TBXj4BM8RwY">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+The early '80s had the music charts in traditional mode - as well as
+the usual synth chart fodder, the festive Christmas single was very
+much in vogue. Wham may have been teenage pop song after pop song, but
+Last Christmas had something special about it that made it stick. Even
+the lyrics made some sort of sense. Then there's the ubiquitous Band
+Aid single which was very popular in my form because it had "Class 4"
+in the lyric "Give to them, there's a class for everyone". Ahem.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The last-day games and the Christmas List eventually rolled into one -
+once you tried out a cool game in school, you naturally wanted that
+plus ten other games like it. This is where the legendary Argos
+catalogue came into its own with page after page of toys, games and
+electronic wizardry. Even radios seemed exciting, even though the BBC
+stations seemed unappealing to a nine-year-old. However there were the
+exciting-sounding "pirate radio stations" Lazer 558 and Caroline
+570 which were playing good music, so I used to listen to those on my
+new radio. As it turned out they were playing the same music as Radio
+1, but the Beeb seemed less exciting to me at the time because, of
+course, the same music naturally sounded better broadcasted from a
+boat with a low-powered transmitter in the middle of the North Sea.
+<TABLE ALIGN="center" WIDTH=379 CELLPADDING=5><TR>
+<TD><a href="pngs/d13_hifi1a.jpg" target="hifi1a.jpg"><IMG SRC="pngs/d13_hifi1a_small.jpg" WIDTH=120 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d13_hifi1b.jpg" target="hifi1b.jpg"><IMG SRC="pngs/d13_hifi1b_small.jpg" WIDTH=120 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d13_hifi1c.jpg" target="hifi1c.jpg"><IMG SRC="pngs/d13_hifi1c_small.jpg" WIDTH=119 HEIGHT=150></a></TD></TR>
+<TR><TD COLSPAN=5 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Nice and sharp angles here, but we wanted it all. I loved my portable radio - number 11 on the right.</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/2TEHJOwvmvE&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2TEHJOwvmvE&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Woolworths TV advert from 1983</u></b></font></center><font size=-1 color="#ffffff">A glorious advert from 1983 showing a cross-section of stuff which would go on people's Christmas lists, including kid's toys and games. <b><i>(1:29)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=2TEHJOwvmvE" target="2TEHJOwvmvE">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+The electronic games revolution was in full swing, and you could opt
+to play either chunky "table-top" games to much simpler (yes, hard to
+imagine, but this was the early '80s) games on your watch and, for
+some bizarre reason, on your calculator. Calculator makers thought
+that having simulated rolling dice in their products wasn't enough, so
+some of them added musical beeps to the buttons just in case you
+fancied rattling off some Rachmaninoff whilst doing your maths
+homework. Suddenly LCD displays were appearing everywhere, from
+calculator rulers through to pens with digital alarm clocks.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The handheld games were a pure joy, though. A few times every year Mum
+would take my brother and I down to London where we'd go into Hamleys
+toy shop for an hour or two. An hour or two? Surely we'd get bored?
+But no way - there was a full floor in Hamleys filled with counters
+covered with as many different types of electronic games as they could
+fit in, all powered up, switched on, and inviting players. There was
+everything from Speak and Spell through to Munchman, with various
+electronic chessboards and space invaders games along the way. All of
+them out of my family's budget sadly, but pure heaven to the shiny
+novelty-obsessed child from deepest darkest Essex.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Even the board games seemed to be getting more complicated. The Game
+of Life kept it simple with a plastic spinning wheel you slotted into
+the board which replaced the traditional dice, whereas with Mousetrap
+you were effectively building a complex Rube Goldberg machine. Then
+cheap plastic moulding came into the equation, allowing for games such
+as the marble-preserving Staying Alive and the Pop-o-matic games such
+as Frustration whose main selling point was that the dice was encased
+in a dome with a spring-loaded floor - and of course that was
+irresistible to me.
+<TABLE ALIGN="center" WIDTH=374 CELLPADDING=5><TR>
+<TD><a href="pngs/d13_prespeccy1a.jpg" target="prespeccy1a.jpg"><IMG SRC="pngs/d13_prespeccy1a_small.jpg" WIDTH=119 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d13_prespeccy1b.jpg" target="prespeccy1b.jpg"><IMG SRC="pngs/d13_prespeccy1b_small.jpg" WIDTH=117 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d13_prespeccy1c.jpg" target="prespeccy1c.jpg"><IMG SRC="pngs/d13_prespeccy1c_small.jpg" WIDTH=118 HEIGHT=150></a></TD></TR>
+<TR><TD COLSPAN=5 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Instant pangs of nostalgia for me here - Hamleys would have all of these and more switched on and ready to play. I can still hum the tune to that BMX game.</i></b></font></TD></TR>
+</TABLE>
+Happy days. Hamleys these days doesn't seem the same without a floor
+full of games to play on. With the rise of the consoles, the costs
+involved means that there have to be fewer units to play with, and I'm
+sure that the last time I had a look around, the console games section
+was just a little nook on a single floor.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Sniff... maybe it's time for me to take a little look at eBay before
+writing the next entry...
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR><TR><TD><IMG SRC="chocs/voxpop.png" ALIGN="LEFT"><br><IMG SRC="pngs/tomcat.gif" ALIGN="RIGHT"><TABLE BACKGROUND="/black7.png"><TR><TD><FONT SIZE=5 COLOR="#ffff00"><B><I>&nbsp;&nbsp;&nbsp;&nbsp;TOMAZ KAC&nbsp;&nbsp;&nbsp;&nbsp;</I></B></FONT></TD></TR></TABLE><br>
+<b>RetroSpec have a few legendary remakes under their belts, and their remake of <i>Head Over Heels</i> will retain its classic status for many years to come. Developer Tomaz Kac joins in with our festivities.</b><br><br><b><i><font color="#ff3030">Who are you and what are you up to?</font></i></b><br>
+I am Tomaz Kac, a software developer in real life and remakes author in spare time.
+<br><b><i><font color="#ff3030">Favourite cracker gift (aside from fortune-telling fish, naturally)?<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/6hbX_fRgzqk&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/6hbX_fRgzqk&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Santa Claus: The Movie Trailer</u></b></font></center><font size=-1 color="#ffffff">The "official" Santa Claus movie was just as good as the "official" Santa Claus Spectrum game. <b><i>(2:15)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=6hbX_fRgzqk" target="6hbX_fRgzqk">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</font></i></b><br>
+Tickle me Elmo.... :)
+<br><b><i><font color="#ff3030">Favourite Christmas Song?</font></i></b><br>
+Nothing beats "The Pogues feat. Kristy Ma - Fairytale of New York" ... that is onehelua xmas song :)
+<br><b><i><font color="#ff3030">Best memory of Christmases gone by?</font></i></b><br>
+Getting a Speccy 48k ofcourse... it was not early on though, I had to wait 'til I was 11 or 12. Luckily a neighbour also had one for some months, otherwise I would be playing <i>Thro'the'wall</i> through the whole xmas holidays.
+<br><b><i><font color="#ff3030">Best Speccy Christmas memory?</font></i></b><br>
+See previous question :)
+<br><b><i><font color="#ff3030">Favourite Quality Street chocolate?</font></i></b><br>
+Kit Kat Chunky. Yeah ! :)
+<br><b><i><font color="#ff3030">Best present ever?</font></i></b><br>
+I would say the Speccy, but since my missus will probably see this I would have to go with a great Swatch a few years back. :)
+<br><b><i><font color="#ff3030">Speccy game you most looked forward to?</font></i></b><br>
+<i>Gunfright</i>, definetly... I remember seeing it in the local magazine and I just had to have it. And contrary what many people say, it was GREAT!
+</TD></TR>
+</TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

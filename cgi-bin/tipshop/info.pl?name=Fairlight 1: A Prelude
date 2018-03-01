@@ -1,0 +1,259 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Fairlight 1: A Prelude</b></font></center>
+<center>Number of entries found: 7</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr21/yr21_80.htm">http://www.users.globalnet.co.uk/~jimg/yr21/yr21_80.htm</a>&nbsp; <i>(Kit Simpson in Your Spectrum issue 21)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Energy</td><td>61893,0</td></tr>
+<tr><td>No Weight Limit</td><td>62797,24</td></tr>
+<tr><td>No Locked Doors</td><td>63478,24</td></tr>
+<tr><td>Show Room Drawing</td><td>58813,62:58814,6</td></tr>
+<tr><td>Blindfold Nasties</td><td>32054,0</td></tr>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>Remember the <I>Fairlight</I>
+review last month? You
+may have noticed that
+<B>Dave Nicholls</B> did not give
+any POKEs for the game.
+To spare his blushes,
+cracking <I>Fairlight</I> is not a
+trivial task. The actual
+protection isn't that hard
+but the tactic is to wear you
+out long before you make it
+- there's a total of 140
+stages of decryption from
+you hitting LOAD to the
+game starting! <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	First it decrypts itself 20
+times just to turbo-load the
+second turbo-loader which
+then decrypts itself before
+loading the actual game.
+As the routines are
+cumulative, It should be
+impossible to pop in any
+POKEs as the game loads.
+Enter <B>ZZKJ</B> (whose full
+name is so long we had to
+leave It out last month
+even though&nbsp;he supplied
+the <I>Gyron</I> stuff) and the
+impossible is a short
+program away. Run ZZ's
+program and you'll get
+infinite lives, the ability to
+carry as much as you like,
+five barrels and the ability
+to open any previously
+locked doors! <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	If you don't want all of
+these options then just
+miss out the relevant DATA
+lines, being careful not to
+omit line 400. When you
+run it, you will not see the
+<I>Fairlight</I> loading screen
+although its attributes will
+load and the program will
+run as normal.
+ <i>(ZZKJ in Your Spectrum issue 21)</i> 
+
+<br><hr>
+<CODE>
+   1 REM FAIRLIGHT POKEING PROG <BR>
+  10 LET t=0: FOR n=18000 TO 18175: READ a: LET t=t+a: POKE n,a: NEXT n: READ a: IF t&lt;&gt;a THEN PRINT &quot;CHECKSUM ERROR&quot;: STOP <BR>
+  20 FOR n=20000 TO 1e9: READ a: IF a&lt;999 THEN POKE n,a: NEXT n <BR>
+  30 RANDOMIZE USR 18000 <BR>
+ 100 DATA 221, 33, 203, 92, 17, 93, 5, 62, 255, 55, 205, 86, 5, 48, 241, 6 <BR>
+ 110 DATA 20, 33, 130, 94, 243, 49, 0, 91, 205, 195, 70, 33, 86, 96, 17, 21 <BR>
+ 120 DATA 209, 1, 153, 1, 237, 176, 33, 40, 209, 17, 40, 145, 1, 19, 1, 237 <BR>
+ 130 DATA 176, 235, 54, 201, 6, 9, 38, 145, 17, 186, 70, 26, 111, 203, 182, 19 <BR>
+ 140 DATA 16, 249, 205, 40, 145, 33, 174, 210, 6, 120, 62, 56, 50, 176, 92, 205 <BR>
+ 150 DATA 195, 70,&nbsp;62, 195, 50, 198, 220, 33, 181, 70, 34, 199, 220, 62, 55, 50 <BR>
+ 160 DATA 233, 218, 195, 223, 218, 237, 176, 195, 32, 78, 141, 197, 200, 221 <BR>
+ 170 DATA 224, 229, 232, 235, 247, 197, 229, 62, 32, 237, 177, 182, 242, 197, 70, 35, 209, 237 <BR>
+ 180 DATA 82, 235, 66, 75, 17, 246, 70, 237, 176, 229, 235, 54, 237, 35, 54, 95 <BR>
+ 190 DATA 35, 54, 201, 205, 238, 70, 50, 239, 70, 225, 193, 16, 214, 201, 62 <BR>
+ 200 DATA 58, 61, 61, 230, 127, 237, 79, 184, 146, 147, 129, 129, 236, 244, 225, 247, 208, 22741 <BR>
+ 320 DATA 175, 50, 232, 241: REM Infinite Lives <BR>
+ 330 DATA 62, 24, 50, 110, 245: REM No More Weight Limit <BR>
+ 340 DATA 62, 24, 50, 23, 248: REM No More Locked Doors <BR>
+ 350 DATA 201, 999: REM Data End Marker
+</CODE>
+ <i>(ZZKJ in Your Spectrum issue 21)</i> 
+
+<br><hr>
+This hack gives you all the usual goodies to help you complete the game, but
+only works with the updated version of Fairlight (the one with the Kempston
+joystick interface option).<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<pre>
+ 10 LET T=0: FOR N=18000 TO 18175: READ A: LET T=T+A: POKE N,A: NEXT N: READ A:
+IF T<>A THEN PRINT "CHECKSUM ERROR":  STOP
+ 20 FOR N=20000 TO 1E9: READ A: IF A<999 THEN POKE N,A: NEXT N
+ 30 RANDOMIZE USR 18000
+100 DATA 221,33,203,92,17,93,5,62,255,55,205,86,5,48,241,6
+110 DATA 20,33,130,94,243,49,0,91,205,195,70,33,86,96,17,21
+120 DATA 209,1,153,1,237,176,33,40,209,17,40,145,1,19,1,237
+130 DATA 176,235,54,201,6,9,38,145,17,186,70,26,111,203,182,19
+140 DATA 16,249,205,40,145,33,174,210,6,120,62,12,50,176,92,205
+150 DATA 195,70,62,195,50,198,220,33,181,70,34,199,220,62,55,50
+160 DATA 233,218,195,223,218,237,176,195,32,78,141,197,200,221
+170 DATA 224,229,232,235,247,197,229,62,32,237,177,182,242,197,70,35,209,237
+180 DATA 82,235,66,75,17,246,70,237,176,229,235,54,237,35,54,95
+190 DATA 35,54,201,205,238,70,50,239,70,225,193,16,214,201,62
+200 DATA 58,61,61,230,127,237,79,184,146,147,129,129,236,244,225,247,208,22697
+320 DATA 175,50,197,241: REM INFINITE LIVES
+330 DATA 62,24,50,77,245: REM NO MORE WEIGHT LIMIT
+340 DATA 62,24,50,246,247: REM NO LOCKED DOORS
+350 DATA 62,62,50,189,229,33,6,0,34,190,229: REM SEE ROOM DRAW
+360 DATA 62,201,50,247,242: REM BLINDFOLD BADDIES
+370 DATA 62,201,50,189,236: REM EVERYTHING BUT ROOM IS INVISIBLE
+400 DATA 201,999: REM END MARKER
+</pre>
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Complete solutions</i></b></font></td></tr>
+<TR><TD>Take the Book of Light,
+two small stoppered bottles,
+and the cross hidden under
+the throne, to the room with
+the monk standing at the
+top of the stairs. Drop the
+cross in front of him and
+push it at him - he'll
+disappear. Do the same with
+the next two monks this
+time with the stoppered
+bottles. At the top of the
+stairs pile up a barrel and a
+chair, and using the Book of
+Light, jump into the room
+above. Here you'll find the
+key to the castle gate. If you
+drop the Book, the figure
+here changes into a monk,
+but this seems to be a good
+thing, as I've only been able
+to get back out with him in
+this state.
+ <i>(Keith Gronneberg in Your Sinclair issue 1, Your Sinclair issue 2)</i> 
+
+<br><hr>
+The items required to complete
+the game are the Scroll, one Cross,
+two Potions, the Crown, the Book
+and two Keys. The Wizard is
+entrapped in the Tower which
+you're looking out of on the loading
+screen. To free him you need to
+collect the scroll and the crown
+from the courtyard. When playing
+the game, it's always best
+to dispose of all guards, by killing
+them then dropping them near a
+whirlwind until it takes them away.
+The trolls are best covered by a
+barrel after killing them by placing
+a barrel over the spot you killed
+them. This prevents them from
+reappearing.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;After collecting the hourglass
+cross the drawbridge, using the
+hourglass, and pass the troll.
+Follow the walls, and you will find a
+door hidden in one of the walls. Put
+the crown on view, and you'll be
+able to open the door. Inside the
+tomb, push the body to one side
+and push one of the slabs oft.
+Dropping down into the next tomb,
+collect the book, go through the
+door to appear beside the cliff edge
+outside. Use the scroll to get back
+to the courtyard, and head for the
+room with the cross. Collect the
+cross and potion, and kill the guard
+in the room of the deadly flowers.
+The key you will find is the key to
+the Keep. You&nbsp;can jump past the
+first monk, but you'll need to throw
+potion at the next one and the
+cross at the last one. Kill one guard
+and climb the final stairs. Use the
+barrel from the ground floor,
+jumping on it to get you up into the
+last room. Give the Book to the
+wizard, making sure you collect the
+key first, and he'll change into a
+monk. When the monk pushes you
+out, you may now leave the castle,
+provided you've the crown, and the
+key for the courtyard gate. That's it!
+Finished!
+ <i>(Keith Bradley, Aynsley Herron in Your Sinclair issue 3)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

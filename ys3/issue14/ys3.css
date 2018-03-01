@@ -1,0 +1,98 @@
+#menutxt  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+}
+
+#normtxt  {
+	font-family : arial, sans-serif;
+	font-size : 12pt;
+}
+
+#bigtxt  {
+	font-family : arial, sans-serif;
+	font-size : 18pt;
+}
+
+#smaltxt  {
+	color : #000000;
+	font-size : 8pt;
+	font-family : arial, sans-serif;
+}
+
+#ITTYBITTY  {
+	color : #ffffff;
+	font-size : 8pt;
+	font-family : arial, sans-serif;
+}
+
+#STD  {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+#nottxt  {
+	font-family : arial, sans-serif;
+	font-size : 12pt;
+	color : #ffffff;
+	background-color : #000000;
+	font-weight : bold;
+}
+
+#taptxt  {
+	font-family : arial, sans-serif;
+	font-size : 10pt;
+	color : #ffffff;
+	background-color : #000000;
+}
+
+#boxtxt  {
+	font-family : arial, sans-serif;
+	font-size : 12pt;
+	color : #ffffff;
+	font-weight : bold;
+}
+
+#cvrtxt  {
+	font-family : arial, sans-serif;
+	font-size : 32pt;
+	font-weight : bold;
+}
+
+#cvrsubtxt  {
+	font-family : arial, sans-serif;
+	font-size : 16pt;
+	font-weight : bold;
+}
+
+#ishtxt  {
+	font-family : arial, sans-serif;
+	font-size : 12pt;
+}
+
+#blktxt  {
+	color : #000000;
+	font-family : verdana, arial, sans-serif;
+	font-size : 12pt;
+}
+
+#blutxt  {
+	color : #0000ff;
+	font-family : verdana, arial, sans-serif;
+	font-size : 12pt;
+}
+
+#redtxt  {
+	color : #ff0000;
+	font-family : verdana, arial, sans-serif;
+	font-size : 12pt;
+}
+
+#edtxt  {
+	font-size : 10pt;
+	font-family : Arial, sans-serif;
+}
+
+H2  {
+	font-family : arial, sans-serif;
+}
+

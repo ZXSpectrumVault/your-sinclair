@@ -1,0 +1,375 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix! - SWIV/Storm (8/04/2013)</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b><IMG WIDTH=1 HEIGHT=1 SRC="/daily_bug.png"></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=7&m=04&y=2013">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monday 8th April 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=9&m=04&y=2013">&gt;&gt;&gt;</a></b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: thermometertemplate.txt -->
+<META NAME="keywords" CONTENT="SWIV Andy Ide your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="SWIV review, by Andy Ide from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>SWIV</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo5.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/ingame/SWIV.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../wosfiles/ingame/SWIV.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/loader/SWIV.gif"><IMG WIDTH=256 HEIGHT=192 ALT="Loader" BORDER=0 SRC="../wosfiles/loader/SWIV.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue65/Pages/YourSinclair6500014.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue65/Pages/YourSinclair6500015.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys65_14.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD ALIGN=CENTER><a href="ftp://ftp.worldofspectrum.org/pub/sinclair/games-adverts/s/SWIV.jpg"><IMG BORDER=0 SRC="../wosfiles/advert_thumbs/SWIV.jpg"></a></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+SWIV
+</b></FONT></TD></TR>
+<TR><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/Storm.htm">Storm</a>
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+&pound;10.99
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys65.htm">May 1991 YS65</a>
+</b></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+	<TR><TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="lifeexpectancy.gif" ALT="Life Expectancy:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;83</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="instantappeal.gif" ALT="Instant Appeal:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;92</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newgraphics.gif" ALT="Graphics:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;95</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newaddictiveness.gif" ALT="Addictiveness:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;90</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD>
+		<IMG WIDTH=32 HEIGHT=52 SRC="9temp.gif" ALT="Overall:">&nbsp;</TD><TD><FONT SIZE=7><b>90&deg;</b></FONT>
+	</TD>
+<TD>&nbsp;</TD>
+<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+<table><tr><td align=center><a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0005092" target="wos"><IMG WIDTH=80 HEIGHT=30 SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0005092" target="tip"><IMG WIDTH=80 HEIGHT=27 SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+</TD></TR></TABLE>
+</TD></TR>
+
+<TR><TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="CENTER"><b><i>
+Addictive and very good-looking shoot-'em-up. It's not perfect, but it's still the biz.
+</i></b></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/andyide.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="Andy_Ide_index.htm">Andy Ide</a></i></b></FONT></TD></TR></TABLE>
+<div><b>Right then, who's for a 
+quick flutter? I'll bet you 10 
+candy cigarettes and a packet 
+of Love Hearts you've got a 
+copy of <I><a href="silkworm.htm">Silkworm</a></I> lying in your bedroom 
+cupboard somewhere. Go on, have a look. 
+(We are of course talking 'timeless classic' 
+here, and as big a barg as you could ever 
+buy for &pound;2.99.) So - was I right? Ha! You re 
+too kind, you really are. (Gobble.) </b>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;And judging by the look of Storm's long-awaited 
+second game (their first since <I><a href="stdragon.htm">St Dragon</a></I>) I reckon 
+it's odds on they've got a copy too. You see, <I>SWIV</I>
+is not only a rather corking shoot-'em-up - it's also 
+a simultaneous 2-player thingimeebob which sees you 
+and a mate taking control of a helicopter and jeep and 
+blasting the red silk stockings off loads of 
+unsavoury space spooks. In other words - just like 
+<I><a href="silkworm.htm">Silkworm</a></I>! Hurrah! And it's almost (not quite, but 
+almost) just as super spiffingly good! Let's take a 
+gander... 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b><I>What a lovely pair! </I></b><br>
+Right then, depending on which vehicle you choose 
+you can do different things. If you fancy zooming 
+everywhere at the flick of a fingernail (it's a vertically 
+scroller by the way, as opposed to <I><a href="silkworm.htm">Silkworm</a></I>'s 
+horizontal stuff) then you're best off with the chopper. 
+He's a whooshy kind of chap, but sadly only ever fires 
+in one direction (ie up). 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;The jeep on the other hand is much more your John 
+Travolta showy-offy type. Although he's got to get 
+round buildings and things (which makes him rather 
+harder to control, and easy pickings for walls which 
+squash him to pulp at the bottom of the screen) he can 
+swing and twirl and blast away in any direction he bally 
+well wants to. This means that you can nip him behind 
+enemy gun posts, dashly flip 90&deg; to one side, smile 
+sweetly at the poor little prat whose life your about to 
+terminate, and blammo! Fried sucker sunny side upl 
+So just imagine the double-trouble firepower you're 
+going to inflict when you get a mate round to team up 
+with you and join in the fun! Caramba!! Not 
+that the opposition's going to be a pushover 
+of course. In fact here comes an onslaught 
+of them right now. Eek!
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;There's swooping fighters, tanks, boats,
+gun turrets, bullet-spitting metal balls
+and even some seek-out-and-destroy 
+Silkworm IV homing missiles (which 
+spin round on the screen for absolute 
+yonks and suddenly poke you up the 
+botty when you've forgotten all about 
+them). It's a nighty! And that's just the small fry - about 
+two-thirds through each level you get faced by this 
+creepy wasp-looking fighter plane (which lunges at you 
+every so often, and leaves behind a handy ammo-boosting icon - very <I><a href="silkworm.htm">Silkworm</a></I>-ish) and then at the end 
+there's a different humongous gun thingy to cope with! 
+(Well, they jolly well scared the boxer shorts off me 
+anyway!) 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b><I>Funky fabaroons! </I></b><br>
+So what s the gen? Well, basically, as I said above, it's 
+terribly, terribly good. The smoothness of the action 
+and the graphics are first class - everything whizzes 
+and scrolls without the slightest jerky hiccup, and the 
+design of the baddies and some of those backgrounds 
+(ghost towns, desserts, airstrips, grassland, bits of the 
+sea etc etc) are really state-of-the-art. The explosions 
+are nice and 'crunchy' too and really look like 
+something's being blown to poop. (In fact, I'd even say 
+that it's better than the Amiga version in some bits. 
+Praise indeed, eh?) 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;But the real funky dread is the 2-player option. I 
+don't know about you but if these simultaneous player 
+things are ever any good I always end up experiencing 
+an almost spiritual sense of kinship with the partner I'm 
+playing with - no matter how much I usually 
+hate his guts. Such was the relationship I 
+had with James until he got to shot to 
+ribbons and I realised what a talentless 
+wimp he was. Yep, Spec-chums, it's that 
+good. (And better!) 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Or is it? 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b><I>Ahem </I></b><br>
+You see, despite all this fawning praise I must confess 
+to having a small handful of less-than-vague 
+reservations about <I>SWIV</I>. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;First off, I'm worried about the size. It's only 4 levels 
+deep, and I'd jumped up onto the second one within 
+about 20 minutes of starting the first. (Not that I got 
+back to it for ages, but I'd managed it all the same.) 
+That really took me by surprise. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Second, when you do eventually get onto the later 
+levels you find that the enemies are very similar to the 
+ones before, only harder to kill. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;And, thirdly, although I've mentioned that the graphic 
+backdrops are truly scrumptious, they do tend to 
+gobble up the action sometimes and leave you 
+squinting you at the screen to see what's happening. (I 
+had to turn the colour down on the telly at one point 
+because the red was so fierce and distorting.) 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Cripes, eh? Can this mean that <I>SWIV</I> ends up 
+shortchanging itself and tilting just the wrong side of 
+90&deg;? Or that it runs the mile only to falter before the 
+finishing post? Well, luckily, no it doesn't. Usually a set 
+of grumbles like that would do some serious damage to 
+a game (and it certainly does 
+knock its score down), 
+but this is one of those 
+mischievous little blighters 
+that screams and squawks 
+and shouts for you to give 
+it a Megagame even before 
+you've picked it up out of 
+its box, and keeps up the 
+volume regardless of the 
+niggles and moans. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;With 2-player-mode 
+action and graphics like 
+these you're not going to 
+be wasting your money. It's 
+got serious style and it's as 
+addictive as hell. And for a 
+company that's only on its 
+second game that's some 
+pretty mean achievement. 
+So go out and buy it.
+
+<br><br>
+<p>
+
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR BGCOLOR=white BACKGROUND=""><TD><center><b><i>Ratings given by other magazines</i></b></center></td></tr>
+<tr BGCOLOR=cyan BACKGROUND=""><TD>
+<TABLE WIDTH=100% cellspacing=0 cellpadding=0><TR>
+
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.crashonline.org.uk"><IMG SRC="../crlogo.gif" ALT="CRASH" BORDER=0></a>&nbsp;
+<font color="red" size=6>8/10</font>
+</td>
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.sincuser.f9.co.uk/"><IMG SRC="../sulogo.gif" ALT="Sinclair User" BORDER=0></a>&nbsp;
+<font color="red" size=6>9/10</font>
+</td><td rowspan=2>&nbsp;&nbsp;</td></tr><tr><TD ALIGN=CENTER><font size=1><a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=5039&rid=9083">Crash Review</a></font></td><td ALIGN=CENTER><font size=1>---</font></td></tr></table>
+</td>
+</tr>
+<tr BGCOLOR=white BACKGROUND=""><td><center><font size=2><b><i>Info supplied by the <a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a> database</i></b></font></center></td></tr>
+</table>
+</center>
+<p>
+
+<CENTER><TABLE BORDER BGCOLOR=black BACKGROUND=""><TR><TD COLSPAN=5 BGCOLOR=white><center><b><i>YS Cross-references</i></b></center></td></tr>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue61/Pages/YourSinclair6100105.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">SWIV/Storm</TD><TD BGCOLOR="yellow"><a href="../ys61.htm">YS61</a></TD><TD BGCOLOR="red"><CENTER>FUT<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue71/Pages/YourSinclair7100067.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">SWIV (in Max)</TD><TD BGCOLOR="yellow"><a href="../ys71.htm">YS71</a></TD><TD BGCOLOR="red"><CENTER>&nbsp;<CENTER></TD></TR>
+<tr BGCOLOR=white BACKGROUND=""><td colspan=5><center><font size=2><b><i>Some info from <a href="http://www.worldofspectrum.org/infoseek.cgi">Sinclair Infoseek</a>+<a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a></i></b></font></center></td></tr>
+</TABLE><p></CENTER>
+
+</TD>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR>
+<TD WIDTH=5 BGCOLOR=black></TD>
+<TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="center"><center><TABLE><TR><TD ALIGN="center"><IMG SRC="lifeexpectancy.gif"><br>Life Expectancy</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newgraphics.gif"><BR>Graphics</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="instantappeal.gif"><br>Instant Appeal</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newaddictiveness.gif"><br>Addictiveness</td></tr></table></center></td>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</tr>
+
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+<TR><TD BGCOLOR="#FFFFFF" ALIGN="center"><B><I>Andy Ide has kindly authorised this site<br>
+</i></b></td></tr>
+
+<TR><TD bgcolor="yellow"><center><b><i>Reviews in other magazines:</i></b></center></TD></TR>
+<TR><TD bgcolor="black"><center><TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_0">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue87/Pages/Crash8700050.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue87/Pages/Crash8700051.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cr87_50.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_0"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_1">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue112/Pages/SinclairUser11200026.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue112/Pages/SinclairUser11200027.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/su112_26.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_1"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_2">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue208/Pages/MicroHobby20800028.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue208/Pages/MicroHobby20800029.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/mh208_28.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_2"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Crash (<a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=5039&rid=9083">HTML</a>)</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Sinclair User</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">MicroHobby</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+</center></TD></TR><TR bgcolor="yellow"><TD><CENTER><B><I>Click pages to enlarge</i></b></center></TD></TR>
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

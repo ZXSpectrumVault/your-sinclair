@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+			<title>Instructions Overview</title>
+</head>
+<body bgcolor="#000000">
+
+<center>
+<table width="600" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+
+<table width="100%" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr>
+		<td>
+		<font face="verdana" size="2">
+<h1>BINARY OPERATIONS</h1>
+
+<h2>AND</h2>
+
+This operation takes the contents of the A-register, and another 8-bit field, and examines these, bit by bit. Only if corresponding bits are both "1" does it put a "1" back in this position in the A-register. Otherwise it inserts a "0".
+<br><br>
+For instance, AND A, 07 has the following effect:
+<br><br>
+<center>
+<table border="2">
+<tr>
+<td>A-register before the operation</td><td>00110101</td>
+</tr>
+<tr>
+<td>07</td><td>00000111</td>
+</tr>
+<tr>
+<td>A-register after the AND</td><td>00000101</td>
+</tr>
+</table>
+</center>
+<h2>OR</h2>
+
+This works in a similar way to AND, but this time, the resulting bit is a "1" if either of the initial bits is a "1". So OR A, 05 gives:
+<br><br>
+<center>
+<table border="2">
+<tr>
+<td>A-register before the operation</td><td>01001011</td>
+</tr>
+<tr>
+<td>05</td><td>00000101</td>
+</tr>
+<tr>
+<td>A-register after the OR</td><td>01001111</td>
+</tr>
+</table>
+</center>
+<h2>XOR</h2>
+
+Here the initial bit values must be different for the result to be a "1". XOR A, B3 gives:
+<br><br>
+
+<center>
+<table border="2">
+<tr>
+<td>A-register before the operation</td><td>01011010</td>
+</tr>
+<tr>
+<td>B3</td><td>10110011</td>
+</tr>
+<tr>
+<td>A-register after the XOR</td><td>11101001</td>
+</tr>
+</table>
+</center>
+<br><br>
+It's particularly useful for flipping a register from 0 to 1 and back again. If the A-register contains 0 to start with, every time the instruction XOR A, 01 is executed, the value in the A-register will flip. (0 to 1, back to 0, back to 1 and so on.)
+
+<h2>SET</h2>
+
+Sets one bit of a byte, for example:
+<br><br>
+<font face="courier new">SET 3, A</font>
+<br><br>
+sets the third bit of A, adding 8 to it.
+
+<h2>BIT</h2>
+
+Tests one bit of a byte, for example:
+<br><br>
+<font face="courier new">BIT 3, A</font>
+<br><br>
+checks the third bit of A, and sets the Zero flag if set.
+<br><br>
+		</font>
+		</td>
+</tr>
+</table>
+
+<center><font face="verdana"><a href="z80.html">Back to Main Page</a></font></center>
+
+</td></tr>
+</table>
+</center>
+
+</body>
+</html>

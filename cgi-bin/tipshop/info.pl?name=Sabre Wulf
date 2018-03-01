@@ -1,0 +1,141 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Sabre Wulf</b></font></center>
+<center>Number of entries found: 10</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>Regarding <I>Sabre Wulf</I> he told
+me that you can work out
+where the Amulets are by looking at the natives - when they
+are directly in line vertically or
+horizontally they turn slowly,
+go yellow and play a tune.
+That's the sort of useful&nbsp;fact
+Ultimate would never put in
+their very brief instructions.
+ <i>(A Wiseman in Your Spectrum issue 09)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Maps</i></b></font></td></tr>
+<TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr06/yr06_38.gif">http://www.users.globalnet.co.uk/~jimg/yr06/yr06_38.gif</a>&nbsp; <i>(Janet Barrance in Your Spectrum issue 06)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><I>Sabre Wulf</I> - for
+infinite lives, do POKE
+43575,255 and POKE
+45520,255;
+ <i>(Dave Nicholls, Gavin Beny, Peter Feather in Your Spectrum issue 09)</i> 
+
+<br><hr>
+	Still on the subject of <I>Sabre Wulf</I>, <B>Gavin Beny</B> and young
+<B>Peter Featherstone</B> both supplied POKE 44929,0, which
+disables the baddies in the
+game, so that they only appear
+when you press Fire. To get an
+object after this&nbsp;you've got to
+stand on it and Fire, though
+you don't have to actually collect anything to be able to see
+what happens when you finish!
+ <i>(Dave Nicholls, Gavin Beny, Peter Feather in Your Spectrum issue 09)</i> 
+
+<br><hr>
+	Entering the jungle world of
+<I>Sabre Wulf</I>, I remarked a
+couple of issues ago that I
+couldn't find the necessary
+POKE to keep Sabre Man
+permanently cyan. Well, <B>Nigel Salt</B> has come up with the
+goods (who's a clever boy
+then?) and they are: POKE
+44685,186; POKE 44676,255;
+and POKE 44677,80. Many
+thanks Nigel!
+ <i>(Nigel Salt in Your Spectrum issue 13)</i> 
+
+<br><hr>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives Player 1</td><td>43575,0</td></tr>
+<tr><td>Infinite Lives Player 2</td><td>45520,0</td></tr>
+<tr><td>Immunity</td><td>43848,201</td></tr>
+<tr><td>Less Animals</td><td>44786,58</td></tr>
+<tr><td>See Ending</td><td>39393,0</td></tr>
+<tr><td>Less Enemies</td><td>39702,30</td></tr>
+<tr><td>Always walk fast</td><td>44675,255:44677,84:44685,186</td></tr>
+</table>
+<BR><BR><B>The "See Ending" POKE just shows you the end message after you pick something up.
+Unfortunately, it completely screws up all the graphics in the game.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+
+<br><hr>
+Anyone having trouble with Sabre Wulf? POKE 44685,186; POKE 44676,255 and POKE 44677,80 will give Sabreman invincibility and keep him cyan.
+ <i>(Derek Ribeirio in Sinclair User issue 39)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr06/yr06_36.htm#Hack">http://www.users.globalnet.co.uk/~jimg/yr06/yr06_36.htm#Hack</a>&nbsp; <i>(Dave Nicholls in Your Spectrum issue 06)</i> 
+
+<br><hr>
+HAVING JUST hacked my way through Sabre Wulf, I have discovered how to obtain infinite lives.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Load the first part of the program press BREAK and stop tape. Type: POKE 23756,1:CLEAR 65535. Edit the line, move the cursor to the end and delete: PRINT USR 23424: Add line 10, with any of the following POKES: POKE 43575,255 - for infinite lives, one player; POKE 45520,255 - infinite lives, two players; POKE 45599,255 - number of infinite lives (1 to 255); POKE 41725,255 - no limit on gained lives.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Next add line 20: 20 PRINT USR 23424 and then type RUN to load the rest of the program.
+ <i>(Jeremy Diccox in Sinclair User issue 32)</i> 
+
+<br><hr>
+FOR THOSE who have Sabre Wulf I have a poke which enables you to go twice the normal speed and also makes all animals and amulets disappear. That means that you don't need to get all the pieces of the amulet to beat Sabre Wulf, all you need to do is get into the cave. However, if you press the fire key, everything will turn back to normal as long as you are holding the fire key down.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;First type in MERGE enter, and start your tape as if loading normally. When the header has loaded type in POKE 23756,1. Then press the edit key. Move the cursor to just before the PRINT USR command. Type in POKE 44876,0: then enter. Type in RUN. Then restart the tape. Sometimes the program crashes but that is rare.
+ <i>(Ian Comerford in Sinclair User issue 38)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

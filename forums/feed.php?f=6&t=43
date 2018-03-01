@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+<link rel="self" type="application/atom+xml" href="http://www.ysrnry.co.uk/forums/feed.php?f=6&amp;t=43" />
+
+<title>The Your Sinclair Rock'n'Roll Years</title>
+<subtitle>Your Sinclair, YSRnRY, Sinclair stuff and '80s nostalgia in general</subtitle>
+<link href="http://www.ysrnry.co.uk/forums/index.php" />
+<updated>2011-08-02T05:40:06+01:00</updated>
+
+<author><name><![CDATA[The Your Sinclair Rock'n'Roll Years]]></name></author>
+<id>http://www.ysrnry.co.uk/forums/feed.php?f=6&amp;t=43</id>
+<entry>
+<author><name><![CDATA[warmtoffee]]></name></author>
+<updated>2011-08-02T05:40:06+01:00</updated>
+<id>http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=191#p191</id>
+<link href="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=191#p191"/>
+<title type="html"><![CDATA[Re: Loading screen reveals]]></title>
+
+<content type="html" xml:base="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=191#p191"><![CDATA[
+<div class="ca-bbcode"><div class="ca-bbcode2 ca-quote"><blockquote><div><cite>NickH wrote:</cite><br />And here it is: 59 animated loading screen reveals in 15 minutes:<br /> <a href="http://www.youtube.com/v/05Vh77qLMic"></param><param target="_blank"><strong>object</strong></a> <br /></div></blockquote></div></div><br /><br />Just to say that this video is really great. It took some technical skills to produce but is really rewarding.<br />I was the first to 'Like' it.<p>Statistics: Posted by <a href="http://www.ysrnry.co.uk/forums/memberlist.php?mode=viewprofile&amp;u=69">warmtoffee</a> — Tue Aug 02, 2011 5:40 am</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[NickH]]></name></author>
+<updated>2011-08-01T19:32:01+01:00</updated>
+<id>http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=189#p189</id>
+<link href="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=189#p189"/>
+<title type="html"><![CDATA[Re: Loading screen reveals]]></title>
+
+<content type="html" xml:base="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=189#p189"><![CDATA[
+And here's a quickie I did for the Ultimate releases from the 1988 Collected Works compilation:<br /> <a href="http://www.youtube.com/v/sFZBuNvFlbU"></param><param target="_blank"><strong>object</strong></a> <p>Statistics: Posted by <a href="http://www.ysrnry.co.uk/forums/memberlist.php?mode=viewprofile&amp;u=54">NickH</a> — Mon Aug 01, 2011 7:32 pm</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[NickH]]></name></author>
+<updated>2011-07-31T20:11:59+01:00</updated>
+<id>http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=187#p187</id>
+<link href="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=187#p187"/>
+<title type="html"><![CDATA[Re: Loading screen reveals]]></title>
+
+<content type="html" xml:base="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=187#p187"><![CDATA[
+And here it is: 59 animated loading screen reveals in 15 minutes:<br /> <a href="http://www.youtube.com/v/05Vh77qLMic"></param><param target="_blank"><strong>object</strong></a> <br />Apologies for the music selection - really not in the mood to select and mix a soundtrack, so I chose a teletexty one off the shelf on YouTube. Kinda reminds me of the music which played when TEletext was broadcast on TV, and that had lots of little animations, too <img src="http://www.ysrnry.co.uk/forums/images/smilies/icon_e_smile.gif" alt=":)" title="Smile" /><p>Statistics: Posted by <a href="http://www.ysrnry.co.uk/forums/memberlist.php?mode=viewprofile&amp;u=54">NickH</a> — Sun Jul 31, 2011 8:11 pm</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[NickH]]></name></author>
+<updated>2011-07-31T00:58:18+01:00</updated>
+<id>http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=186#p186</id>
+<link href="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=186#p186"/>
+<title type="html"><![CDATA[Re: Loading screen reveals]]></title>
+
+<content type="html" xml:base="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=186#p186"><![CDATA[
+Here's a proof of concept - have a set of scripts which runs a hacked version of FUSE loading a TZX in realtime which dumps SCR files for each frame at 25fps for 1.5 mins, then convert the frames to GIF, then analyses the GIFs to figure out when the loading screen reveal is, then puts those GIFs to one side to be turned into an AVI.<br /> <a href="http://www.youtube.com/v/AolA5aFDg8I"></param><param target="_blank"><strong>object</strong></a> <br />Now just need to get it all into one script when can be run in parallel on The Beast so it can deal with lots of TZX files automatically.<br /><br />It's one those those ideas which just won't leave me alone until I act upon it...<p>Statistics: Posted by <a href="http://www.ysrnry.co.uk/forums/memberlist.php?mode=viewprofile&amp;u=54">NickH</a> — Sun Jul 31, 2011 12:58 am</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[NickH]]></name></author>
+<updated>2011-07-30T22:11:40+01:00</updated>
+<id>http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=185#p185</id>
+<link href="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=185#p185"/>
+<title type="html"><![CDATA[Re: Loading screen reveals]]></title>
+
+<content type="html" xml:base="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=185#p185"><![CDATA[
+<div class="ca-bbcode"><div class="ca-bbcode2 ca-quote"><blockquote><div><cite>Ritman_Utd wrote:</cite><br />...talking about loading screens, I remember there was at least couple of games were you could play an actual<br />mini-game whilst the main game was loading.<br /><br />I can't for the life of me remember the titles, any help here ?   <img src="http://www.ysrnry.co.uk/forums/images/smilies/icon_question.gif" alt=":?:" title="Question" />  <img src="http://www.ysrnry.co.uk/forums/images/smilies/icon_question.gif" alt=":?:" title="Question" /><br /></div></blockquote></div></div><br /><br />Players pioneered it with Joe Blade 3 (Pacmac), and one of their SU cover games (number selecting).<p>Statistics: Posted by <a href="http://www.ysrnry.co.uk/forums/memberlist.php?mode=viewprofile&amp;u=54">NickH</a> — Sat Jul 30, 2011 10:11 pm</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[Ritman_Utd]]></name></author>
+<updated>2011-07-30T22:03:44+01:00</updated>
+<id>http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=184#p184</id>
+<link href="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=184#p184"/>
+<title type="html"><![CDATA[Re: Loading screen reveals]]></title>
+
+<content type="html" xml:base="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=184#p184"><![CDATA[
+...talking about loading screens, I remember there was at least couple of games were you could play an actual<br />mini-game whilst the main game was loading.<br /><br />I can't for the life of me remember the titles, any help here ?   <img src="http://www.ysrnry.co.uk/forums/images/smilies/icon_question.gif" alt=":?:" title="Question" />  <img src="http://www.ysrnry.co.uk/forums/images/smilies/icon_question.gif" alt=":?:" title="Question" /><p>Statistics: Posted by <a href="http://www.ysrnry.co.uk/forums/memberlist.php?mode=viewprofile&amp;u=86">Ritman_Utd</a> — Sat Jul 30, 2011 10:03 pm</p><hr />
+]]></content>
+</entry>
+<entry>
+<author><name><![CDATA[NickH]]></name></author>
+<updated>2011-07-30T20:56:56+01:00</updated>
+<id>http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=183#p183</id>
+<link href="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=183#p183"/>
+<title type="html"><![CDATA[Loading screen reveals]]></title>
+
+<content type="html" xml:base="http://www.ysrnry.co.uk/forums/viewtopic.php?t=43&amp;p=183#p183"><![CDATA[
+The animator inside me is twitching when I think of the different loading screen reveals. You know the sort of thing - instead of displaying the screen in thirds line-by-line before adding the colours, the screen would load with different bits of it revealing itself in various patterns. Couldn't find a good example on YouTube, so now pondering doing a batch jobby extracting videos of reveals automatically. Examples off the top of my head would be Killed Until Dead, 720 Degrees, Leaderboard...<p>Statistics: Posted by <a href="http://www.ysrnry.co.uk/forums/memberlist.php?mode=viewprofile&amp;u=54">NickH</a> — Sat Jul 30, 2011 8:56 pm</p><hr />
+]]></content>
+</entry>
+</feed>

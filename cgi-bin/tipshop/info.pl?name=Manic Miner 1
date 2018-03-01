@@ -1,0 +1,236 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Manic Miner 1</b></font></center>
+<center>Number of entries found: 9</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>The other main routine is designed to let you play on any of the 20 sheets you
+want and involves pressing ENTER as usual when the loading is completed and the
+music is playing, but then key in the number 6031769. A boot appears where the
+lives normally are displayed. The levels can then be selected by pressing
+between one and five simultaneously. These have been reported in letters quite
+variously, but the common denominator is the figure 6. When the sheet you want
+appears on screen, release the keys and start playing. These are the keys which
+must be pressed simultaneously:
+<ul>
+<li>6 Central Cavern
+<li>61 Cold Room
+<li>62 Menagerie
+<li>621 Uranium Workings
+<li>63 Eugene's Lair
+<li>631 Processing Plant
+<li>632 The Vat
+<li>6321 Kong Beast I
+<li>64 Amoebatrons I
+<li>641 Endorian Forest
+<li>642 Attack of the Mutant Telephones
+<li>6421 Kong Beast II
+<li>643 Ore Refinery
+<li>6431 Skylab Landing Bay
+<li>6432 The Bank
+<li>64321 The 16th Cavern
+<li>65 The Warehouse
+<li>651 Amoebatrons II
+<li>652 Solar Power Generator
+<li>6521 Final Barrier
+</ul>
+ <i>(Unknown in Crash issue 4)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Cheat modes</i></b></font></td></tr>
+<TR><TD>	To finish up, let's take
+a look at the one that
+started it all off - <I>Manic Miner</I>. Although it's
+getting on a bit now,
+there's still a few people
+out there who don't
+know the 'easy' way of
+moving about the rooms.
+On the original Bug-Byte version, you have
+to type in the sequence
+of numbers '6031769'
+(reputed to be Matthew
+Smith's old phone
+number) and, while
+holding down the '6' key
+press combinations of
+keys '1' to '5' to move
+around. When Matthew
+moved to Software
+Projects, however, he
+changed the code to
+'TYPEWRITER' -
+hence the code word for
+JSW. Again, once
+you've typed the code in,
+you hold down the '6'
+key and press
+combinations of keys '1'
+to '6'. All this comes
+from <B>A Wiseman</B>, along
+with&nbspthe original 'infinite
+lives' POKE (for the
+Bug-Byte version <I>only</I>)
+- namely, POKE
+35136,0. <BR>
+ <i>(A Wiseman in Your Spectrum issue 08)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD>	You may remember that
+some months ago I gave the
+infinite lives for Bug-Byte's
+version of <I>Manic Miner</I>. So
+that those of you with the
+Software Project's version
+don't feel left out, <B>A J Bull</B> has
+sent in POKE 35142,0 which
+does the same.
+ <i>(A J Bull in Your Spectrum issue 14)</i> 
+
+<br><hr>
+If you're
+always gasping for air,
+then young <B>Yan</B> has come
+to the rescue with his life
+saving POKES for infinite
+air in both versions of the
+game. You can get the
+Bug-Byte air supply with:<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;34795,195: 34796,241:
+34797,135: 36233,195:
+36234,149: 36235,141.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Software Projects air can
+be got with: <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;34801,195: 34802,247:
+34803,135: 36244,195:
+36245,160: 36246,141.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;You can breathe again now!
+ <i>(Yan in Your Spectrum issue 18)</i> 
+
+<br><hr>
+POKE 36123,0 to make
+some of the nasties go faster than
+normal and some slower.
+ <i>(Maxwell Clark in Your Spectrum issue 20)</i> 
+
+<br><hr>
+<br><h3>(Also works for Manic Miner 2,3,4,5 and Buddah of Suburbia)</h3></CENTER>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>35136,0</td></tr>
+<tr><td>Infinite Oxygen</td><td>34798,0:34799,0:34800,0</td></tr>
+<tr><td>No Collision</td><td>36106,0 (36107,107 to disable this POKE)</td></tr>
+<tr><td>No Horizontal Nasties</td><td>36160,0</td></tr>
+<tr><td>Mystery POKE?</td><td>35160,0</td></tr>
+<tr><td>Alter Enemies</td><td>36150,0</td></tr>
+</table>
+<BR><BR><B>The "No Collision" POKE is a bit dodgy. Not only does some of the screen
+flash if you do hit a nasty, but if you fall from a&nbsp;distance, you end up stuck
+beneath the floor with no way to escape!
+<BR>If you do get stuck, use the "Disable" number listed next to the POKE, and you
+will die as normal. Then you can re-activate the POKE again if needed.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+
+<br><hr>
+
+[The] first routine is to secure a large or unlimited number of lives. One method says, stop the tape after the picture has loaded, BREAK in, LIST and type: 25 POKE 35136,0. Then ENTER, type in RUN and ENTER that, and start the tape again. A better method is to type in before starting the LOAD: MERGE "", press ENTER and start tape. When the OK sign appears at the bottom of the screen, stop the tape immediately. LIST and type in: 25 POKE 35136,0 and then ENTER it. Both routines create unlimited lives.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A similar routine for a larger but limited number of lives is this: Load for a
+few seconds until the screen turns black, then stop the tape, type in INK 7 and
+press ENTER twice and a listing should appear. Type in: 25 POKE 34269,n (where
+n=the number of lives you want) and then ENTER. Too many lives slows the game
+down.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Unknown in Crash issue 4)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>Manic Miner can be one of the most frustrating games when you make stupid mistakes, so I have written a method of POKEing in a number to allow you to 'die' without losing any 'men'.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;First break the program after loading the basic loader -&nbsp;when the screen turns black - and then type-in 'PAPER 7' followed by 35 POKE 35136,0; and RUN; then re-start the tape.
+ <i>(Simon Scott in Sinclair User issue 23)</i> 
+
+<br><hr>
+WE ARE WRITING as we believe readers will be interested in two programs which, when typed in, will either give you 32 lives or let you use a practice mode on Manic Miner.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;For 32 lives, first of all type Merge "". Start tape. Stop the tape&nbsp;after merging the first part of the program. List. Type in line 25 POKE 34269,32. Run. Start tape.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;For practice mode and everlasting lives, type Merge "". Start tape. Stop tape after merging the first part of the program. List. Type in line 25 POKE 35136,0. Run. Load the rest of the program. Press enter. Then type 6031769. A boot will appear by the lives at the bottom. Press all the keys shown at the same time to change stage.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<br>Stage Numbers to press<br>
+ 1 6<br>
+ 2 61<br>
+ 3 62<br>
+ 4 621<br>
+ 5 63<br>
+ 6 136<br>
+ 7 632<br>
+ 8 6321<br>
+ 9 64<br>
+10 641<br>
+11 642<br>
+12 6421<br>
+13 643<br>
+14 6431<br>
+15 6432<br>
+16 12346<br>
+17 65<br>
+18 651<br>
+19 652<br>
+20 1256<br>
+ <i>(S C Chadwick in Sinclair User issue 24)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

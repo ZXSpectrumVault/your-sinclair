@@ -1,0 +1,498 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix!</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=2&m=07&y=2011">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunday 3rd July 2011&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=4&m=07&y=2011">&gt;&gt;&gt;</a></b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: originalcommenttemplate.txt -->
+<META NAME="keywords" CONTENT="Where Time Stood Still Rachael Smith your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="Where Time Stood Still review, by Rachael Smith from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>Where Time Stood Still</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo8.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/ingame/WhereTimeStoodStill.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../wosfiles/ingame/WhereTimeStoodStill.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/loader/WhereTimeStoodStill.gif"><IMG WIDTH=256 HEIGHT=192 ALT="Loader" BORDER=0 SRC="../wosfiles/loader/WhereTimeStoodStill.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue32/Pages/YourSinclair3200032.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue32/Pages/YourSinclair3200033.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys32_32.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD ALIGN=CENTER><a href="ftp://ftp.worldofspectrum.org/pub/sinclair/games-adverts/w/WhereTimeStoodStill.jpg"><IMG BORDER=0 SRC="../wosfiles/advert_thumbs/WhereTimeStoodStill.jpg"></a></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+Where Time Stood Still
+</b></FONT></TD></TR>
+<TR><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/Ocean.htm">Ocean</a>
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+&pound;7.95
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys32.htm">Aug 1988 YS32</a>
+</b></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+	<TR><TD NOWRAP>
+	<IMG SRC="graphics.gif" ALT="Graphics: "><IMG SRC="8.gif" ALT="8/10"><BR>
+	<IMG SRC="playability.gif" ALT="Playability: "><IMG SRC="9.gif" ALT="9/10"><BR>
+	<IMG SRC="vfm.gif" ALT="VFM: "><IMG SRC="9.gif" ALT="9/10"><BR>
+	<IMG SRC="addictiveness.gif" ALT="Addictiveness: "><IMG SRC="9.gif" ALT="9/10"><BR>
+	</TD>
+	<TD>
+	<IMG SRC="9rating.gif"  ALT="9/10 Overall"><br>
+	</TD>
+<TD>&nbsp;</TD>
+<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+<table><tr><td align=center><a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0005671" target="wos"><IMG SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0005671" target="tip"><IMG SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+</TD></TR></TABLE>
+</TD></TR>
+<TR><TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="CENTER"><b><i>
+A superb arcade adventure for 128k owners only. All the thrills of lost worlds and lands that time forgot in a true computer movie!
+</i></b></TD></TR>
+
+
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/rachs.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="Rachael_Smith_index.htm">Rachael Smith</a></i></b></FONT></TD></TR></TABLE>
+<div><TABLE ALIGN="RIGHT"><TR><TD ALIGN="CENTER"><TABLE CELLSPACING=3 CELLPADDING=0 WIDTH=88 HEIGHT=72 BACKGROUND="" BGCOLOR="black"><TR><TD BACKGROUND="../tvprog/mini_1988menu.jpg"><a TARGET="w0005671" href="http://www.youtube.com/watch?v=RAOTY1034L8#t=2m42"><IMG SRC="../tvprog/play.png" BORDER=0></a></TD></TR></TABLE></TD></TR><TR><TD ALIGN="CENTER"><a TARGET="w0005671" href="http://www.youtube.com/watch?v=RAOTY1034L8#t=2m42"><FONT SIZE=2><b><i>Game Footage</i></b></font></a></TD></TR></TABLE><b>Like the <I>YS</I> office at five to five on a Friday, time appears to have stopped in Ocean's latest 128k only, arcade adventure. We sent aged... errrrm ageless <I>Rachael J Smith</I> in search of living fossils. <I>(Try </I>Sinclair Abuser<I> and </I>Crush<I>. Ed)</I></b>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;First they gave you 
+<I><a href="greatescape.htm">The Great Escape</a></I> 
+but now those 
+dinosaur hunters at 
+Denton Designs 
+deliver an even greater escape. 
+It's just like some Saturday 
+afternoon movie where big 
+lizards with stick-on rubber fins 
+stand in for Stegosauri
+(classically educated reviewer), 
+and muscular hunks spout lines 
+like, "It's as if time stood still 
+(gasp)." Well, you'd be advised to 
+look lively if you don't want to 
+end up a dinosaur's dinner. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;The lost plateau is not the 
+ideal place to crash-land your 
+four-seater plane, but it was all 
+Jarret could do to bring his 
+passengers to safety on the 
+edge of a cliff. Now he's 
+responsible for taking them out 
+of this prehistoric hell-hole and 
+only one thing is certain - it's 
+going to be no picnic (the
+Thermos got broken in the 
+crash). 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;And who are they, these four 
+individuals, thrown together by 
+fate? Jarret himself is the he-man all-rounder. Athletic 
+Cambridge scholar Dirk was 
+recently married to Gloria, a 
+tough cookie in a fragile frame. 
+And then there's Clive, an 
+overweight businessman and 
+Gloria's father, who's about to 
+learn that American Express will 
+<I>not</I> do nicely for a crowd of 
+angry natives. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Each of these characters has 
+their own uses, not the least of 
+which is the ability to carry up to 
+four objects, one of which is a 
+bag which can hold a further 
+four. Not that they're mere 
+beasts of burden. Each one also 
+has their own character, which 
+you'll need to exploit to bring 
+everyone home to safety. For 
+example Dirk is a great help 
+providing Gloria survives, but if 
+she bites the dust he becomes a 
+hopeless dork! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;For such a vast and complex 
+adventure, play is remarkably 
+simple, with just four direction 
+controls, plus fire to make the 
+character run (must be that 
+jungle food)  though this is 
+hardly advisable if you're leading 
+the group as you're likely to 
+leave the rest behind. There are 
+a!so two menus <I>(Yum, yum. Phil)</I> 
+- one to select characters and 
+the other to control their inventory. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;The graphics are everything 
+you could ask and as 
+imaginative as you'd expect from 
+Denton, and the depth of the 
+game is quite superb. My only 
+grumble is that you can't save a 
+game, which means you'll spend 
+a lot of time repeating the early 
+stages when you make a fatal 
+mistake. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;But all in all <I>Where Time Stood 
+Still</I> looks destined to go down 
+as a classic Spectrum game 
+and it's almost certainly the best 
+that's been produced solely for 
+the 128. More of this sort of 
+thing, and the machine will have 
+a whole new lease of fife. So get 
+into the realm of the dinosaurs 
+and find out how time flies when 
+it stands still! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<center><font size=7><b>JARRET'S LOG</b></font></center>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<b><I>Ever since our plane crashed into this godforsaken jungle I
+have been determined to keep a record of our adventures. 
+Unluckily there is no recording studio available so I have 
+had to settle for a diary... in the hope that one day 
+somebody makes a computer game of the whole affair! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;1 May: We spent the night camping by the plane - at least 
+Clive did. Gloria says it's just his age. As dawn broke, I 
+gathered my troops together. The first job was to collect the 
+wreckage, including the bottle, for water. I spread it out 
+amongst our party (we're party animals really), so that 
+should somebody perish we wouldn't lose everything. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;I got to thinking about the computer game You could 
+just press space to bring down a window containing our 
+portraits, select one with the cursor arrow, then select with 
+space again. That might produce another window, with a 
+portrait of the person in question - in this case, Gloria - 
+and the four pockets. At the bottom would be any objects 
+lying around the vicinity, which could be selected by 
+moving onto their box, pressing fire, which would change 
+the cursor into the object, then dragging it into the top of 
+the window. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;We walked left for a further box of supplies, before 
+walking right to pick up a couple more objects, then 
+heading upscreen, towards the mountains. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;1 May (later): After following the cliff face along to the left, 
+and dodging the odd falling boulder (which reminded me of 
+Gloria), we came to a low slung bridge (also like Gloria). A 
+thought here on the computer game (maybe they could call 
+it </I>Jarret Of The Jungle<I>) - a sound effects option would be 
+ useful, so that you could hear when rocks were about to 
+drop onto you. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;But I digress. We were crossing the bridge when 
+suddenly the planks gave way below chubby Clive. Luckily 
+I'd remembered to pick up the rope in the first screen (what 
+- don't say you forgot), and dragged him out. Clive was 
+grateful for the drag and is now poncing around the jungle 
+like Danny La Rue on an off day. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;2 May: Night draws on - at least Clive wears his. For the 
+rest of us this is a welcome chance to sleep. Well, for Gloria 
+and her diminutive squirt of a boyfriend, Dirk, it is. Never 
+could a man have been more accurately named - if only 
+his surname was Head. What Gloria needs is a real man -
+one with a macho name like... well, Jarret's pretty butch, 
+don't you think? 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;I stay awake though. There are even more important 
+matters in hand - though I've told Dirk it'll make him go 
+blind! We headed to the right after the bridge, following the 
+cliff edge, and watching out for more falling boulders, until 
+we reached a safe place to get some shut-eye, safe in the 
+shadow of this character selection menu. It allows us to 
+turn off the infernal music which is keeping us awake, or 
+to reset the game if we want to live through my finest 
+moments again. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;2 May (later): I have been persuaded to make a detour into 
+the mountains on a winding path. It proved fruitful 
+because we found a knife. That can mean only one thing - 
+the Swiss Army were here before us. At least if I need to get 
+a boy scout out of a dinosaur's hoof I'll know what to do. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Talking of fruits, we were taking a well-earned rest 
+when Clive started to grumble. If only he'd keep his voice 
+down but speech bubbles that size can be seen half a mile 
+away. A leader has to understand the psychology of his 
+charges though. I listen to their requests for food, water 
+and a tea-break - then look at the bar chart at the bottom 
+to see if they're telling the truth. Trying to keep everybody 
+happy, and stopping to let the slow-coaches catch up in 
+case they wander off on their own is more like being a 
+teacher with a school party. Next time I crash my plane in 
+the jungle, I travel alone! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;2 May (even later): We were heading away from the 
+mountains when we found ourselves in brown sticky stuff. 
+I know that Clive had been grumbling that he wanted to 
+use the bog, but the massive swamp which blocked our 
+path was not what he had in mind. Gloria said that if you 
+walked onto it you'd be sucked under immediately. I began 
+searching for a path. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Eventually I found one, but discovered that if you stop 
+walking for one moment, you begin to sink. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;With wellies full of muddy waters (who insists on 
+singing an r'n'b song about how sweaty my feet 
+are!), I returned to land, and found that there are several 
+paths across the swamp - only one of which will get you 
+to the other side. A-maze-ing! I was also able to tell the 
+others that there's a giant octopus lurking by the waters 
+edge, which tries to grasp you with his tentacles. Clive let 
+out a shrill screech and donned his cricketer's box. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Meanwhile, not wanting to appear egotistical, I think 
+</I>Jungle Jarret Saves His Chums (Part 1)<I> sounds good. 
+Just then a flippin' big budgie swooped in. 'A pterodactyl,' 
+shouted Dirk. 'Terror - schmmeror,' I replied, 'I just hope 
+it's not got loose bowels!' I was about to shout 'Shoo!' 
+when... Help. The damned thing's got me in its beak. 
+Doesn't it know that I'm the hero of this escapade...
+ARRGGH! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;(From this point the diary continues in another, more 
+feminine hand...) 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Following the discovery by our gallant leader that this is 
+one of the areas plagued by predatory pterodactyls, 
+swiftly followed by his sudden demise, I, Gloria, took 
+charge of the remaining trio - immediately ordering Clive 
+to complete this log in his elegant calligraphy. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Now without the need to stop for photographs every five 
+hundred yards, we made good progress. I soon found a 
+path across the swamp, about half way up, which wound 
+round, but eventually delivered us to dry land. That led 
+straight into a native village, but luckily Dirk has a little 
+knack - for translation that is. I always suspected he was 
+bilingual.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Soon Clive was gossiping away with the natives about 
+dress hints, how to sew sequins onto a loincloth, and how 
+dropping the odd bauble may make them more friendly. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Now it's a question of going down to the river, where we 
+can refill the water bottle, then finding a way across. There 
+appears to be a path behind the waterfall, but I'm not sure 
+about a Bridge </I>Under<I> Troubled Waters. After that I've 
+heard tell of a stone circle and another native village, as 
+well as a temple and many other thrills. But the most 
+exciting prospect is... appearing on Wogan when I lead 
+these dead-legs to safety. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;What about Jarret though, you ask. A tear forms in my 
+eye. He shall have his memorial - the computer game. 
+Only it's going to be called The Heroic Adventures Of The 
+Great And Good Gloria. So there! 
+</I></b>
+
+<br><br>
+<p>
+
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR BGCOLOR=white BACKGROUND=""><TD><center><b><i>Ratings given by other magazines</i></b></center></td></tr>
+<tr BGCOLOR=cyan BACKGROUND=""><TD>
+<TABLE WIDTH=100% cellspacing=0 cellpadding=0><TR>
+
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.crashonline.org.uk"><IMG SRC="../crlogo.gif" ALT="CRASH" BORDER=0></a>&nbsp;
+<font color="red" size=6>9/10</font>
+</td>
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.sincuser.f9.co.uk/"><IMG SRC="../sulogo.gif" ALT="Sinclair User" BORDER=0></a>&nbsp;
+<font color="red" size=6>9/10</font>
+</td><td rowspan=2>&nbsp;&nbsp;</td></tr><tr><TD ALIGN=CENTER><font size=1><a href="http://www.crashonline.org.uk/54/wtss.htm">Crash Review</a></font></td><td ALIGN=CENTER><font size=1>---</font></td></tr></table>
+</td>
+</tr>
+<tr BGCOLOR=white BACKGROUND=""><td><center><font size=2><b><i>Info supplied by the <a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a> database</i></b></font></center></td></tr>
+</table>
+</center>
+<p>
+
+<CENTER><TABLE BORDER BGCOLOR=black BACKGROUND=""><TR><TD COLSPAN=5 BGCOLOR=white><center><b><i>YS Cross-references</i></b></center></td></tr>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue20/Pages/YourSinclair2000005.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Where Time Stood Still/Ocean</TD><TD BGCOLOR="yellow"><a href="../ys20.htm">YS20</a></TD><TD BGCOLOR="red"><CENTER>NEWS<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue25/Pages/YourSinclair2500010.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Where Time Stood Still/Ocean</TD><TD BGCOLOR="yellow"><a href="../ys25.htm">YS25</a></TD><TD BGCOLOR="red"><CENTER>FUT<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue31/Pages/YourSinclair3100010.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Where Time Stood Still/Ocean</TD><TD BGCOLOR="yellow"><a href="../ys31.htm">YS31</a></TD><TD BGCOLOR="red"><CENTER>PRE<CENTER></TD></TR>
+<tr BGCOLOR=white BACKGROUND=""><td colspan=5><center><font size=2><b><i>Some info from <a href="http://www.worldofspectrum.org/infoseek.cgi">Sinclair Infoseek</a>+<a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a></i></b></font></center></td></tr>
+</TABLE><p></CENTER>
+
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+<TR><TD BGCOLOR="#FFFFFF" ALIGN="center"><B><I>Rachael Smith has kindly authorised this site<br>
+</i></b></td></tr>
+
+<TR><TD bgcolor="yellow"><center><b><i>Reviews in other magazines:</i></b></center></TD></TR>
+<TR><TD bgcolor="black"><center><TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_0">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue54/Pages/Crash5400014.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue54/Pages/Crash5400015.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cr54_14.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_0"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_1">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue077/Pages/SinclairUser07700042.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue077/Pages/SinclairUser07700043.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/su077_42.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_1"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_2">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue083/Pages/CVG08300052.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue083/Pages/CVG08300053.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cvg083_52.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_2"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Crash (<a href="http://www.crashonline.org.uk/54/wtss.htm">HTML</a>)</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Sinclair User</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">C+VG</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+<TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_3">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue09/Pages/TheGamesMachine0900044.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue09/Pages/TheGamesMachine0900045.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/tgm09_44.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_3"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_4">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue12/Pages/ACE1200056.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue12/Pages/ACE1200057.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/ace12_56.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_4"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_5">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue178/Pages/MicroHobby17800032.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue178/Pages/MicroHobby17800033.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/mh178_32.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_5"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">The Games Machine</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">ACE</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">MicroHobby</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+</center></TD></TR><TR bgcolor="yellow"><TD><CENTER><B><I>Click pages to enlarge</i></b></center></TD></TR>
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

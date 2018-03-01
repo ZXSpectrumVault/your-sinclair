@@ -1,0 +1,165 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 5</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=4&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;4</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=6&show_all=1"><font size=2>DEC&nbsp;6&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_5.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_5.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>HARD DRIVIN'</i></b></font><br><font size=3 color="red"><b><i>20 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+This one's an odd one - it was a major Christmas 1989 title with
+little in the way of hype and a lot in the way of it feeling more like
+a curiosity than a computer game. It charting for a single month as
+the Christmas #2 before immediately dropping out never to be seen
+again seems to bear out that idea.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Even the appearance of the original arcade only produced a muted
+reaction from the press. Instead of raving about the introduction of
+filled vector graphics in a driving game there were lots of comments
+along the lines of its realism, the fact it has a gearbox, clutch and
+even an ignition key to start the engine with. Apparently the arcade
+game was created to teach people how to drive, but that just seems to
+me to be hyperbole. The fact that the brown cow mooed when you ran
+it over appeared to get more coverage than the stunt track.
+<TABLE ALIGN="center"><TR><TD VALIGN="top"><TABLE  WIDTH=282 CELLPADDING=5><TR>
+<TD><a href="pngs/d5_1989_pre3.png" target="1989_pre3.png"><IMG SRC="pngs/d5_1989_pre3_small.jpg" WIDTH=282 HEIGHT=200></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>It maybe a simple page design, but that giant arcade map screenshot went a long long way for me. The concept of a stunt track blew my mind.</i></b></font></TD></TR>
+</TABLE></TD><TD>&nbsp;&nbsp;</TD><TD VALIGN="top"><TABLE  WIDTH=277 CELLPADDING=5><TR>
+<TD><a href="pngs/d5_1989_ad8.png" target="1989_ad8.png"><IMG SRC="pngs/d5_1989_ad8_small.jpg" WIDTH=277 HEIGHT=200></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Notice that it's advertised as a "driving simulator"?</i></b></font></TD></TR>
+</TABLE></TD></TR></TABLE>
+<TABLE ALIGN="left" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d5_1989_rev4.png" target="1989_rev4.png"><IMG SRC="pngs/d5_1989_rev4_small.jpg" WIDTH=300 HEIGHT=195></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>By the end of 1989, Crash had turned into a pamphlet - Smash reviews were lucky to get a full page, and yet they still persisted in using lots of padding artwork...</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/Wqi3O2K-oRU&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Wqi3O2K-oRU&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Woolworth's Martika Advert (1989)</u></b></font></center><font size=-1 color="#ffffff">By the end of the '80s, they'd got rid of their song'n'dance adverts, instead going for the more minimalist approach. 'Twas a very sad day when that happened... <b><i>(0:31)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=Wqi3O2K-oRU" target="Wqi3O2K-oRU">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+And yet it was an important milestone in the evolution of driving
+games: a full 3D playing area. OK, so the polygon count was as low as
+possible, but the introduction of 3D allowed for the novel "action
+replay" feature showing your crash from the point of view of someone
+watching in the arena. The one-on-one race at the end of the game
+should you complete the Speed Course quick enough also had the nice
+touch where it records your own movements and, should you win the
+race, your car becomes the car that everyone has to beat the next time
+someone reaches the final.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;As a result, there wasn't much hype, really just pure curiosity about
+the possibility of a Freescape-style arcade game. It's due to YS's
+typical MegaPreview double-page spread that <i>Hard Drivin'</i> is locked
+into my memories of Christmas hype as the map of the courses plus the
+large screenshots forms a striking image for me.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Crash and YS both gave the game 90%+ ratings, but surprisingly it was
+SU who looked beyond the shiny new 3D graphics to see the small and
+limited gameplay and marked it down accordingly.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Sometimes a novelty really is just a novelty - this is a game every
+Speccy player should try, but shouldn't expect to be playing for too
+long. But what's Christmas without the odd novelty?!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR><TR><TD><IMG SRC="chocs/voxpop.png" ALIGN="LEFT"><br><IMG SRC="pngs/steveanderson.png" ALIGN="RIGHT"><TABLE BACKGROUND="/black7.png"><TR><TD><FONT SIZE=5 COLOR="#ffff00"><B><I>&nbsp;&nbsp;&nbsp;&nbsp;STEVE ANDERSON&nbsp;&nbsp;&nbsp;&nbsp;</I></B></FONT></TD></TR></TABLE><br>
+<b>Steve is a member of that rare breed - the <i>Your Sinclair</i> fan who eventually became one of its writers. What was ZXmas like for you, Steve?</b><br><br><b><i><font color="#ff3030">Who are you and what are you up to?</font></i></b><br>
+I am Steve Anderson. I used to trouble the pages of YS from time to
+time. I wrote what is officially the worst covertape game of all time
+<a href="http://www.shadowmagic.org.uk/spectrum/covergames.html">according to WoS</a>, something I am obviously very proud of!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;These days I write (award winning) games for kids and wrangle servers
+at work, circuit-bend toys and "be" a "dad" at home, and get together
+in a loose association of super-hero scientific minds to debunk
+pseudoscience when necessary. (All true!)
+<br><b><i><font color="#ff3030">Favourite cracker gift (aside from fortune-telling fish, naturally)?</font></i></b><br>
+The overwhelming sense of disappointment, does that count? Otherwise
+it's the plastic moustache.
+<br><b><i><font color="#ff3030">Favourite Christmas Song? <TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/OFCIaMyMORg&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/OFCIaMyMORg&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Who Framed Roger Rabbit Trailer</u></b></font></center><font size=-1 color="#ffffff">An animated movie before proper 3D graphics really took off - and one of the things which inspired me to take up animation myself. <b><i>(3:14)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=OFCIaMyMORg" target="OFCIaMyMORg">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</font></i></b><br>
+I'm going to be greedy and take two:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.youtube.com/watch?v=IippcraBPKA">Just Like Christmas</a> by Low.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- <a href="http://www.youtube.com/watch?v=BbL9Vsobx8I">We're All Going To Die</a> by Malcolm Middleton.
+<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/B1pZtRjfcgs&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/B1pZtRjfcgs&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>ITV Xmas 1989 Line Up</u></b></font></center><font size=-1 color="#ffffff">A sample of '80s telly on ITV, Xmas Day 1989, including Barrymore and Benny. <b><i>(1:13)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=B1pZtRjfcgs" target="B1pZtRjfcgs">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+<br><b><i><font color="#ff3030">Best memory of Christmases gone by?</font></i></b><br>
+About 10 years ago it was just me and my cats for Christmas and Boxing
+Day. I borrowed a video projector from work and watched <i>Dawn of the
+Dead</i> instead of the Queen, scoffed mince pies a-plenty and played
+whatever <i>Tomb Raider</i> was recent at the time into the small hours. It
+was great!
+<br><b><i><font color="#ff3030">Best Speccy Christmas memory?</font></i></b><br>
+48K (and I know some other wag will have said this, but - hey - I don't care)
+<br><b><i><font color="#ff3030">Favourite Quality Street chocolate?</font></i></b><br>
+I favour the Cadbury selection.
+<br><b><i><font color="#ff3030">Best present ever?</font></i></b><br>
+1984: Got my Spectrum. How could that be beaten? My parents split up a
+few days later, mind, but for about three days it was awesome. Even
+<i>Make-a-Chip</i> rocked.
+<br><b><i><font color="#ff3030">Speccy game you most looked forward to?</font></i></b><br>
+<i>Back to Skool</i>. I adored <i>Skool Daze</i> so when I found out there was going
+to be a sequel I was cock-a-hoop in the way only a child who has never
+been burnt by lazy sequels can be. (Fortunately it was really good,
+bugs and all.)
+</TD></TR>
+</TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

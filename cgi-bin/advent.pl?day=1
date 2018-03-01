@@ -1,0 +1,160 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 1</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT"><font size=2>&nbsp;</font></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=2&show_all=1"><font size=2>DEC&nbsp;2&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_1.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_1.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>ROBOCOP</i></b></font><br><font size=3 color="red"><b><i>24 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+We open this series with an oddity. <i>Robocop</i> was a slow-burner. The
+original movie didn't stand out from the crowd when it was released in
+1987, and it was so low-key that the computer game of the film was
+planned to be released at the same time as the movie video release.
+The coin-op manufacturers weren't too interested in the title at
+first, leading to the odd situation where Ocean got the licence first
+and Data East had to sublicence the arcade rights from Ocean when they
+realised just what was on offer here.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="right" WIDTH=200 CELLPADDING=5><TR>
+<TD><a href="pngs/d1_1988_ad17.png" target="1988_ad17.png"><IMG SRC="pngs/d1_1988_ad17_small.jpg" WIDTH=200 HEIGHT=293></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>A very understated ad campaign for <i>Robocop</i> - no double-page ad, just this simple frame from the movie.</i></b></font></TD></TR>
+</TABLE>The pre-release news didn't grab me at all. Ocean already had a movie
+game under their belt during 1988 with <i>Platoon</i>, and together with other
+cinema-inspired offerings from the other software houses, I was
+non-plussed with the whole concept. It was just another film licence.
+Even the magazine preview spreads of the time implied that the game
+wasn't anything special.
+<TABLE ALIGN="center" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d1_1988_pre5.png" target="1988_pre5.png"><IMG SRC="pngs/d1_1988_pre5_small.jpg" WIDTH=300 HEIGHT=213></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Notice how <i>Robocop</i> is given equal billing to <i>Rambo III</i>? No one knew how big it was going to be.</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/y1EUqPXoNno&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/y1EUqPXoNno&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Crash Robocop Demo</u></b></font></center><font size=-1 color="#ffffff">Notice the rather nice boot-up sequence? Also everything gets killed by a single bullet - which would have made those three-way bullets <i>much</i> nicer to have in the finished game. <b><i>(4:29)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=y1EUqPXoNno" target="y1EUqPXoNno">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+All that changed when Crash put a one-level playable demo on their
+November 1988 issue. I was already fan of <i>Rolling Thunder</i>'s platform shooter
+format, so when Robocop's warehouse level was given away for free, it
+drew me in. The smooth graphics, large map, and the ability to aim
+your gun to shoot at nasties on platforms above and below you had
+improved on the <i>Rolling Thunder</i> formula immensely.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;I was hooked, and took to replaying the level against the clock whilst
+trying to beat it without getting hit by a single bullet. It's a good
+reflection of the game that I put in the hours required in order to do
+that. Eventually the magazines reviewed it, and Crash gave it a
+three-page spread in their Christmas issue. I was sold on it,
+immediately ordered a copy, and played it to death.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/YUVs7vXNZiw&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/YUVs7vXNZiw&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Full length Ariston TV advert</u></b></font></center><font size=-1 color="#ffffff">The <i>Robocop</i> theme tune was used in this rather clever advert for Ariston. The tune was taken from the Gameboy version and really was recorded just by connecting a tape recorder to a Gameboy's headphone socket! <b><i>(2:30)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=YUVs7vXNZiw" target="YUVs7vXNZiw">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+It was one of those games which just kept on giving. As the nasties
+attacked you in a set pattern, you were able to get further and
+further into the game. There was also enough variety throughout the
+levels to keep you interested, and a high enough difficulty level to
+pose a serious challenge. It formed the template for future movie
+conversions: multiple stages, various action stages (usually a man
+running about slaughtering everything, with maybe an exploration
+element thrown in), divided up with the odd puzzle level to spice
+things up a bit.
+<TABLE ALIGN="center" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d1_1988_rev2.png" target="1988_rev2.png"><IMG SRC="pngs/d1_1988_rev2_small.jpg" WIDTH=300 HEIGHT=218></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Crash goes all-out with a three-page review - a format restricted to the 1988 Christmas Special. Lots of padding, though.</i></b></font></TD></TR>
+</TABLE>
+The tunes on the 128k version were well composed, and one of them
+would even turn up as the soundtrack to a series of TV commercials for
+Ariston ("And on. And on. And on. And Ariston.")
+<br>&nbsp;&nbsp;&nbsp;&nbsp;For a game which had so little hype, it did staggeringly well.
+Although it didn't dent the Top Ten for Christmas 1988 due to so many
+other contenders that year, it went to #1 in January 1989 and
+practically stayed there for the rest of the year. Even throughout
+1990 it was still dipping in and out of the Top Ten, making it one of
+the biggest selling Spectrum games of all time.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR><TR><TD><IMG SRC="chocs/voxpop.png" ALIGN="LEFT"><br><IMG SRC="pngs/gerard.gif" ALIGN="RIGHT"><TABLE BACKGROUND="/black7.png"><TR><TD><FONT SIZE=5 COLOR="#ffff00"><B><I>&nbsp;&nbsp;&nbsp;&nbsp;GERARD SWEENEY&nbsp;&nbsp;&nbsp;&nbsp;</I></B></FONT></TD></TR></TABLE><br>
+<b>We asked various well known and not so well known players in the Speccy scene from the past and present what their own ZXmas was like. First up is Gerard, part of the backbone of today's Speccy retroscene. Go for it Ger...</b><br><br><b><i><font color="#ff3030">Who are you and what are you up to?</font></i></b><br>
+I'm Gerard Sweeney.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;In the real world, I'm a happily married father of twin boys (Hello, Jo, Matthew and Connor!), and work as a Senior ICT Technician for a local Council's Education dept.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;In the far more enjoyable world <i>(OI! [THWACK!!] Jo)</i>, I run The Tipshop, and help out with World of Spectrum in a variety of ways - right now I rattle off emails/Facebook/LinkedIn messages to hundreds of unsuspecting individuals, asking if they were involved with a Speccy title 20+ years ago.
+<br><b><i><font color="#ff3030">Favourite cracker gift (aside from fortune-telling fish, naturally)?</font></i></b><br>
+A bottle-opener key-ring in the shape of a hippo - it's been invaluable at get togethers. <TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/wHiuX2N63JQ&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wHiuX2N63JQ&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>BBC1 Christmas Logo Montage</u></b></font></center><font size=-1 color="#ffffff">The perfect way to start this Advent Calendar - every BBC1 Christmas logo from 1974 through to 2007. You have my permission to drown yourself in festive nostalgia! <b><i>(6:28)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=wHiuX2N63JQ" target="wHiuX2N63JQ">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+<br><b><i><font color="#ff3030">Favourite Christmas Song?</font></i></b><br>
+Always On My Mind, by Pet Shop Boys. (Who out there forgot this was a Xmas #1?)
+<br><b><i><font color="#ff3030">Best memory of Christmases gone by?</font></i></b><br>
+On the record, the first Xmas with my boys.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Off the record, the Xmas I got my Speccy. I'd been asking Santa for it for months (cough), and just about shredded every present looking for it on Xmas Day.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;It wasn't there, and I sat with a trembling lip. Shortly afterwards, my Dad asked me to get something out of the kitchen to find Santa had left it on the kitchen table by mistake (silly old Claus!).
+<br><b><i><font color="#ff3030">Best Speccy Christmas memory?</font></i></b><br>
+See above :)
+<br><b><i><font color="#ff3030">Favourite Quality Street chocolate?</font></i></b><br>
+To be honest, I don't know which one is which. I'm not fussy <i>(you mean you're a greedy bast? Ed)</i>.. Let's say ummm.. the purple one - whichever it is.
+<br><b><i><font color="#ff3030">Best present ever?</font></i></b><br>
+See above :)
+<br><b><i><font color="#ff3030">Speccy game you most looked forward to?</font></i></b><br>
+<i>Operation Wolf</i> - and it didn't disappoint.
+</TD></TR>
+</TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

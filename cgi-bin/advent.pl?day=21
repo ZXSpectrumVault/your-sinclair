@@ -1,0 +1,168 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 21</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=20&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;20</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=22&show_all=1"><font size=2>DEC&nbsp;22&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_21.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_21.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>OUTRUN</i></b></font><br><font size=3 color="red"><b><i>4 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+When it comes to Christmas hype, the megagames, the true superstars,
+then 1987's <i>OutRun</i> is indisputably The Daddy.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;For me, the magic started in the Summer of '87. I had only just
+discovered Your Sinclair (computer magazines in general, in fact, but
+I was only reading YS at the time), and a couple of issues into our
+relationship (purely platonic) they'd started their Slots Of Fun
+arcades feature where they'd send one of the YS personalities to a
+holiday resort for the day and see what's new in the arcades.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="right" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d21_1987_pre3.png" target="1987_pre3.png"><IMG SRC="pngs/d21_1987_pre3_small.jpg" WIDTH=300 HEIGHT=215></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Out of all the features in all of the magazines in the entire run throughout the Speccy age, this brought me so much pleasure it was unbelievable. The artwork, the eagerly-awaited screenshot, the accompanying puff piece all combined to form an indelible memory from my childhood. This is YS at its best.</i></b></font></TD></TR>
+</TABLE><TABLE ALIGN="left" WIDTH=200 CELLPADDING=5><TR>
+<TD><a href="pngs/d21_1987_ad10.png" target="1987_ad10.png"><IMG SRC="pngs/d21_1987_ad10_small.jpg" WIDTH=200 HEIGHT=292></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>This image has stayed with me all through my life. It's simple, it's powerful, and because of the hype machine surrounding it, I wept a little when I first saw it. Sad, but I <i>was</i> just a kid back then!</i></b></font></TD></TR>
+</TABLE>Pete Shaw's trip to Margate for the very first article was bountiful
+to say the least, featuring <i>Road Blasters</i>, <i>Super Hang On</i>, <i>GryZor</i> and
+<i>Rastan Saga</i>, and at the top of the two-page spread was <i>OutRun</i>,
+complete with swoonsome review, really clear colour screenshots, and a
+conclusion which gasped at the fact that the deluxe machine featured a
+sit-in cockpit, 26-inch screeen, and a whopping 1,888K of graphics data.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;This excited me, as a thirteen-year-old boy just discovering what
+computer and arcade games can truly deliver. Unfortunately I lived in
+a small town in the middle of nowhere, well away from any arcade
+halls. If I wanted to go visit an arcade, it would be when the family
+travelled halfway up the country to visit one of my grandmothers. She
+lived in a small village in Worcestershire, and to get there we had to
+travel through Stourport-on-Severn, and one day we were going through
+the main street and I happened to catch the sight of the <i>OutRun</i> logo
+on the side of the largest arcade machine I had ever seen.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/FJgH6r6izxc&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/FJgH6r6izxc&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Bernard and the Genie</u></b></font></center><font size=-1 color="#ffffff">This 1991 Richard Curtis comedy (his first full-length feature) is perfect Christmas telly, and yet because of all the advertising within it (there's a sequence which is basically logo after logo after logo...) it's only been shown <i>twice</i>, and that's such a shame as it's a nice, if a little sappy, bit of festive fun. Alan Cumming is Bernard, and Lenny Henry plays the Genie. This short scene and <a href="http://www.youtube.com/watch?v=MWqnGgU_v0Y" target="MWqnGgU_v0Y">one shortly after it</a> is all that survives on YouTube (but if you're lucky someone might upload the whole thing again). <b><i>(1:01)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=FJgH6r6izxc" target="FJgH6r6izxc">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+Contact had been made.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Now whenever we drove past it I would press my face hard against the
+car window just to get another glimpse of this machine which somehow
+managed to entrance me. Then one day, on the pretext of going out to
+get some bread or something, I slipped out armed with pockets full of
+chunky fifty pence and pound coins as I legged it to the arcade hall.
+It was the full-on, amped-up, sit-in, tilting, deluxe version, and I
+would climb aboard and not get out until I was several quid lighter.
+Even though the graphics were wonderfully fast, colourful and novel -
+the crash sequences were fantastic, especially if you could time them
+such that when the timer hit zero, the free-frame would have the car
+sprite mid-tumble in mid-air - what stuck with me was the vibrating
+swinging cockpit together with the greatest tunes I had ever heard
+from any game.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="72"><param name="movie" value="http://www.youtube.com/v/jYDTNU10c4M&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jYDTNU10c4M&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="72"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>OutRun Arcade Soundtrack</u></b></font></center><font size=-1 color="#ffffff">Taped to the front of the Christmas 1987 C&VG, and also on the flipside of the game cassette. <b><i>(6:01)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=jYDTNU10c4M" target="jYDTNU10c4M">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+It was inevitable that someone would snap up the coin-op conversion
+licence, and the magazines went into overdrive. C&VG in particular
+cranked up its hype machine to eleven with preview features, and
+pre-preview features - it even gave away a tape on its front cover
+containing the <i>OutRun</i> arcade tunes (with the <i>720 Degrees</i> tunes on the
+flip-side, as it happens). US Gold experimented that Christmas with
+putting the arcade tunes on tape alongside the coin-op conversions for
+a more authentic arcade experience. I soon wore out my copy, being
+forced (yes, forced) to buy a second copy to replace it, which soon
+wore out again, by which time you couldn't get that issue any more.
+<br>
+<br>
+<TABLE ALIGN="center" WIDTH=574 CELLPADDING=5><TR>
+<TD><a href="pngs/d21_1987_cov1.png" target="1987_cov1.png"><IMG SRC="pngs/d21_1987_cov1_small.jpg" WIDTH=141 HEIGHT=200></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d21_1987_mag1.png" target="1987_mag1.png"><IMG SRC="pngs/d21_1987_mag1_small.jpg" WIDTH=135 HEIGHT=200></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d21_1987_mag2.png" target="1987_mag2.png"><IMG SRC="pngs/d21_1987_mag2_small.jpg" WIDTH=278 HEIGHT=200></a></TD></TR>
+<TR><TD COLSPAN=5 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>C&VG had a huge hype feature on OutRun in their Christmas issue, increasing the excitement around the game to bedwettingly high levels of anticipation. Sticking a cover tape containing the tunes from the arcade was sheer genius.</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/5hVEdE0O5tA&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/5hVEdE0O5tA&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Stop The Cavalry / Jona Lewie</u></b></font></center><font size=-1 color="#ffffff">Christmas wouldn't be Christmas without a few doob-a-doobs... <b><i>(2:56)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=5hVEdE0O5tA" target="5hVEdE0O5tA">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+The icing on the cake was Your Sinclair's two-page Megapreview - the
+artwork was so eye-catching and the writing so enthusiastic that it's
+somehow become a highlight of my years reading YS, even though it
+really was just a puff piece containing a single mocked-up screenshot
+provided by US Gold together with a screenshot from the arcade's
+attract mode.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i>OutRun</i> became 1987's Christmas Number One by a mile, outselling
+Ocean's <i>Match Day 2</i> by a ratio of 2.5 to one. The conversions didn't
+really come up to scratch in the end, but no one can deny the
+excitement leading up to its release. And the <i>OutRun</i> memories stayed with me throughout my life, buying myself an Xbox games console just to be able to play the official <i>OutRun 2</i> sequel, a sequel which brought the game up to date bed-wettingly well, and it included the original 1986 <i>OutRun</i> arcade game inside it too.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR><TR><TD><IMG SRC="chocs/voxpop.png" ALIGN="LEFT"><br><IMG SRC="pngs/tzer.jpg" ALIGN="RIGHT"><TABLE BACKGROUND="/black7.png"><TR><TD><FONT SIZE=5 COLOR="#ffff00"><B><I>&nbsp;&nbsp;&nbsp;&nbsp;TERESA MAUGHAN&nbsp;&nbsp;&nbsp;&nbsp;</I></B></FONT></TD></TR></TABLE><br>
+<b>Surely this person needs no introduction for any fan of <i>Your Sinclair</i>? For the rest of you heathens, T'zer was the longest-serving editor for the magazine with 28 issues of editorship under her belt, and plenty of issues before and after that time in other roles. YS wouldn't have been YS without her.</b><br><br><b><i><font color="#ff3030">Who are you and what are you up to?</font></i></b><br>
+Teresa 'T'zer' Maughan, ex-editor of YS. Now working for Waverley Borough Council as web editor. Did the dustbin men (recycling operatives) miss your bin? We're here to help. Writing about rubbish, parking and planning is a bit of a shock after <i>Jet Set Willy</i> and POKEs.
+<br><b><i><font color="#ff3030">Favourite cracker gift (aside from fortune-telling fish, naturally)?</font></i></b><br>
+Botox.
+<br><b><i><font color="#ff3030">Favourite Christmas Song?</font></i></b><br>
+A Wayne in a Manger - as sung in Essex.
+<br><b><i><font color="#ff3030">Best memory of Christmases gone by?</font></i></b><br>
+ Midnight mass after a night in pub - was so good at the hymns.
+<br><b><i><font color="#ff3030">Best Speccy Christmas memory?</font></i></b><br>
+ Marcus and Phil dressed as Ugly Sisters in a Christmas compo. Never been the same since. Me in fishnets? <i>They</i> would have looked better in fishnets!
+<br><b><i><font color="#ff3030">Favourite Quality Street chocolate?</font></i></b><br>
+Caramel of course, hate the coconut ones in blue wrapper - does anyone like the coconut?
+<br><b><i><font color="#ff3030">Best present ever?</font></i></b><br>
+Beating <i>Sinclair User</i> to the number one slot thanks to a fab, talented team.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR>
+</TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

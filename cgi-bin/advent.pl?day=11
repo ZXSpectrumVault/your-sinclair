@@ -1,0 +1,173 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 11</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=10&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;10</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=12&show_all=1"><font size=2>DEC&nbsp;12&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_11.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_11.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>720 DEGREES</i></b></font><br><font size=3 color="red"><b><i>14 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+Your Sinclair's Slots Of Fun column has a lot to answer for when it
+came to the Christmas hype cycle. It may have only started in late
+1987, but it had the habit of reviewing the most popular coin-ops out
+there - and naturally those are the ones which usually got snapped up
+by the software labels for conversion, and the bigger the title, the
+more likely it was to be a Christmas release.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;It was September 1987, the new school term had started, and the new
+issue of YS had just come out - complete with the <i>Batty</i> cover tape!
+I'd played this game a few weeks earlier at the YS stall in the ZX
+Microfair using a weird joystick which looked like a hand grenade
+whilst catching glimpses of the YS staff - but oddly the only person I
+could remember was T'zer's sister! But then I was only 13 at the
+time... ahem...
+<TABLE ALIGN="center" WIDTH=400 CELLPADDING=5><TR>
+<TD><a href="pngs/d11_1987_pre2.png" target="1987_pre2.png"><IMG SRC="pngs/d11_1987_pre2_small.jpg" WIDTH=400 HEIGHT=142></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>YS's Future Shocks - where the Christmas hypefest was usually launched. That basic mention of 720 excited me no end.</i></b></font></TD></TR>
+</TABLE>
+<TABLE ALIGN="right" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d11_1987_ad6.png" target="1987_ad6.png"><IMG SRC="pngs/d11_1987_ad6_small.jpg" WIDTH=300 HEIGHT=212></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>US Gold had some good combined adverts, and used the double-page format well.</i></b></font></TD></TR>
+</TABLE>
+The still-fresh Slots Of Fun column was running in that issue, and it
+featured <i>R-Type</i>. Which is a surprise to me today as whilst I think the
+Speccy version is an all-time classic, for some reason first hearing
+about the original coin-op didn't impress me at all - "just another
+blaster", I guess. On the opposite page, however, was <i>720 Degrees</i>, a
+game with a massive dash of originality that was sure to grab my
+attention.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;I'd never heard of anything like it - a skateboarding game (again, a
+novelty back in 1987) that was very slick with isometric 3D graphics,
+astonishing sound, large playing area, and four themed tracks to
+enjoy. Plus the YS Vox Pops that would appear every now and then would
+have people singing the praises of the game with great enthusiasm.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/0d-wG_15oGs&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0d-wG_15oGs&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Christmas Oracle interlude</u></b></font></center><font size=-1 color="#ffffff">It seems unthinkable these days, what with most of the ITV network being owned by one or two corporations, but back in 1989 it would be considered OK to spend ten minutes at around 5pm on a weekday just showing pages from Teletext whilst Thames TV handed over the London part of the ITV network to LWT. So, here's the news from the end of 1989, with stories from the end of the Cold War, all backed with festive music. <b><i>(10:59)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=0d-wG_15oGs" target="0d-wG_15oGs">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+It was just a shame that I grew up in the middle of nowhere, and that
+the arcades which were close to various relatives didn't have it.
+Bugger.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="72"><param name="movie" value="http://www.youtube.com/v/sxNeji5P3QM&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/sxNeji5P3QM&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="72"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>720 Arcade Soundtrack</u></b></font></center><font size=-1 color="#ffffff">This was on the other side of the 720 cassette, and also appeared on the cover of the Christmas 1987 C&VG. <b><i>(6:21)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=sxNeji5P3QM" target="sxNeji5P3QM">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+Then a curious sequence of events occurred. First, from out of nowhere
+and without warning, a <i>720</i> Future Shock pinged into existence. Someone
+had got the arcade licence! OK, so I was only reading one magazine at
+that time, so I was kinda out of the loop, but it was a glorious
+discovery nonetheless, and one that brightened up the long, dark,
+autumnal evenings spent doing a paper round. I remember a rival
+paperboy singing the virtues of a magical shop in London called the
+Virgin Megastore, where he'd find all these unreleased games. Not only
+did he have <i>720</i>, but he also had <i>Bombjack 3</i> and <i>Paperboy 2</i> (where the
+paperboy can deliver on both sides of the road and, for some reason,
+carried a bow and arrow). Whilst Virgin Megastore did exist (my
+parents were amazed to see a huge place with tapes everywhere,
+covering the walls from floor to ceiling), it was obvious he was just
+showing off to the new boy on the block.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="right" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d11_1987_rev1.png" target="1987_rev1.png"><IMG SRC="pngs/d11_1987_rev1_small.jpg" WIDTH=300 HEIGHT=211></a></TD></TR>
+</TABLE>
+So, after drooling all over the Future Shock, I'd started reading
+C&VG, and very soon a cassette appeared on the cover of it. Not a
+computer tape, but an audio tape - the arcade soundtracks to <i>720</i> and
+<i>OutRun</i>! It turned out that this year US Gold were experimenting with
+closing the gap between arcade and arcade conversion by including the
+original arcade soundtrack on the flipside of the game tape, and C&VG
+had a copy of it. Being a fan of computer music I actually wore out
+the tape within a week, and had to buy a second copy of the magazine
+just for a replacement tape! I was also just getting into original
+rock'n'roll music at the time, and there was a nice piece of music
+along those lines in the <i>720</i> soundtrack, thus ensuring that the second
+tape also wore out pretty damn quickly.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The game was released, Bargain Software got my &pound;5.50 postal order, and
+I had a copy of this wonderful game which I naturally played to death.
+Once you got the hang of it, the difficulty level dropped away
+somewhat and you could go on and on, buying the maximum amount of
+skateboarding equipment in the shops, even rolling over the score
+counter. But still, whilst it was challenging, what a ride.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR><TR><TD><IMG SRC="chocs/voxpop.png" ALIGN="LEFT"><br><IMG SRC="pngs/zxf.jpg" ALIGN="RIGHT"><TABLE BACKGROUND="/black7.png"><TR><TD><FONT SIZE=5 COLOR="#ffff00"><B><I>&nbsp;&nbsp;&nbsp;&nbsp;COLIN WOODCOCK&nbsp;&nbsp;&nbsp;&nbsp;</I></B></FONT></TD></TR></TABLE><br>
+<b>Colin wrote and edited the much-missed <i>ZX Format</i>, and was a major contributor to the rather nifty <a href="/ys94.htm">2004 RetroGamer YS Special</a>. Although seemingly quiet at the moment, you never know when and what he's going to turn up next. So Colin, what does ZXmas mean to you?</b><br><br><b><i><font color="#ff3030">Who are you and what are you up to?</font></i></b><br>
+I'm Colin Woodcock.  I'm currently doing a lot of non-Spectrum writing.  I used to edit ZXF magazine.  I'm currently looking at reviving ZXF as a blog, since it would then take less time to maintain it and because I really enjoyed writing game reviews (and, yes, you are the first person to hear that).
+<br><b><i><font color="#ff3030">Favourite cracker gift (aside from fortune-telling fish, naturally)?</font></i></b><br>
+That little thing with the cards and the numbers.  Something about adding up all the top-left numbers.  Or should that be top-right?
+<br><b><i><font color="#ff3030">Favourite Christmas Song?<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=290 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="280" height="170"><param name="movie" value="http://www.youtube.com/v/rijQ5oBFlO0&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/rijQ5oBFlO0&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="280" height="170"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Crocodile Dundee Trailer</u></b></font></center><font size=-1 color="#ffffff">"That's not a knife..." <b><i>(2:20)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=rijQ5oBFlO0" target="rijQ5oBFlO0">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</font></i></b><br>
+'Fairytale of New York'.  It still gives me goosebumps.
+<br><b><i><font color="#ff3030">Best memory of Christmases gone by?</font></i></b><br>
+ Making Airfix models in the afternoons.  Satsumas at the bottom of stockings.  The smell of soap products.  The excitement of getting the Christmas edition of Radio Times.
+<br><b><i><font color="#ff3030">Best Speccy Christmas memory?</font></i></b><br>
+Easily the Crash Christmas special from 1985.  My first ever issue of Crash. I spent the entire holiday pouring over it.
+<br><b><i><font color="#ff3030">Favourite Quality Street chocolate?</font></i></b><br>
+Chocolate finger.  No wait... Fudge.  No wait... Chocolate finger.
+<br><b><i><font color="#ff3030">Best present ever?</font></i></b><br>
+A 128k Spectrum (toast rack).
+<br><b><i><font color="#ff3030">Speccy game you most looked forward to?</font></i></b><br>
+<i>Tomahawk</i>.  Because it was advertised in the 1985 Crash Christmas special. And because I was well into helicopters at the time.
+</TD></TR>
+</TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

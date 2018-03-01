@@ -1,0 +1,167 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Dragon's Lair 1</b></font></center>
+<center>Number of entries found: 5</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>First put the game on keyboard.  On the first screen get to the middle of
+the disk.  When the wind monster appears (parp) hold down the movement keys
+and fire.  You should stay right on the spot.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;On the second screen, stand still, but keep pressing fire.  Once the first
+lot of nastiness has gone you can move on.
+ <i>(Anthony Hetherington in Your Sinclair issue 15)</i> 
+
+<br><hr>
+Here's the continuation of the solution started by Anthony Hetherington in
+the March YS (Issue 15).<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 2 (Skull Hallway)
+<pre>
+Nasty   Move    Count (Jumps)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Skulls  Up       10
+Hand    Fire      3
+Skulls  Up       10
+Hand    Fire    &nbsp 1
+Hand    Fire      1
+Bats    Down      8
+Goo     Left      5
+Hand    Fire      3
+Goo     Up        6
+Hand    Fire      1
+Goo     Right     4
+</pre>
+The Goo has to be dodged perfectly or it's goodbye Dirk!<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 3 (Burning Ropes)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;This level is simple, apart from one place where the fire button has to be
+pressed at exactly the right time.  The ropes swing in five distinct
+positions; far right, mid right, centre, mid left and far left.  The fire
+button must be pressed when&nbsp;the rope is in the 'mid' positIons.  Then
+you'll get across.  It's not worth swinging back and forth on the rope 'cos
+you'll fall off!<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 4 (Weaponry)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Here you employ the same tactic as Level 2, but the nasties are different.
+Proceed as follows:
+<pre>
+Nasty           Move     Count (Jumps)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Sword           Fire     4
+Ball & Chain    Fire     4
+Jug             Left     5
+Axe             Fire     1
+Head            Right    3
+Shield          Right    6
+Axe             Fire     1
+Head            Up       3
+Axe             Left     3
+Arrow           Fire     4
+Arrow           Fire     3
+Shield          Up       2
+</pre><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 5 (Giddy Goons)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;If you're using the joystick, you're in for a tough time, as the enter key
+comes into play.  It's quite easy, as there's no rush.  When there are only
+three walls left, kill the nasty and run to the left (you don't need to
+jump).  Run into the goon and keep your finger on the fire button.
+Eventually you'll kill the last goon and jump onto the final platform.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 6 (Tentacles)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Once again the level 2 and 4 tactic comes into play.  Tentacles coming down
+are slashed, and those coming up should be jumped.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 7 (Disc Park II)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;This is identical to level 1's disc elevator, apart from the fact that you
+jump onto it from the right hand side.  Just hold down all the control keys
+at once, and you'll stay where you are.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 9 (Get 'Singe'd)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;WARNING:  This stage will start&nbsp;as soon as it's loaded - there's no 'Press
+Enter' message.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;All of the rocks can be hit three times by Singe. I haven't been able to
+get past the 'mush', so I can't say how you can get the dragon on his
+deathbed.
+ <i>(Robert Brand in Your Sinclair issue 18)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>51867,0</td></tr>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/YourSinclair/Issue40/Tape/">this issue of Pokes</a> in the alphabetical section.
+ <i>(Cover Tape in Your Sinclair issue 40)</i> 
+
+<br><hr>
+<pre>
+10 LOAD ""CODE
+20 POKE 30773,0: POKE 30774,91
+30 FOR F=23296 TO 23302: READ A: POKE F,A: NEXT F
+40 RANDOMIZE USR 23296
+50 DATA 175,50,155,202,195,48,184
+</pre>
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

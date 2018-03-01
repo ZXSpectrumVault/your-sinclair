@@ -1,0 +1,28 @@
+<title>Zoom-in</title>
+<body background="http://www.ysrnry.co.uk/yslight.gif" bgcolor="black" text="cyan">
+<center>
+From The Your Sinclair Rock'n'Roll Years:<p>
+<table border>
+<TR><TD>
+<IMG SRC="/gifs/clever.gif" HEIGHT=384 WIDTH=512><Br>
+</td></tr>
+</table>
+
+<p>
+<form action="/cgi-bin/zoompic.pl" method=get>
+<input type=hidden name=url value="/gifs/clever.gif">
+<input type=hidden name=orgsize value="256x192">
+Magnify by a factor of
+<select name=zoom>
+<option>0.25
+<option>0.5
+<option>1
+<option selected>2
+<option>3
+<option>4
+<option>5
+</select>
+<INPUT type=submit value="GO">
+<p></form>
+</center>
+

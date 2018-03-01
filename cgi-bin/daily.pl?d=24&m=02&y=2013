@@ -1,0 +1,291 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix!</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b><IMG WIDTH=1 HEIGHT=1 SRC="/daily_bug.png"></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=23&m=02&y=2013">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunday 24th February 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=25&m=02&y=2013">&gt;&gt;&gt;</a></b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: ratingonlytemplate.txt -->
+<META NAME="keywords" CONTENT="Magicland Dizzy Rich Pelley your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="Magicland Dizzy review, by Rich Pelley from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>Magicland Dizzy</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo3.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/ingame/MagiclandDizzy.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../wosfiles/ingame/MagiclandDizzy.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/loader/MagiclandDizzy.gif"><IMG WIDTH=256 HEIGHT=192 ALT="Loader" BORDER=0 SRC="../wosfiles/loader/MagiclandDizzy.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue63/Pages/YourSinclair6300082.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue63/Pages/YourSinclair6300083.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys63_82.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD ALIGN=CENTER><a href="ftp://ftp.worldofspectrum.org/pub/sinclair/games-inlays/m/MagiclandDizzy.jpg"><IMG BORDER=0 SRC="../wosfiles/inlay_thumbs/MagiclandDizzy.jpg"></a></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+Magicland Dizzy
+</B></FONT></TD></TR>
+<TR>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/Codemasters.htm">Codemasters</a>
+</b></TD>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+&pound;2.99
+</b></TD>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys63.htm">Mar 1991 YS63</a>
+</b></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<!--	<TR><TD NOWRAP> -->
+	<TR><TD NOWRAP ALIGN=CENTER VALIGN=MIDDLE WIDTH=50%>
+	<FONT SIZE=5><B>90</B></FONT>
+	</TD>
+	<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+	<table><tr><td align=center><a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0009336" target="wos"><IMG SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+	<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0009336" target="tip"><IMG SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+	</TD></TR></TABLE>
+</TD></TR>
+
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/richp.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="Rich_Pelley_index.htm">Rich Pelley</a></i></b></FONT></TD></TR></TABLE>
+<div>Remember <I><a href="dizzy.htm">Dizzy</a></I>? Remember 
+<I><a href="50bestspeccygames94.htm">Treasure Island Dizzy</a></I>? Remember 
+<I><a href="ystop100_3.htm">Fantasy World Dizzy</a></I>? Well, you should. 
+And now. Here's the 4th Dizzy game in the 
+series (not counting <I>Fast Food</I> and <I><a href="kwiksnax.htm">Kwik 
+Snax</a></I> of course which were arcade games 
+and so completely different) - <I>Magicland 
+Dizzy</I>, which is simply more of the same, 
+but what the heck, eh? 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Evil Wizard Zaks is back, and has 
+turned the Yolkfolk, Daisy, Dora, Dylan, 
+Denzil and Grand Dizzy into strange 
+creatures and has teleported them to 
+Magicland - a bit of a downer 
+really because you, as Dizzy, 
+have to go and get them 
+back. Once again the game 
+consists of you walking and 
+jumping through a platform-and-ladders flip-screen maze, 
+solving puzzles to progress 
+further, this time with the added task of 
+locating the individual Yolkfolk (who have 
+been turned into everything from bushes 
+to a huge block of ice) and working out 
+how to turn them back to normal. 
+Predictably, this is no mean feat because 
+if you're not careful, you'll impale yourself 
+on a nearby bat, 
+or accidentally fall
+down a well, or 
+drown, or jump 
+into a monster, or 
+bump into a killer 
+rat, or do 
+something 
+equally silly if 
+you don't time 
+it quite right on 
+the old jump 
+button. 
+Fortunately, you 
+do have three 
+lives to begin 
+with, and your 
+energy can be 
+replenished by 
+collecting 
+diamonds on the 
+way. Oh, I think 
+you also need to 
+collect enough 
+diamonds to proceed further into the 
+game, but don't quote me on that. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;The puzzles aren't overly complicated, 
+being a case of using the appropriate 
+object at the appropriate time - the tricky 
+part is actually to have found and be 
+carrying the correct object at the right 
+time. As in <I>Fant. World Diz.</I>, you can hold 
+three objects at once - but this does 
+mean you get an annoying menu system 
+every time you want to do something and 
+often spend hours piddling about with it 
+trying to get it to do what you want. But 
+that's a minor point, as the game really is 
+a bit of a spanker. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Once again the graphics are cute city, 
+and the overall gameplay is practically the 
+same, although it's got a bit of a different 
+'feel' to it 'cos i think this one was written 
+by a different bloke. Although don't quote 
+me on that one either. It's quite addictive 
+too as each go you usually meet 
+your fate realising what you 
+should have done instead to 
+avoid dying, so you'll jump at 
+the chance for another go. 
+You can of course cheat and 
+call the 0898 Dizzy helpline 
+(33p per minute off peak. 44p 
+per minute at all other times), 
+although I think I mis-dialed, because 
+when Lusty Linda picked up the phone 
+and invited to reveal all, I'm sure she 
+wasn't talking about how to complete a 
+computer game. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;But anyway, if you're a Dizzy fan then 
+you'll no doubt have bought this one 
+already. But if you've not then go on - buy 
+it anyway - it's a corker.
+
+<br><br>
+<p>
+
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR BGCOLOR=white BACKGROUND=""><TD><center><b><i>Ratings given by other magazines</i></b></center></td></tr>
+<tr BGCOLOR=cyan BACKGROUND=""><TD>
+<TABLE WIDTH=100% cellspacing=0 cellpadding=0><TR>
+
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.crashonline.org.uk"><IMG SRC="../crlogo.gif" ALT="CRASH" BORDER=0></a>&nbsp;
+<font color="red" size=6>9/10</font>
+</td><td rowspan=2>&nbsp;&nbsp;</td></tr><tr><TD ALIGN=CENTER><font size=1><a href="http://www.crashonline.org.uk/83/dizzy4.htm">Crash Review</a></font></td></tr></table>
+</td>
+</tr>
+<tr BGCOLOR=white BACKGROUND=""><td><center><font size=2><b><i>Info supplied by the <a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a> database</i></b></font></center></td></tr>
+</table>
+</center>
+<p>
+
+<CENTER><TABLE BORDER BGCOLOR=black BACKGROUND=""><TR><TD COLSPAN=5 BGCOLOR=white><center><b><i>YS Cross-references</i></b></center></td></tr>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue84/Pages/YourSinclair8400043.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Magicland Dizzy (in Super All-Stars)</TD><TD BGCOLOR="yellow"><a href="../ys84.htm">YS84</a></TD><TD BGCOLOR="red"><CENTER>&nbsp;<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center><IMG SRC="../guide.gif" ALT="G"></center></TD><TD>&nbsp;</TD><TD BGCOLOR="cyan"><a href="50bestspeccygames94.htm">Magicland Dizzy (in The 50 Best Speccy Games Ever!)</a></TD><TD BGCOLOR="yellow"><a href="../ys94.htm">YS94</a></TD><TD BGCOLOR="red"><CENTER>No.12<CENTER></TD></TR>
+<tr BGCOLOR=white BACKGROUND=""><td colspan=5><center><font size=2><b><i>Some info from <a href="http://www.worldofspectrum.org/infoseek.cgi">Sinclair Infoseek</a>+<a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a></i></b></font></center></td></tr>
+</TABLE><p></CENTER>
+
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+<TR><TD BGCOLOR="#FFFFFF" ALIGN="center"><B><I>Rich Pelley has kindly authorised this site<br>
+</i></b></td></tr>
+
+<TR><TD bgcolor="yellow"><center><b><i>Reviews in other magazines:</i></b></center></TD></TR>
+<TR><TD bgcolor="black"><center><TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_0">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue83/Pages/Crash8300072.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue83/Pages/Crash8300073.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cr83_72.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_0"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_1">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue217/Pages/MicroHobby21700036.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue217/Pages/MicroHobby21700037.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/mh217_36.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_1"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Crash (<a href="http://www.crashonline.org.uk/83/dizzy4.htm">HTML</a>)</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">MicroHobby</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+</center></TD></TR><TR bgcolor="yellow"><TD><CENTER><B><I>Click pages to enlarge</i></b></center></TD></TR>
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

@@ -1,0 +1,194 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Monty Mole</b></font></center>
+<center>Number of entries found: 7</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>If you collect all the pieces of coal, including the one in the room, the wall will disappear. Also collect the axe and go up the rope until you are level with the floor and wait until the genie is just past you, then jump onto the floor and run along and rush down the rope. If you kill the genie you cannot get past the cartwheel. Then you can get into the next screen.
+ <i>(Mark Harrison in Sinclair User issue 37)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD>Uh oh! Someone boobed - and it wasn't me, honest.
+D'you remember the <A href="http://www.users.globalnet.co.uk/~jimg/yr15/yr15_03.htm#Hacking"><I>Monty Mole</I></A> POKEs in issue 15?
+You'd waited an absolute age for them and then we got
+them wrong. Aaargh! Well, not wrong exactly but it
+would've been easier to have hacked into the game than to
+use <B>Chris Wood</B>'s program. Somewhere along the way the
+REM statements got lost. All is not lost, though. Just add
+the following REMs to the appropriate lines and you can
+see what's going on:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<H4>
+<CODE>200 REM INFINITE LIVES<BR>
+210 REM FALL ANY HEIGHT<BR>
+220 REM WALK THROUGH CRUSHERS<BR>
+230 REM KILL SOME MONSTERS ON CONTACT<BR>
+250 REM MOST OF REST OF MONSTERS<BR>
+260 REM LAST MONSTERS AND WALK ON WATER<BR>
+270 REM FINISH DATA. THIS IS VITAL<BR>
+</CODE></H4><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;As you can see, it's only necessary to type in the lines that
+you really need unless you're gonna go for broke with the
+whole bunch.
+ <i>(Chris Wood in Your Spectrum issue 17)</i> 
+
+<br><hr>
+His little
+program allows you to start at any
+screen you like, and he reckons
+number 18 is a good one to try.
+<BR><BR><CODE>
+10 BORDER 0: PAPER 0: INK 0: CLEAR 32767 <BR>
+20 LOAD &quot;&quot; SCREEN$: LOAD &quot;&quot; CODE <BR>
+30 INPUT &quot;LEVEL (1-39)&quot;;LEVEL <BR>
+40 LET LEVEL-LEVEL-1: FOR I=30000 TO 30011 <BR>
+50 READ A: POKE I,A: NEXT I <BR>
+60 POKE 54951,205: POKE 54952,48: POKE 54953,117 <BR>
+70 RANDOMIZE USR 54370 <BR>
+80 DATA 50, 0, 91, 62, LEVEL, 50, 172, 228, 58, 0, 91, 201
+</CODE>
+ <i>(Paul Hargreaves in Your Spectrum issue 20)</i> 
+
+<br><hr>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>38004,0</td></tr>
+<tr><td>Safe To Fall</td><td>35874,255</td></tr>
+<tr><td>No crushers</td><td>36301,201</td></tr>
+<tr><td>Immune to vertical nasties</td><td>37607,17</td></tr>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr09/yr09_42.htm#Hacker">http://www.users.globalnet.co.uk/~jimg/yr09/yr09_42.htm#Hacker</a>&nbsp; <i>(Dave Nicholls in Your Spectrum issue 09)</i> 
+
+<br><hr>
+Straight into a game which
+really is the pits, <I>Monty Mole</I>.
+My ol' friend <B>Chris Wood</B> has
+been tunnelling into it for you.
+The game loads as a 48K block
+using up all the Speccy's
+memory, so entering the
+POKEs has to be done using a
+special loader. It's a long
+listing, so a short explanation's
+called for. First, it loads <I>Monty Mole</I> lower down in memory
+than it should be, leaving 1000
+bytes in which to put a special
+loader. This gives Monty
+infinite lives, moves part of
+itself onto the screen, shifts
+what's left of the game back to
+its proper place, then runs it -
+phew, no wonder it's not short!<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	The data statements in the
+Basic program can be removed
+if you don't want a certain
+feature. Leave in the last line of
+3 zeroes, though. Chris has also
+included a Game Abandon
+feature, using the G key. As
+this overwrites part of the
+scanning routine, the Basic
+asks which joystick option you
+want, and disposes of the other.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	So, bash in the listing <I>Mole</I> fans and then save it to tape.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	Load up the first part of
+<I>Monty Mole</I> - this will clear
+the screen - then stop the tape
+and reset your Spectrum. Next,
+load in the new loader
+program, RUN it and if all is
+well you will get a STOP
+message so that you can test it
+before you save it to tape the
+first time. Then, enter
+CONTINUE and re-start the
+original tape without re-
+winding it. Don't worry about
+the messy screen as this will
+clear when it has finished
+loading.
+ <i>(Chris Wood in Your Spectrum issue 15)</i> 
+
+<br><hr>
+<CODE>
+10 LET tot=0: FOR n=65000 TO 65101: READ a: LET tot=tot+a: POKE n,a: NEXT n<BR>
+15 IF tot&lt;&gt;10865 THEN PRINT AT 10,0;&quot;Error in Main Data&quot;: STOP<BR>
+20 INPUT &quot;KEMPSTON?&quot;;a$<BR>
+30 IF CODE a$&lt;&gt;CODE &quot;Y&quot; AND CODE a$&lt;&gt;CODE &quot;y&quot; THEN GO TO 50<BR>
+40 POKE 65028,37: POKE 65029,127: POKE 65100,13: POKE 65101,131<BR>
+50 LET n=65102: LET b=1: LET c=1<BR>
+60 READ a: IF a=0 THEN IF b=0 THEN IF c=0 THEN GO TO 80<BR>
+70 LET c=b: LET b=a: POKE n,a: LET n=n+1: GO TO 60<BR>
+80 CLEAR 65535: STOP: RANDOMIZE USR 65000<BR>
+90 DATA 62, 113, 221, 33, 24, 60, 17, 0, 192, 55, 205, 86, 5, 33, 75, 254, 17, 195, 126, 1, 3, 0, 237, 176, 33, 60, 254, 17, 7, 127, 1, 15, 0, 237, 176, 33, 78, 254, 126, 95, 35, 126, 254<BR>
+100 DATA 0, 40, 7, 87, 35, 126, 18, 35, 24, 241, 17, 0, 64, 33, 43, 254, 1, 18, 0, 237, 176, 195, 0, 64, 49, 232, 95, 17, 0, 0, 33, 24, 252, 1, 48, 184, 237, 184, 195, 144, 210, 62, 253, 219, 254, 203, 103<BR>
+110 DATA 58, 163, 130, 192, 225, 225, 195, 23, 248, 205, 239, 130<BR>
+200 DATA 140,144,0<BR>
+210 DATA 59,136,0,60,136,0,61,136,0<BR>
+220 DATA 138,141,201<BR>
+230 DATA 151,137,201<BR>
+240 DATA 255,142,0,0,143,0,1,143,0<BR>
+250 DATA 238,135,0,245,135,0,252,135,0<BR>
+260 DATA 229,135,0,230,135,0,231,135,0<BR>
+270 DATA 0,0,0
+</CODE>
+ <i>(Chris Wood in Your Spectrum issue 15)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

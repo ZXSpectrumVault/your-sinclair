@@ -1,0 +1,149 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Arkanoid 1</b></font></center>
+<center>Number of entries found: 7</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/SinclairUser/Issue125/Tape/">this issue of Tips Amazing</a> in the Cheats/Tips/Solutions section.
+ <i>(Cover Tape in Sinclair User issue 125)</i> 
+
+<br><hr>
+Here's my tips for the hardest level in Ocean's engrossing wallbatterer -
+number 23. You start with nine of those 3-by-3 gilds of bricks, and okay, it
+looks relatively tricky but no more so than any other level. Wrong! On each
+grid, the outer eight bricks are of the fiendish silver variety that need to be
+hit more than once - and on this elevated level you'll find that you need to
+bash 'em four times! And there are no rinky little capsules to help you either -
+not until you've blasted through the silver blighters, at least. All you can hope
+for is that one of the nine coloured bricks inside does eventually glean a
+capsule - and then it's got to beagoody! To start, try end aim the ball so that
+it bounces into one of the horizontal gaps - bottom right is best. The ball
+should ricochot enough times to get through the first silver bricks and maybe
+your first capsule. Other than that I have no answers. It's just hard!
+ <i>(Marcus Berkmann in Your Sinclair issue 18)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Cheat modes</i></b></font></td></tr>
+<TR><TD>Get a high score (more than 25000), then enter your name as PBRAIN (no spaces).
+When you press any key to play a game you will be asked to 'press Space to
+cheat'. Waiting a few seconds starts you from the beginning, pressing Space
+returns you to the last screen you visited.
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>33702,0</td></tr>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/SinclairUser/Issue74/Tape/">this issue of Poke City</a>.
+ <i>(Cover Tape in Sinclair User issue 74)</i> 
+
+<br><hr>
+This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/YourSinclair/Issue40/Tape/">this issue of Pokes</a> in the Speedlock 1 section.
+ <i>(Cover Tape in Your Sinclair issue 40)</i> 
+
+<br><hr>
+The 'capsule on demand' hack. This hack will give you the ability to get the
+effect of any capsule you wish simply through a keypress.
+<pre>
+Capsule              Key to press
+S                    Q
+C                    W
+E                 &nbsp;  E
+D                    R
+L                    T
+B                    Y
+P                    U
+</pre><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Don't press one of the capsule keys if a capsule is actually falling since this
+tends to upset the computer, and you should never select disruption if you have
+more than one bolt on the screen at a time.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<pre>
+ 10 REM ARKANOID HACK
+ 20 CLEAR 65535: LET C=1: LET D=23295
+ 30 LET T=0: FOR N=1 TO 1E9: READ A: IF A>=0 AND A<256 THEN POKE D+N, A: LET T=T+N*A: NEXT N
+ 40 IF A>0 THEN RANDOMIZE 1256+USR 23296
+ 50 IF T+A THEN PRINT "DATA ERROR IN BLOCK ";C: STOP
+ 60 LET C=C+1: LET D=D+N- 1: GO TO 30
+ 70 DATA 118,205,162,45,127,90,90,75,74,72,59,59
+ 80 DATA 225,17,36,91,6,212,26,203,65,40,3,134
+ 90 DATA 24,1,174,18,19,16,243,35,13,242,13,91
+100 DATA 195,95,109,72,143,202,126,102,169,113,115,78
+110 DATA 123,100,175,102,212,98,44,73,102,170,98,45
+120 DATA 73,11,168,169,54,36,95,55,82,155,95,168
+130 DATA 70,143,116, 85,199,127,212,220,199,46,119,95
+140 DATA 207,168,127,248,52,143,207,244,26,211,229,98
+150 DATA 174,244,98,202,244,98,214,244,98,42,63,102
+160 DATA 119,130,102,168,98,22,168,102,207,98,239,168
+170 DATA 115,207,244,95,182,61,146,29,169,95,161,163
+180 DATA 146,28,169,25,98,223,169,117,113,169,-11334855
+190 DATA 95,9,61,143,52,169,211,69,52,0,127,243: REM CAPSULE KEYS
+200 DATA 52,211,228,124,243,102,157,189,166,153,158,137
+210 DATA 140,44,126,52,137,92,130,128,124,154,102,201
+220 DATA 189,166,153,158,137,140,100,126,42,137,123,100
+230 DATA 168,28,166,129,92,56,148,149,102,169,98,65
+240 DATA 244,98,68,244,124,135,161,16,102,189,189
+250 DATA 166,153,158,137,148,177,102,119,98,213,173,115
+260 DATA 100,173,102,138,98,213,173,117,247,0,-599461
+270 DATA 102,95,98,181,178,-2200: REM NO START MESSAGE
+280 DATA 25,98,222,181,-1611: REM INFINITE LIVES
+290 DATA 117,52,180,999: REM END MARKER
+</pre>
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

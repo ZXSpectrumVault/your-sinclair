@@ -1,0 +1,1158 @@
+<title>YSRnRY - Top Trumps</title>
+<BODY BGCOLOR="#000000" BACKGROUND="../ysgrey.gif">
+
+<center>
+<TABLE WIDTH=600 cellspacing=0 cellpadding=5>
+<TR><TD COLSPAN=4 BGCOLOR=black><center>
+<IMG SRC="/cgi-bin/banner.pl" ALT="The Your Sinclair Rock'n'Roll Years">
+<br>
+
+<a href="../cover1.htm"><IMG SRC="../front.gif" ALT="Front Page" BORDER=0></a><a href="../search.htm"><IMG SRC="../search.gif" ALT="Search Site" BORDER=0></a><a href="../email.htm"><IMG SRC="../email.gif" ALT="E-Mail Me" BORDER=0></a><a href="../help.htm"><IMG SRC="../help.gif" ALT="Help" BORDER=0></a><a href="../articles/index.htm"><IMG SRC="../index.gif" ALT="Article Index" BORDER=0></a><a href="../jugglers/index.htm"><IMG SRC="../jugglers.gif" ALT="Joystick Jugglers" BORDER=0></a><a href="../guestbook.htm"><IMG SRC="../guestbook.gif" ALT="Guestbook" BORDER=0></a><br>
+
+</center>
+</td></tr>
+<tr><td bgcolor="black">
+<IMG SRC="../spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>
+<b><i>Top Trumps</i></b>
+</font>
+</td></tr>
+</table>
+</center>
+<p>
+<center>
+<TABLE BORDER=5 CELLPADDING=20 bgcolor="#90FF90"><tr><td>
+There are 74 cards in the deck - <a href="http://www.ysrnry.co.uk/cgi-bin/toptrumps.pl?show_deck=1">see the deck here</a>.<p>
+Please choose how many cards each player gets:<br>
+<FORM ACTION="/cgi-bin/toptrumps.pl" METHOD="POST">
+Hmm, how about 
+<select name="cards_each"><OPTION  VALUE="1">1
+<OPTION  VALUE="2">2
+<OPTION  VALUE="3">3
+<OPTION  VALUE="4">4
+<OPTION  VALUE="5">5
+<OPTION  VALUE="6">6
+<OPTION  VALUE="7">7
+<OPTION  VALUE="8">8
+<OPTION  VALUE="9">9
+<OPTION  SELECTED VALUE="10">10
+<OPTION  VALUE="11">11
+<OPTION  VALUE="12">12
+<OPTION  VALUE="13">13
+<OPTION  VALUE="14">14
+<OPTION  VALUE="15">15
+<OPTION  VALUE="16">16
+<OPTION  VALUE="17">17
+<OPTION  VALUE="18">18
+<OPTION  VALUE="19">19
+<OPTION  VALUE="20">20
+<OPTION  VALUE="21">21
+<OPTION  VALUE="22">22
+<OPTION  VALUE="23">23
+<OPTION  VALUE="24">24
+<OPTION  VALUE="25">25
+<OPTION  VALUE="26">26
+<OPTION  VALUE="27">27
+<OPTION  VALUE="28">28
+<OPTION  VALUE="29">29
+<OPTION  VALUE="30">30
+<OPTION  VALUE="31">31
+<OPTION  VALUE="32">32
+<OPTION  VALUE="33">33
+<OPTION  VALUE="34">34
+<OPTION  VALUE="35">35
+<OPTION  VALUE="36">36
+<OPTION  VALUE="37">37
+</select>
+ cards each? <INPUT TYPE=SUBMIT VALUE="OK!"><p>
+</td></tr></table></center><p>
+<TABLE cellspacing=0 cellpadding=0 border=0><TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Way Of The Exploding Fist</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/fist.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Lemmings		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/lemmings.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>3</td></tr>
+<TR><TD>Strokability</td><td align=right>8</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>9</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Karnov			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/karnov.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>6</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Jack The Nipper		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/jacknip1.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>8</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Klax			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/klax.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>3</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Pipemania		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/pipemania.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Time Scanner		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/timescan.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>3</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Auf Wiedersehen Monty	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/aufmonty.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>5</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Santa's Xmas Caper	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/santaxms.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>2</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>2</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Booty			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/booty.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>4</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Chuckie Egg		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/chuckieegg.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>8</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>MetroCross		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/metrocrs.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>2</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Batman			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/batman.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>3</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Altered Beast		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/alteredb.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>4</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Gauntlet		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/gaunt.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>6</td></tr>
+<TR><TD>Blastability</td><td align=right>9</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>BMX Simulator		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/bmxsim.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>6</td></tr>
+<TR><TD>Blastability</td><td align=right>2</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>New Zealand Story	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/newzeals.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>9</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Ironman Off-Road Racing	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/ironman.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>5</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Moon Cresta		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/mooncres.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>9</td></tr>
+<TR><TD>Ponderability</td><td align=right>5</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Dan Dare III		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/dandare3.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>8</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Marble Madness		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/marbmadn.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>6</td></tr>
+<TR><TD>Blastability</td><td align=right>3</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>5</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Match Day		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/matchday.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>3</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>JetPac			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/jetpac.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>9</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>HyperSports		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/hypers.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>6</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Afterburner		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/afterb.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>1</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+</table>
+<br><br><br><br><br><br><br><br><br><br>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Barbarian		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/barbarin.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>8</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>5</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Batty			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/batty.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>8</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>6</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>All Points Bulletin	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/apb.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>8</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Chase HQ		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/chasehq.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>6</td></tr>
+<TR><TD>Ponderability</td><td align=right>1</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>OutRun			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/outrun.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Psycho Pigs UXB		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/psycopig.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>8</td></tr>
+<TR><TD>Blastability</td><td align=right>8</td></tr>
+<TR><TD>Ponderability</td><td align=right>1</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Pang			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/pang.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Robocop			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/robocop.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>4</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>9</td></tr>
+<TR><TD>Ponderability</td><td align=right>5</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Hard Drivin'		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/harddriv.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>6</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>1942			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/1942.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>180			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/180.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>3</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>3</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Chequered Flag		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/chequered_flag.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>5</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Bomb Jack		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/bombjack.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Solomon's Key		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/solomkey.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>6</td></tr>
+<TR><TD>Blastability</td><td align=right>6</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Ghostbusters		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/ghstbust.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Operation Wolf		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/opwolf.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>8</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>7</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Manic Miner		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/manicminer.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>3</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>9</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Savage			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/savage.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>9</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Pacmania		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/pacmania.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>3</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>720 Degrees		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/720.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Cabal			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/cabal.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>3</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>8</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Skool Daze		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/skldaze.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>6</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Roller Coaster		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/rcoaster.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>6</td></tr>
+<TR><TD>Blastability</td><td align=right>2</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Super Hang On		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/shangon.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>6</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Bobsleigh		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/bobsle.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>8</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+</table>
+<br><br><br><br><br><br><br><br><br><br>
+<TABLE cellspacing=0 cellpadding=0 border=0>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Driller			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/driller.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>1</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Tetris			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/tetris.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>9</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Rainbow Islands		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/rainbisl.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>8</td></tr>
+<TR><TD>Strokability</td><td align=right>9</td></tr>
+<TR><TD>Blastability</td><td align=right>8</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>6</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Head Over Heels		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/headheel.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>9</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Thing Bounces Back	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/thingbac.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>6</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>4</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Buggy Boy		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/buggyboy.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>8</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>1</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Angleball		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/anglebl.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>2</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>4</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Toobin'			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/toobin.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>7</td></tr>
+<TR><TD>Blastability</td><td align=right>6</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>4</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Space Raiders		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/space_raiders.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>3</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>R-Type			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/rtype.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>9</td></tr>
+<TR><TD>Ponderability</td><td align=right>2</td></tr>
+<TR><TD>Memorability</td><td align=right>9</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Knightlore		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/knightlore.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>6</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Plotting		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/plotting.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>2</td></tr>
+<TR><TD>Strokability</td><td align=right>8</td></tr>
+<TR><TD>Blastability</td><td align=right>2</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>1</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Football Manager	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/fottmang.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>2</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>9</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Cybernoid		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/cybernd.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>8</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>6</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Arkanoid II - Revenge Of Doh</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/ark2.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>5</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Bionic Commando		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/biocom.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Split Personalities	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/slitpers.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>8</td></tr>
+<TR><TD>Strokability</td><td align=right>3</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Paperboy		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/paperboy.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>7</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>5</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Dizzy			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/dizzy.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>5</td></tr>
+<TR><TD>Strokability</td><td align=right>9</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>8</td></tr>
+<TR><TD>Memorability</td><td align=right>8</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Sim City		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/simcity.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>1</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>5</td></tr>
+<TR><TD>Ponderability</td><td align=right>9</td></tr>
+<TR><TD>Memorability</td><td align=right>2</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR>
+<TR>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Saboteur		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/saboteur.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>2</td></tr>
+<TR><TD>Strokability</td><td align=right>1</td></tr>
+<TR><TD>Blastability</td><td align=right>6</td></tr>
+<TR><TD>Ponderability</td><td align=right>7</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Horace Goes Skiing	</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/horace_goes_skiing.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>4</td></tr>
+<TR><TD>Strokability</td><td align=right>4</td></tr>
+<TR><TD>Blastability</td><td align=right>1</td></tr>
+<TR><TD>Ponderability</td><td align=right>3</td></tr>
+<TR><TD>Memorability</td><td align=right>9</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Xeno			</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/xeno.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>8</td></tr>
+<TR><TD>Strokability</td><td align=right>5</td></tr>
+<TR><TD>Blastability</td><td align=right>6</td></tr>
+<TR><TD>Ponderability</td><td align=right>6</td></tr>
+<TR><TD>Memorability</td><td align=right>3</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+<TD>
+<TABLE ><TR><TD><TABLE cellspacing=0 cellpadding=2>
+<TR BGCOLOR="black"><td colspan=2><center><font color="yellow" size=4><i><b>Deathchase		</b></i></font></center></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black"><IMG WIDTH=256 HEIGHT=192 SRC="../gifs/dchase.gif" ALT="SCREENSHOT"><br></td></tr>
+<TR><TD COLSPAN=2 BGCOLOR="black">
+	<TABLE CELLSPACING=0 CELLPADDING=2 bgcolor="white" width=100%>
+<TR><TD>Whooshability</td><td align=right>9</td></tr>
+<TR><TD>Strokability</td><td align=right>2</td></tr>
+<TR><TD>Blastability</td><td align=right>7</td></tr>
+<TR><TD>Ponderability</td><td align=right>1</td></tr>
+<TR><TD>Memorability</td><td align=right>6</td></tr>
+</table></td></tr></table></TD></TR></TABLE>
+
+</TD>
+</TR></TABLE>
+
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter">
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

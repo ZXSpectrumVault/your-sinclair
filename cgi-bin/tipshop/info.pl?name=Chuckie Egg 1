@@ -1,0 +1,217 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Chuckie Egg 1</b></font></center>
+<center>Number of entries found: 5</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>	Now for the joystick mod.
+Having reset the Speccy, enter
+the listing given and save it on
+tape with LINE 1000 (don't
+save it to Microdrive or you'll
+get into all sorts of problems).
+Then load <I>Chuckie Egg</I> in the
+way described above and do
+the POKE on its own if you
+want it. Next, load the joystick
+mod and, hey presto - a
+joystick <I>Chuckie Egg</I>! As
+before, if any error occurs
+during the loading of the
+second listing, the machine will
+fall over and you'll have to start
+from scratch.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	I also got a letter from
+someone who wishes to be
+known as '<B>ITR</B>', who said that
+they knew the infinite lives
+POKE for <I>Chuckie Egg</I> but
+wouldn't condescend to tell me
+what it was - we don't need
+your type round here!
+Actually, ITR did come up
+with some interesting stuff on
+the way the screens are stored.
+Apparently they're stored from
+46000 to 51372, each taking
+672 bytes. The letter went on
+to supply a neat little program
+that fills in all the holes at the
+bottom of the screens:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<H4>500 FOR f=46000 TO 51372 STEP 672<BR>
+51O FOR g=0 TO 31<BR>
+520 POKE f+g,5<BR>
+53O NEXT g<BR>
+540 NEXT f<BR>
+560 RANDOMIZE USR 42000</H4><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Enter this in the same way as
+the joystick patch, by saving it
+to tape. In fact, I think these
+POKEs are better than infinite
+lives; the game still remains
+difficult, though easier than the
+standard version.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<CODE>1000 DATA 39277, 103, 39321, 71, 40311, 71, 40893, 71, 39341, 79, 40254, 79, 40850, 79, 40655, 95, 40713, 40713, 87<BR>
+1010 RESTORE 1000<BR>
+1020 FOR i=1 TO 9: READ a,b<BR>
+1030 POKE a,219: POKE a+1,223: POKE a+2,0: POKE a+3,0: POKE a+4,203: POKE a+5,b<BR>
+1040 NEXT i<BR>
+1100 RANDOMIZE USR 42000</CODE>
+<H4>The Basic listing providing a joystick mode for <I>Chuckie Egg</I>.</H4>
+<FONT COLOR=red><B>... including the mandatory mistake, of course. The DATA statement has 19 values but the FOR...NEXT only reads 18, probably because the 40713 near the end has been entered twice.</B></FONT>
+ <i>(Andrew Pennell in Your Spectrum issue 10)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD>	As promised last month,
+here's a bit of info about
+<I>Chuckie Egg</I> which (by the
+way) is probably the best game
+A'n'F has ever produced. It's
+quite old now and doesn't work
+with the Kempston joystick.
+Other joysticks (for example,
+Interface 2) are OK as it uses
+definable keys; it can, however,
+be suitably modified. But
+before that, let's reveal the
+most important POKE ... for
+infinite lives. When I originally
+hacked <I>Chuckie Egg</I> (actually
+before it was released) I didn't
+even look for infinite lives -
+which goes to show how long
+ago it must have been! Luckily
+I kept my notes and recently
+had another go at it, with the
+help of a letter from <B>Graham Hutton</B>.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	The first thing to do is to
+load the bytes, which is not
+very straightforward because of
+the protection method it uses. I
+don't want to step on anyone's
+toes, so I'm not going to supply
+a special loader; I'll use instead
+a modified version of the
+loader in the game. To begin
+with, enter the multiple line (do
+a NEW first if you have
+Interface 1 attached):<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<H4>MERGE &quot;&quot;: POKE 24501,195: GO TO 1</H4><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then play the tape. It'll load as
+normal, but will return to Basic
+when finished. At this stage, if
+any error occurs, the machine
+will fall over - so be careful
+what you type. For infinite lives
+enter:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<H4>POKE 42837,0: RANDOMIZE USR
+42000</H4><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;And the game should start. It's
+not the most efficient way of
+doing the job, but it does work.
+Instead of removing a
+DEC(HL) or DEC(IX+n), it
+changes a jump instruction,
+and this has the effect of
+printing the 'Game Over'
+message a couple of times
+during the game ... but don't let
+that put you off.<BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Andrew Pennell in Your Spectrum issue 10)</i> 
+
+<br><hr>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>42837,182</td></tr>
+<tr><td>Infinite Bonus</td><td>39151,0</td></tr>
+<tr><td>Infinite Time</td><td>39205,0</td></tr>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/SinclairUser/Issue125/Tape/">this issue of Pokemania</a>.
+ <i>(Cover Tape in Sinclair User issue 125)</i> 
+
+<br><hr>
+	One thing Alan was
+wondering about was
+how to hack into A&amp;F's
+<I>Chuckie Egg</I> - a tricky
+one this, mainly because
+you can't MERGE it
+and it's headerless to
+boot. Well, I hacked into
+it a while ago to make it
+work with my joystick
+and it's not too hard.
+The trick is to LOAD
+the Basic from machine
+code, then instead of
+doing a RET, force an
+error using RST 8. That
+should be enough for
+you to be getting on with
+for now. <BR>
+ <i>(Andrew Pennell in Your Spectrum issue 08)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

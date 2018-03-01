@@ -1,0 +1,169 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 20</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=19&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;19</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=21&show_all=1"><font size=2>DEC&nbsp;21&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_20.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_20.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>CRASH</i></b></font><br><font size=3 color="red"><b><i>5 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+So, Sinclair User preferred to hype the run-up to Christmas, Your
+Sinclair went for fun and games, what did Crash do for Yule? Right
+from the very start they decided to really push the boat out by
+expanding the magazine to 200 pages and beyond, subsidising the extra
+content by bumping up the cover price for that issue. Artist Oli Frey
+had a field day with the festive covers producing some of the best
+artwork to feature in any of the Spectrum magazines.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The Crash team took their cues from the Annuals that came out at the
+end of each year for other publications - what sold them was the extra
+content as readers wanted something substantial to read through during
+the Christmas school holidays. And so the legendary Crash Christmas
+Special was born where everything was bigger, longer and uncut.
+<TABLE ALIGN="center" WIDTH=575 CELLPADDING=5><TR>
+<TD><a href="pngs/d20_1984_mag2.png" target="1984_mag2.png"><IMG SRC="pngs/d20_1984_mag2_small.jpg" WIDTH=105 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d20_1985_cov1.png" target="1985_cov1.png"><IMG SRC="pngs/d20_1985_cov1_small.jpg" WIDTH=106 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d20_1987_cov2.png" target="1987_cov2.png"><IMG SRC="pngs/d20_1987_cov2_small.jpg" WIDTH=104 HEIGHT=149></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d20_1988_cov1.png" target="1988_cov1.png"><IMG SRC="pngs/d20_1988_cov1_small.jpg" WIDTH=106 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d20_1990_cov4.png" target="1990_cov4.png"><IMG SRC="pngs/d20_1990_cov4_small.jpg" WIDTH=114 HEIGHT=150></a></TD></TR>
+<TR><TD COLSPAN=9 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Oli Frey was let off his leash to produce some wonderful Christmassy covers - only <i>he</i> could make an attack helicopter look festive...</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/eZvZNjQizMI&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/eZvZNjQizMI&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Christmas with CEEFAX</u></b></font></center><font size=-1 color="#ffffff">OK, this is a bit hardcore retro, but go with it! Teletext is being switched off forever, so here's a bit from Christmas Eve 1982, back in the days when it was all a lot less formal and definitely less corporate. Personally I can't get enough of these primitive graphics as it challenged the artist to get something that looks nice using them. And there's <a href="http://teletext.mb21.co.uk/gallery/ceefax/christmas/index.shtml">more where that came from</a>. <b><i>(11:00)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=eZvZNjQizMI" target="eZvZNjQizMI">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+The Christmas 1984 issue was a good opening gambit with a detailed
+report on the collapse of Imagine. Whilst the magazine's readership
+was relatively young, the editorial team had no problems in giving
+this feature five pages to itself, mostly filled with text in a rather
+small font. The article is still held up as one of the great articles
+written for a computer magazine during that time.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/_7-2PB4jj2o&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_7-2PB4jj2o&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>ET Trailer</u></b></font></center><font size=-1 color="#ffffff">Is there a better movie to represent Christmas 1982? <b><i>(1:58)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=_7-2PB4jj2o" target="_7-2PB4jj2o">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+As for other 1984 content, there were annual events such as poll
+results amongst Crash readers for the best titles in various
+categories which were published during that year, plus
+behind-the-scenes articles about how Crash is produced, as well as
+regular features getting extra pages. In later issues there would be
+annual lookbacks, playing tips specials, and (what may be slightly
+guilty of the crime of space-filling) software indexes. The charge of
+space-filling also came up in the 1985 special when nine pages were
+given over to a fairly amateurish cartoon strip sent in by a reader.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;That remained the rough template that later Specials would adhere to,
+with the odd one-off special feature thrown in as well, such as short
+stories (nice), puzzle pages (nicer) and some reviews extended to
+three pages (nicest). Dotted throughout the issue would be little bits
+of Christmassy art, such as mini-cartoons, or even simply putting
+articles onto a snowy background and putting snow on top of the titles
+of articles.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Skipping over the rather odd pseudo-fanzine which appeared in the 1987
+special, we reach the stonking 212-page 1988 Special which, for an odd
+reason, was published in November - apparently December was so busy
+that Crash readers forgot to buy Crash during that month, putting the
+extra work on creating the Special to waste. Nevertheless this formed
+a substantial part of the wonderful climax to the 1988 Christmas
+run-up as it was packed with reviews, fun features (the usual
+template, plus an inter-magazine games challenge with other Newsfield
+titles, and special puzzles and tips features, as well as three-page
+reviews) - with all that space to play with the art team had a field
+day with screenshots and artwork. Together with all the adverts for
+the biggest games, it was everything a Christmas Special ought to be -
+large, colourful, frantic and fun.
+<TABLE ALIGN="center" WIDTH=437 CELLPADDING=5><TR>
+<TD><a href="pngs/d20_1984_mag6.png" target="1984_mag6.png"><IMG SRC="pngs/d20_1984_mag6_small.jpg" WIDTH=139 HEIGHT=200></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d20_1986_mag1.png" target="1986_mag1.png"><IMG SRC="pngs/d20_1986_mag1_small.jpg" WIDTH=137 HEIGHT=200></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d20_1988_mag3.png" target="1988_mag3.png"><IMG SRC="pngs/d20_1988_mag3_small.jpg" WIDTH=141 HEIGHT=200></a></TD></TR>
+<TR><TD COLSPAN=5 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>The Crash Xmas Specials had lots of festive drawings dotted about throughout the issues.</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/UanEsqRJP_Q&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UanEsqRJP_Q&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Channel 4 Xmas Day 1984 Start-Up</u></b></font></center><font size=-1 color="#ffffff">These were the days before 24-hour television channels, so you've got a bit of everything here. Teletext pages with Christmassy music (including some nice festive artwork), and then the channel starts up proper with a rather drunk sounding engineer rambling on a bit welcoming you to Channel Four for that day. OK, so it's a bit geeky, but I go for this sort of thing! <b><i>(6:38)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=UanEsqRJP_Q" target="UanEsqRJP_Q">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+It's a nice memory to hold on to, because when the summer of 1989
+came, it all turned to hell. Newsfield were having severe financial
+problems and decided to turn Crash from a magazine packed full of
+features into a pamphlet that accompanied a compilation tape of old
+games of questionable quality.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/wdYfcWvj5Bo&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/wdYfcWvj5Bo&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>1982 Channel Four</u></b></font></center><font size=-1 color="#ffffff">Channel Four's first Christmas, and look at the basic adverts! Their rates were dirt cheap back then, so you could get away with a simple slide and voiceover. Having adverts for ITV on Channel 4 just feels <i>wrong</i> in this day and age. <b><i>(5:56)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=wdYfcWvj5Bo" target="wdYfcWvj5Bo">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+The first pamphlet was only 32 pages, not including the cover. I was
+devastated to see such a good magazine ruined like this. OK, so the
+following issue was 50 pages long, but that's still a heavy drop from
+the 216-page peak of a few months earlier. The targeting at a younger
+audience also alienated me somewhat - lack of space meant that
+features were lucky to get more than two pages.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The 1989 Christmas Special wasn't all that Christmassy beyond snow on
+a few titles and the Crash logo on the cover. Ditto for 1990 and 1991,
+after which EMAP bought the title out and "merged" it with Sinclair
+User. A sad end, which could have been avoided had Newsfield got new
+blood in at the top when they were running out of good ideas.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Anyway...
+<br>&nbsp;&nbsp;&nbsp;&nbsp;If you ignore 1989 and beyond, then the Crash Christmas Special was
+unmissable, regardless of whether or not you were a regular reader. I
+was a late-comer to the wonders of Crash, buying my first issue in the
+spring of 1988, so the Christmas Special of that year really was a
+bolt out of the blue, leading me to pick up as many back issues as I
+could afford. Even though I was probably only a reader for little more
+than a year when Crash got pampletized, the change in format was still
+highly disappointing for someone who bought computer magazines for the
+articles, not for whatever games happened to be taped to the cover at
+that time.
+</TD></TR></TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

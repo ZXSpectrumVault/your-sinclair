@@ -1,0 +1,161 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Lunar Jetman</b></font></center>
+<center>Number of entries found: 7</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>Many people appear to be having difficulty in getting further than level 3 in
+Lunar Jetman. This letter should help solve that problem, giving you a
+technique to amass well over 50,000 points and get past the teleport-stealing
+aliens on level 6.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;First of all, bear in mind that you don't need to transport the bomb to the
+alien base, but you can instead shoot the missile by hitting it 8 + (level you
+are on) times. The problem is to gain enough time to shoot the missile down
+before it reaches your truck. Flying to intercept it doesn't work because you
+run out of fuel. The solution is therefore as follows:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Fill in all the holes between the two teleport booths (you might as well pick
+up the light gun turret while&nbsp;you are doing so) and then head for the teleport
+furthest away from the alien base. While you are in the moon rover you can use
+thrust and fire to raise/lower the gun and fire at the aliens. Once you have
+positioned yourself beside the appropriate booth you can blast away at the
+aliens until the missile is fired and the warning appears. Then get out of the
+truck and enter the teleport, thus giving at the other booth (which brings you
+closer to the approaching missile). Don't&nbsp;fly about, wasting fuel, but remain
+in front of the booth until you see the rocket appear. (If before then, a rock
+or an alien is heading towards you, you can teleport to the other booth and
+wait until you think the danger is past then teleport back - don't wait too
+long or you may miss the missile!)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;As soon as you see the missile, start shooting at it, and by the time you get
+back to the moon rover you should have blown it up. If all else fails, jump on
+it (this stops it dead - and you too). All you have to do then, is keep
+repeating the process. When you reach level 6 the aliens have the ability to
+teleport and steal the booths. The system I use is to place the teleport on the
+moon rover where the aliens will leave it alone, and then drive it around so
+you still have one teleport between you and the base. As before, when the
+missile is launched, you teleport to the other booth, move to one side and
+shoot into the booth, thus destroying any aliens who try to teleport. Try
+avoiding enemies by moving rather than the teleport method. When the rocket
+appears, shoot it down as before. Using this technique I have reached level 8
+(rocket-firing aliens) several times, but I'm sure your readers will soon beat
+this.
+ <i>(Christopher Sutherland in Crash issue 3)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><I>Lunar Jetman</I> -
+for infinite lives, do POKE
+36966,224 and POKE
+36945,3;
+ <i>(Dave Nicholls in Your Spectrum issue 09)</i> 
+
+<br><hr>
+[these are wrong; see correction by Pete Shaw in issue 11's &quot;From the Hip&quot;]
+ <i>(Dave Nicholls in Your Spectrum issue 09)</i> 
+
+<br><hr>
+POKE 36965,0 for a similar
+effect [endless lives] on <I>Lunar Jetman</I>,
+though he says it's not much
+help to him anyway!
+ <i>(Andrew Dawson in Your Spectrum issue 11)</i> 
+
+<br><hr>
+I had a few calls from readers
+who'd tried Dave Nicholls' infinite
+lives POKEs for <I>Lunar Jetman</I>
+as given in issue 9 -
+apparently they were wrong!
+The POKEs should have been
+POKE 36964,224 and POKE 36965,3.
+ <i>(Peter Shaw in Your Spectrum issue 11)</i> 
+
+<br><hr>
+	Now here's a funny
+thing. <B>Kieron Matthews</B>
+has found that a POKE we
+printed way back in <A href="http://www.users.globalnet.co.uk/~jimg/yr09/yr09_03.htm#Hacking">Issue 9</A>
+for <I>Sabre Wulf</I> has a rather
+peculiar effect on <I>Lunar Jetman</I>. It prevents the
+missile from launching and
+ruining your chances. Then,
+to reach the next level you
+should wait for the time to
+run out and shoot at the
+base. Trouble is Kieron just
+can't get past level 10 even
+with the POKE, 'cos he can't
+find the trailer anywhere.
+Mind you, there's a good
+reason for that - the trailer
+just doesn't exist! It may be
+on the inlay card but it's
+certainly not in the game.
+To get any further you'll just
+have to do a Robert the
+Bruce - try and try again!
+ <i>(Kieron Matthews in Your Spectrum issue 16)</i> 
+
+<br><hr>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>36965,0:23439,201</td></tr>
+<tr><td>Infinite Fuel</td><td>36268,0:36269,0</td></tr>
+<tr><td>Level = x+1</td><td>43092,x+1 (Level 1=0, 2=1 etc)</td></tr>
+<tr><td>Lives = x player 1</td><td>43093,x (x = 1-255)</td></tr>
+<tr><td>Lives = x player 2</td><td>43117,x (x = 1-255)</td></tr>
+<tr><td>No enemy</td><td>37999,201</td></tr>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

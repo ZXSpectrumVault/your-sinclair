@@ -1,0 +1,381 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix!</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b><IMG WIDTH=1 HEIGHT=1 SRC="/daily_bug.png"></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=4&m=03&y=2013">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday 5th March 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=6&m=03&y=2013">&gt;&gt;&gt;</a></b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: thermometertemplate.txt -->
+<META NAME="keywords" CONTENT="Star Control James Leach your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="Star Control review, by James Leach from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>Star Control</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo4.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/ingame/StarControl.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../wosfiles/ingame/StarControl.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/loader/StarControl.gif"><IMG WIDTH=256 HEIGHT=192 ALT="Loader" BORDER=0 SRC="../wosfiles/loader/StarControl.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue64/Pages/YourSinclair6400062.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue64/Pages/YourSinclair6400063.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys64_62.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD ALIGN=CENTER><a href="ftp://ftp.worldofspectrum.org/pub/sinclair/games-adverts/s/StarControl.jpg"><IMG BORDER=0 SRC="../wosfiles/advert_thumbs/StarControl.jpg"></a></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+Star Control
+</b></FONT></TD></TR>
+<TR><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/Accolade.htm">Accolade</a>
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+&pound;10.99/16.99
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys64.htm">Apr 1991 YS64</a>
+</b></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+	<TR><TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="lifeexpectancy.gif" ALT="Life Expectancy:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;83</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="instantappeal.gif" ALT="Instant Appeal:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;83</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newgraphics.gif" ALT="Graphics:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;78</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newaddictiveness.gif" ALT="Addictiveness:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;84</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD>
+		<IMG WIDTH=32 HEIGHT=52 SRC="8temp.gif" ALT="Overall:">&nbsp;</TD><TD><FONT SIZE=7><b>85&deg;</b></FONT>
+	</TD>
+<TD>&nbsp;</TD>
+<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+<table><tr><td align=center><a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0004813" target="wos"><IMG WIDTH=80 HEIGHT=30 SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0004813" target="tip"><IMG WIDTH=80 HEIGHT=27 SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+</TD></TR></TABLE>
+</TD></TR>
+
+<TR><TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="CENTER"><b><i>
+A bit of a split personality, this one. The strategy bit is a trifle limited, but the combat stuff's brill.
+</i></b></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/jleach.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="James_Leach_index.htm">James Leach</a></i></b></FONT></TD></TR></TABLE>
+<div><b>How come we don't 
+get more war games set in 
+outer space, eh? Everybody 
+knows how violent space is. Blimey, you 
+can't travel more than a few light years 
+before coming across a load of wrecked 
+planets and ransacked Empires. And what 
+about computers - weren't they built for 
+use in zero-gravity spaceships in the first 
+place? <i>(Er, I don't think so. Ed)</i></b>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Well, worry no more, dear Spec-chums, because 
+Accolade seem to have reversed the trend by 
+producing a classic 'Earthlings Vs Glob-People' game. 
+Actually. Instead of a simple battle between Earth and 
+Aliens, it's a humongous great campaign, with 4 
+different groups of spooky space beings on each side - 
+which is even better! Let's sort it all out... 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b>Oi! You just nicked my planet!</b><br>
+It all starts with the Alliance and the Hierarchy. They 
+hate each other, so they've declared war. This war will 
+only be over when the Starbase (a kind of Death Star) 
+of either side is destroyed. To do this, the winning side 
+must have built loads of fighters, using money given to 
+them at the beginning of the game. They then go off 
+into enemy territory to find the other side's base. (You 
+can't miss it - it's the size of Jupiter, and made of 
+aluminium.) 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;All this takes place on a simple strategic map rather 
+like a chess board. Your base and forces are marked, 
+as are the enemy's. All you need to do is build 
+your blokies, move them towards the enemy using 
+a cursor, wipe out the opposition, then take their 
+base. Easy, isn't it? 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Er, not very. You see, both sides can also 
+capture and colonise the planets that lie around 
+the galaxy. This means that while you've 
+been marching off to destroy those 
+scummy baddies, they've been getting 
+loads of money from the planets they've 
+conquered. So they can buy more 
+spacefleets, and make it very, very easy 
+for them to zap you and your little 
+chumlettes into oblivion. Mmm. Looks like 
+the old peaceful-colonisation-plus-extreme-mutha-bashing-violence 
+approach might come in a bit handy here, 
+eh, Spec-chums? 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b>And now the best bit!</b><br>
+The battles themselves! Hurrah! These 
+occur whenever opposing forces move 
+onto the same square on the strategic 
+map There are 8 types of spaceship 
+which can be involved, 4 for each side (although only 2 
+can fight it out in any one bit). You'll already have 
+chosen which type of craft you want to build in the 
+strategic chess-boardy part of the game. Each has 
+totally different weapons and a weird way of moving, 
+and it's all played out on this sort of wrap-around 
+combat screen (a lot like the one in <i>Asteroids</i> if anyone 
+remembers that), with a display of your weapons and 
+strength positioned on the right. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;As there's no gravity ('cos you're in space) your ship 
+slides all over the shop - it takes a few seconds to stop 
+and change where you're going so you're always 
+moving off in one direction but aiming in another. It's 
+well spooky - and takes a fair few gos to practice! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;On top of that, each ship has special properties and 
+weapons, and of course this adds the <i>really</i> fun
+element to the combat. 
+Choose a mega-fast 
+deathblaster against 
+some pathetic 
+woodlouse of a 
+craft and it's 
+"Eat 
+plutonium death, alien weirdo!"-time for him. It's never a 
+particularly even fight between the 2 spaceships, but 
+your skills can often be the deciding factor. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b>It's all jolly exciting really!</b><br>
+This arcade combat element is fairly simple, I suppose, 
+but very addictive. In fact, it's so good that Accolade 
+have built an option into the menu which allows you to 
+just play this, and not bother with the strategic element 
+at all. You can either practice with just one type 
+of ship, or you can go through all your ships, 
+fighting against all the possible enemy 
+vessels. This certainly gives you a 
+taste of what they're capable of. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;You can also set things up so that 
+the computer does all the strategic 
+thinking bits for you, leaving you to 
+handle just the combat. Or, if you want, you can play all 
+the strategic bits and the computer does all the combat 
+(although only a boring anorak would select this option). 
+But best of all is a... wait for it... 2-player option! This is 
+stonkingly-brill, especially against a pal who's as good 
+as you. The combat can go on for ages. The Melee 
+selection (where you cycle through all the available 
+spaceships) is the best for 2-player action, because 
+there's a random-choice option. You've absolutely 
+no idea what ship you'll have, and nor does your 
+opponent! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;It's a bit of a pity really that the combat bit rather 
+overshadows the strategic bit. If you're a great fan of 
+war games (as I am) you might think that <i>Star Control</i>'s 
+attempt is a bit thin. Basically it provides some light 
+relief between the bouts of violence. Once you've 
+played the full game a few times, you get a feel for 
+which strategic moves to make, so you should stand a 
+good chance of winning every time. By then you'll also 
+be an ace at the combat section. And that's the best 
+time to invite a Spec-chum to have a go (except that 
+after an hour or 2 he (or she) won't be your Spec-chum 
+anymore, and might very well have pushed your Speccy 
+down your 
+throat!). 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><center><b>THE ENEMIES</b></center><p>
+<b>Ur-Quat Dreadnought</b>
+Fires both missiles and little homing 
+ships which do untold damage. 
+<br><b>Ilwath Avenger</b> Shoots loads 
+of big fireballs. Can go invisible to 
+avoid detection. 
+<br><b>Androsynth Guardian</b>
+This fires lots of bubbles. It also 
+turns into a very fast comet-type 
+thing, and collides with the enemy. 
+<br><b>Umgah Drone</b> This blasts out 
+a destructive cone of anti-matter (or 
+something). Needs to get close to 
+enemy to destroy them. 
+<br><b>Chenjesu Broodhome</b>
+This fires exploding missiles and a 
+drone that homes in on the enemy. 
+<br><b>Earthling Crusher</b> This 
+fires two homing missiles at once. 
+Very dangerous indeed. Fortunately 
+for you its armour is a bit crap. 
+<br><b>Mycon Podship</b> Now this is 
+<i>really</i> crap, It's very big and slow. 
+What a target. 
+<br><b>Yehat Terminator</b> This is 
+fast, nippy and fires twin rockets. 
+
+<br><br>
+<p>
+
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR BGCOLOR=white BACKGROUND=""><TD><center><b><i>Ratings given by other magazines</i></b></center></td></tr>
+<tr BGCOLOR=cyan BACKGROUND=""><TD>
+<TABLE WIDTH=100% cellspacing=0 cellpadding=0><TR>
+
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.crashonline.org.uk"><IMG SRC="../crlogo.gif" ALT="CRASH" BORDER=0></a>&nbsp;
+<font color="red" size=6>6/10</font>
+</td><td rowspan=2>&nbsp;&nbsp;</td></tr><tr><TD ALIGN=CENTER><font size=1><a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=5442&rid=9064">Crash Review</a></font></td></tr></table>
+</td>
+</tr>
+<tr BGCOLOR=white BACKGROUND=""><td><center><font size=2><b><i>Info supplied by the <a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a> database</i></b></font></center></td></tr>
+</table>
+</center>
+<p>
+
+<CENTER><TABLE BORDER BGCOLOR=black BACKGROUND=""><TR><TD COLSPAN=5 BGCOLOR=white><center><b><i>YS Cross-references</i></b></center></td></tr>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue58/Pages/YourSinclair5800089.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Star Control/Accolade</TD><TD BGCOLOR="yellow"><a href="../ys58.htm">YS58</a></TD><TD BGCOLOR="red"><CENTER>NEWS<CENTER></TD></TR>
+<tr BGCOLOR=white BACKGROUND=""><td colspan=5><center><font size=2><b><i>Some info from <a href="http://www.worldofspectrum.org/infoseek.cgi">Sinclair Infoseek</a>+<a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a></i></b></font></center></td></tr>
+</TABLE><p></CENTER>
+
+</TD>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR>
+<TD WIDTH=5 BGCOLOR=black></TD>
+<TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="center"><center><TABLE><TR><TD ALIGN="center"><IMG SRC="lifeexpectancy.gif"><br>Life Expectancy</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newgraphics.gif"><BR>Graphics</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="instantappeal.gif"><br>Instant Appeal</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newaddictiveness.gif"><br>Addictiveness</td></tr></table></center></td>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</tr>
+
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+<TR><TD BGCOLOR="#FFFFFF" ALIGN="center"><B><I>James Leach has kindly authorised this site<br>
+</i></b></td></tr>
+
+<TR><TD bgcolor="yellow"><center><b><i>Reviews in other magazines:</i></b></center></TD></TR>
+<TR><TD bgcolor="black"><center><TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_0">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue86/Pages/Crash8600050.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue86/Pages/Crash8600051.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cr86_50.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_0"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_1">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue113/Pages/CVG11300072.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=C+VG/Issue113/Pages/CVG11300073.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cvg113_72.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_1"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_2">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue209/Pages/MicroHobby20900038.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue209/Pages/MicroHobby20900039.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/mh209_38.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_2"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Crash (<a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=5442&rid=9064">HTML</a>)</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">C+VG</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">MicroHobby</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+</center></TD></TR><TR bgcolor="yellow"><TD><CENTER><B><I>Click pages to enlarge</i></b></center></TD></TR>
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

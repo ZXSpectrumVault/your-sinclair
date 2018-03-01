@@ -1,0 +1,154 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 9</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=8&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;8</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=10&show_all=1"><font size=2>DEC&nbsp;10&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_9.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_9.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>POWER DRIFT</i></b></font><br><font size=3 color="red"><b><i>16 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+Don't worry - this may indeed be the fourth driving game to feature in
+this Advent Calendar, but rest assured there aren't many others! I
+don't mind admitting it, I'm a sucker for a good race game, and with
+the basic aim of <i>Power Drift</i> being to finish each stage third or
+better, it was always onto a winner with me, especially considering
+that such a race-like structure was actually quite a rarity for
+into-the-screen driving games. Usually they're just time trials,
+checkpointing before a counter reaches zero.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="right"><TR><TD VALIGN="top"><TABLE  WIDTH=205 CELLPADDING=5><TR>
+<TD><a href="pngs/d9_1989_ad1.png" target="1989_ad1.png"><IMG SRC="pngs/d9_1989_ad1_small.jpg" WIDTH=205 HEIGHT=150></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>A low-key teaser advert...</i></b></font></TD></TR>
+</TABLE></TD><TD>&nbsp;&nbsp;</TD><TD VALIGN="top"><TABLE  WIDTH=214 CELLPADDING=5><TR>
+<TD><a href="pngs/d9_1989_ad12.png" target="1989_ad12.png"><IMG SRC="pngs/d9_1989_ad12_small.jpg" WIDTH=214 HEIGHT=150></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>...although the double-page ad was suitably exciting.</i></b></font></TD></TR>
+</TABLE></TD></TR></TABLE>It was the racing aspect which the arcade version of <i>Power Drift</i>
+played up to. Across the top of the screen you would see pictures of
+all fifteen racers, and this list would change as they overtook one
+another, waving them off as they did so. A racing game which kept
+track of each individual race car wasn't new - <i>WEC Le Mans</i> did that,
+too, adding a new level of realism to the genre, but it was <i>Power
+Drift</i> which added personality to them.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Not much of a gimmick, I hear you say? Yep, I agree, which is why
+<i>Power Drift</i> also added a third dimension to an into-the-screen racing
+game: height. We're not talking your usual hills and valleys here.
+We're talking steep bridges, ramps, humps, spirals - the works. On the
+arcade version you got a top-down map of the current level which
+showed this perfectly, although falling off a raised level is also a
+good way to see the new depth! This lead to some spectacular crash
+sequences when you slightly misjudge a thirty-foot jump!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/1CwxtppSLAc&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/1CwxtppSLAc&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>YS Power Drift Demo</u></b></font></center><font size=-1 color="#ffffff">An exclusive level, no less! I played this to death - I think it was the drifting corners that sold it to me. <b><i>(4:56)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=1CwxtppSLAc" target="1CwxtppSLAc">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+<TABLE ALIGN="right" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d9_1989_pre4.png" target="1989_pre4.png"><IMG SRC="pngs/d9_1989_pre4_small.jpg" WIDTH=300 HEIGHT=208></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>SU knew how to tease us: lots of loverly screenshots.</i></b></font></TD></TR>
+</TABLE>It was YS who beat everybody to the punch this time around, getting a
+playable demo of a one-off exclusive level which showed the basic
+features of the game: lots of twists and turns, a couple of bridges,
+plus the other drivers. It was just challenging enough to draw you in,
+and was surprisingly difficult to win the stage initially. It was
+silent, it wasn't part of the finished game, and yet I found it
+totally compulsive.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;All the gimmicks were sucking me into it, and I just had to get the
+finished game. OK, so the finished product had a few flaws, like dodgy
+collision detection at times, unfair opponents who'd sometimes hog the
+narrow bridges, and sometimes on the 128K version the tune would drop
+out completely (explained away as the Speccy CPU working really hard
+at that point), but what was there was as addictive and challenging as
+hell. The sheer variety of courses and the ability to select which
+ones to play seriously delayed any onset of boredom, although it was
+inevitably a multi-load.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Aside from it's spiritual predecessor <i>WEC Le Mans</i>, it's the best
+driving game out there which has realistic opponents which you have to
+have an overtaking strategy with, compared to most race games which
+are exercises in advanced dodging.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR><TR><TD><IMG SRC="chocs/voxpop.png" ALIGN="LEFT"><br><IMG SRC="pngs/andrewrollings_small.jpg" ALIGN="RIGHT"><TABLE BACKGROUND="/black7.png"><TR><TD><FONT SIZE=5 COLOR="#ffff00"><B><I>&nbsp;&nbsp;&nbsp;&nbsp;ANDREW ROLLINGS&nbsp;&nbsp;&nbsp;&nbsp;</I></B></FONT></TD></TR></TABLE><br>
+<b>Here's retro-book giant Andrew Rollings, who made the insightful decision to include a certain webmaster's abridged history of the Speccy industry in his ZX Spectrum Book. Whaddayamean "who?"?!</b><br><br><b><i><font color="#ff3030">Who are you and what are you up to?</font></i></b><br>
+Andrew Rollings, and writing this email... I really should be writing a book though!
+<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/3666uiV0Pxk&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/3666uiV0Pxk&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Thames TV Continuity and Adverts Christmas 1989</u></b></font></center><font size=-1 color="#ffffff">Ahhh yes... remember when it was cool to pretend that banks would give you "a new kind of bank account"? Plus a glorious car advert. <b><i>(4:14)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=3666uiV0Pxk" target="3666uiV0Pxk">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+<br><b><i><font color="#ff3030">Favourite cracker gift (aside from fortune-telling fish, naturally)?</font></i></b><br>
+The little china animals.
+<br><b><i><font color="#ff3030">Favourite Christmas Song?</font></i></b><br>
+Baby, it's cold outside.
+<br><b><i><font color="#ff3030">Best memory of Christmases gone by?<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/HLAbTbGQcr8&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/HLAbTbGQcr8&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>InnerSpace Trailer</u></b></font></center><font size=-1 color="#ffffff">This seemed to be always playing on a video recorder at school one Christmas. <b><i>(1:27)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=HLAbTbGQcr8" target="HLAbTbGQcr8">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</font></i></b><br>
+Getting my Spectrum, of course :)
+<br><b><i><font color="#ff3030">Best Speccy Christmas memory?</font></i></b><br>
+Thinking that I only had one game to play (<i>Pimania</i>) that I had bought a couple of months earlier, only to find my sister and mother had bought me <i>Pssst</i> and <i>Jetpac</i> respectively.
+<br><b><i><font color="#ff3030">Favourite Quality Street chocolate?</font></i></b><br>
+Either the green triangle or the long yellow chewy one... They sell giant ones now, don't they? Mmmmmm...
+<br><b><i><font color="#ff3030">Best present ever?</font></i></b><br>
+Hmmm... Good question. It's either got to be my Spectrum (of course) or the set of plush Pacman ghosts my wife bought me a couple of years ago.
+<br><b><i><font color="#ff3030">Speccy game you most looked forward to?</font></i></b><br>
+<i>Underwurlde</i> and <i>Knight Lore</i>... Couldn't just pick one - I was equally excited about both. Of course, when I eventually got them, it was <i>Knight Lore</i> that got all the play time.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR>
+</TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

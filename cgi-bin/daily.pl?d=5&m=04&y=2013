@@ -1,0 +1,319 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix! - Eliminator/Hewson (5/04/2013)</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b><IMG WIDTH=1 HEIGHT=1 SRC="/daily_bug.png"></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=4&m=04&y=2013">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Friday 5th April 2013&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=6&m=04&y=2013">&gt;&gt;&gt;</a></b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: thermometertemplate.txt -->
+<META NAME="keywords" CONTENT="Eliminator Sean Kelly your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="Eliminator review, by Sean Kelly from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>Eliminator</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo5.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/ingame/Eliminator.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../wosfiles/ingame/Eliminator.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/wosfiles/loader/Eliminator.gif"><IMG WIDTH=256 HEIGHT=192 ALT="Loader" BORDER=0 SRC="../wosfiles/loader/Eliminator.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue41/Pages/YourSinclair4100074.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue41/Pages/YourSinclair4100075.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys41_74.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD ALIGN=CENTER><a href="ftp://ftp.worldofspectrum.org/pub/sinclair/games-adverts/e/Eliminator.jpg"><IMG BORDER=0 SRC="../wosfiles/advert_thumbs/Eliminator.jpg"></a></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+Eliminator
+</b></FONT></TD></TR>
+<TR><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/Hewson.htm">Hewson</a>
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+&pound;9.99
+</b></TD><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys41.htm">May 1989 YS41</a>
+</b></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0>
+	<TR><TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="lifeexpectancy.gif" ALT="Life Expectancy:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;87</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="instantappeal.gif" ALT="Instant Appeal:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;82</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD NOWRAP>
+        <TABLE>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newgraphics.gif" ALT="Graphics:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;90</FONT>&nbsp;</TD></TR>
+		<TR><TD><IMG WIDTH=24 HEIGHT=24 SRC="newaddictiveness.gif" ALT="Addictiveness:"></TD><TD><FONT SIZE=5 COLOR="#FF0000">&nbsp;90</FONT>&nbsp;</TD></TR>
+        </TABLE>
+	</TD>
+	<TD>
+		<IMG WIDTH=32 HEIGHT=52 SRC="9temp.gif" ALT="Overall:">&nbsp;</TD><TD><FONT SIZE=7><b>90&deg;</b></FONT>
+	</TD>
+<TD>&nbsp;</TD>
+<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+<table><tr><td align=center><a href="http://www.worldofspectrum.org/infoseekid.cgi?id=0001600" target="wos"><IMG WIDTH=80 HEIGHT=30 SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0001600" target="tip"><IMG WIDTH=80 HEIGHT=27 SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+</TD></TR></TABLE>
+</TD></TR>
+
+<TR><TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="CENTER"><b><i>
+Hewson maintains its high standards with this rootin', tootin', killin', maimin', shoot 'em up. Not to be missed by arcadey types.
+</i></b></TD></TR>
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/seankell.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="Sean_Kelly_index.htm">Sean Kelly</a></i></b></FONT></TD></TR></TABLE>
+<div><b>'From underground there 
+came a machine encircled by 
+death, that kills but cannot be 
+killed...The Eliminator. A war 
+machine whose solitary quest is to eradicate 
+all forms of life.' Oo-er! Bit unsociable, 
+what? Still, being an intergalactic games 
+tester does involve battling some really evil 
+types. Here... hang about though. I <I>am</I> the 
+Eliminator. Gosh! </b>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Playing <I>Eliminator</I> is a good way to achieve 
+involuntary genocide. Finding yourself at the helm 
+of the Eliminator you hurtle down the road at break 
+neck speed - there's no accelerate or brake on this 
+game, and just one speed - gigafast. As you will 
+see from the screenshots, this is 'into the screen' 
+scrolling, and the speed and smoothness of the 
+scrolling in <I>Eliminator</I> is excellent. The chequered 
+track fair zooms toward you, and the impression of 
+speed, specially when the road is climbing, 
+descending, or veering left and right, is very 
+impressive. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Hurtling along admiring the scrolling isn't all, 
+however, for on your travels you will encounter 
+many obstacles, which must be either avoided, or, 
+much more fun, blasted, zapped, totalled, and 
+wiped-out. Whatever you want to call it - just keep 
+firing! Waves of aliens will annoy you by weaving 
+and lurching all over the road and firing missiles 
+which will deplete the shield of your Eliminator. 
+And though walls are fairly easy to dodge the 
+'cones' on level one are a little tricky. Set up in a 
+zig-zag pattern, getting round these entails split-second timing and tons of dexterity. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Of course, a shoot 'em up wouldn't be a shoot 
+'em up these days if it didn't have the now bog 
+standard 'collect the blob to get a bigger weapon' 
+system, and <I>Eliminator</I> is no exception. 
+Occasionally, a revolving pyramid and cube on 
+opposite sides of the road will be encountered, 
+and only one can be grabbed. The cubes will boost 
+the supply of ammunition, whilst the pyramid will 
+give a bigger weapon. The weapons range from a 
+single fire weapon, right through to a triple fire 
+cannon, which uses tons of ammo dead fast. And 
+it's best to see whether you need ammo or   
+armoury more - before making your choice. 
+There's also the occasional ramp, which will lift 
+you over an otherwise impenetrable wall, or flip 
+you up to the ceiling if in a tunnel section - most 
+disconcerting. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;I often find that 'into the screen' 3D limits shoot 
+'em ups, as there is not much room for 
+manoeuverability on the road, and so trying to 
+shoot at things and steer proves impossible. On 
+first playing I suspected that <I>Eliminator</I> was about 
+to fall into the same trap. Fortunately, after a few 
+plays, the addiction was setting in and <I>Eliminator</I> 
+was proving to be a happy exception. The vehicle 
+has a high level of manoeuverability, there's plenty 
+to shoot at and dodge, and many surprises along 
+the way - you really don't know what's going to 
+appear next. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Hewson has once again released an excellent 
+game with everything a shoot 'em up fan will need 
+- pointless and crap scenario, colourful megafast 
+graphics, edge of the seat excitement and tons of 
+carnage. Simply brilliant! 
+
+<br><br>
+<p>
+
+
+<center>
+<TABLE BORDER BGCOLOR=black BACKGROUND="">
+<TR BGCOLOR=white BACKGROUND=""><TD><center><b><i>Ratings given by other magazines</i></b></center></td></tr>
+<tr BGCOLOR=cyan BACKGROUND=""><TD>
+<TABLE WIDTH=100% cellspacing=0 cellpadding=0><TR>
+
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.crashonline.org.uk"><IMG SRC="../crlogo.gif" ALT="CRASH" BORDER=0></a>&nbsp;
+<font color="red" size=6>8/10</font>
+</td>
+<td rowspan=2>&nbsp;&nbsp;</TD>
+<TD align=center>
+<a href="http://www.sincuser.f9.co.uk/"><IMG SRC="../sulogo.gif" ALT="Sinclair User" BORDER=0></a>&nbsp;
+<font color="red" size=6>6/10</font>
+</td><td rowspan=2>&nbsp;&nbsp;</td></tr><tr><TD ALIGN=CENTER><font size=1><a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=1782&rid=9191">Crash Review</a></font></td><td ALIGN=CENTER><font size=1>---</font></td></tr></table>
+</td>
+</tr>
+<tr BGCOLOR=white BACKGROUND=""><td><center><font size=2><b><i>Info supplied by the <a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a> database</i></b></font></center></td></tr>
+</table>
+</center>
+<p>
+
+<CENTER><TABLE BORDER BGCOLOR=black BACKGROUND=""><TR><TD COLSPAN=5 BGCOLOR=white><center><b><i>YS Cross-references</i></b></center></td></tr>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue30/Pages/YourSinclair3000007.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Eliminator/Hewson</TD><TD BGCOLOR="yellow"><a href="../ys30.htm">YS30</a></TD><TD BGCOLOR="red"><CENTER>NEWS<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue34/Pages/YourSinclair3400095.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Eliminator/Alternative</TD><TD BGCOLOR="yellow"><a href="../ys34.htm">YS34</a></TD><TD BGCOLOR="red"><CENTER>6<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue40/Pages/YourSinclair4000103.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Eliminator/Hewson</TD><TD BGCOLOR="yellow"><a href="../ys40.htm">YS40</a></TD><TD BGCOLOR="red"><CENTER>FUT<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center><IMG SRC="../comp.gif" ALT="C"></center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue47/Pages/YourSinclair4700089.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan"><a href="christmascollection.htm">Eliminator (in Christmas Collection)</a></TD><TD BGCOLOR="yellow"><a href="../ys47.htm">YS47</a></TD><TD BGCOLOR="red"><CENTER>70<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center><IMG SRC="../guide.gif" ALT="G"></center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue55/Pages/YourSinclair5500033.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan"><a href="completeguidetoshootemups1.htm">Eliminator (in The YS Complete Guide To Shoot-'em-ups Part I)</a></TD><TD BGCOLOR="yellow"><a href="../ys55.htm">YS55</a></TD><TD BGCOLOR="red"><CENTER>UNR<CENTER></TD></TR>
+<TR><TD BGCOLOR="blue"><center>&nbsp;</center></TD><TD><a href="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue63/Pages/YourSinclair6300081.jpg"><IMG ALT="p" SRC="../page.gif" BORDER=0></a></TD><TD BGCOLOR="cyan">Eliminator/Players</TD><TD BGCOLOR="yellow"><a href="../ys63.htm">YS63</a></TD><TD BGCOLOR="red"><CENTER>64<CENTER></TD></TR>
+<tr BGCOLOR=white BACKGROUND=""><td colspan=5><center><font size=2><b><i>Some info from <a href="http://www.worldofspectrum.org/infoseek.cgi">Sinclair Infoseek</a>+<a href="http://www.users.globalnet.co.uk/~jg27paw4/spot-on/default.htm">SPOT*ON</a></i></b></font></center></td></tr>
+</TABLE><p></CENTER>
+
+</TD>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR>
+<TD WIDTH=5 BGCOLOR=black></TD>
+<TD COLSPAN=3 BGCOLOR="#FFFFFF" ALIGN="center"><center><TABLE><TR><TD ALIGN="center"><IMG SRC="lifeexpectancy.gif"><br>Life Expectancy</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newgraphics.gif"><BR>Graphics</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="instantappeal.gif"><br>Instant Appeal</td><TD>&nbsp;&nbsp;</TD><td ALIGN="center"><IMG SRC="newaddictiveness.gif"><br>Addictiveness</td></tr></table></center></td>
+<TD WIDTH=5 BGCOLOR=black></TD>
+</tr>
+
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+<TR><TD BGCOLOR="#FFFFFF" ALIGN="center"><B><I>Sean Kelly has kindly authorised this site<br>
+</i></b></td></tr>
+
+<TR><TD bgcolor="yellow"><center><b><i>Reviews in other magazines:</i></b></center></TD></TR>
+<TR><TD bgcolor="black"><center><TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_0">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue63/Pages/Crash6300010.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=Crash/Issue63/Pages/Crash6300011.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/cr63_10.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_0"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_1">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue085/Pages/SinclairUser08500032.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=SinclairUser/Issue085/Pages/SinclairUser08500033.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/su085_32.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_1"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_2">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue18/Pages/TheGamesMachine1800054.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=TheGamesMachine/Issue18/Pages/TheGamesMachine1800055.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/tgm18_54.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_2"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Crash (<a href="http://www.zxspectrumreviews.co.uk/review.aspx?gid=1782&rid=9191">HTML</a>)</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">Sinclair User</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">The Games Machine</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+<TABLE CELLPADDING=0 CELLSPACING=0 bgbolor="black">
+<TR><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_3">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue21/Pages/ACE2100078.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=ACE/Issue21/Pages/ACE2100079.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/ace21_78.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_3"></TD><TD WIDTH=10>&nbsp;</TD>
+<MAP NAME="pagetable_4">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue188/Pages/MicroHobby18800030.jpg" COORDS="1,1,115,161">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=MicroHobby/Issue188/Pages/MicroHobby18800031.jpg" COORDS="116,1,230,161">
+</MAP>
+<TD WIDTH=230><IMG SRC="../wosfiles/page_thumbs/mh188_30.jpg" WIDTH=230 HEIGHT=161 BORDER=0 USEMAP="#pagetable_4"></TD><TD WIDTH=10>&nbsp;</TD>
+</TR>
+<TR><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">ACE</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD><TD><CENTER><B><i><font color="yellow">MicroHobby</font></i></b></CENTER></TD><TD WIDTH=10>&nbsp;</TD></TR>
+</TABLE>
+</center></TD></TR><TR bgcolor="yellow"><TD><CENTER><B><I>Click pages to enlarge</i></b></center></TD></TR>
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>

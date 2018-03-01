@@ -1,0 +1,456 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Jet Set Willy</b></font></center>
+<center>Number of entries found: 19</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>I though I'd write to you and
+point out some interesting
+things you seem to have missed
+in your <A href="http://www.users.globalnet.co.uk/~jimg/yr06/yr06_21.htm">articles</A> on <I>Jet Set Willy</I>. <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	Firstly, it was suggested that
+you need to get the invisible
+object in the First Landing.
+You don't. The invisible object
+which is actually lodged in the
+wall, is almost certainly another
+bug in the program. I've heard
+that you can reach it by
+jumping off the 39th step of&nbsp;the
+ladder (could this be a tie-in
+with the famous book <I>The 39 Steps</I>?) but I've not managed
+to get the blasted thing yet!
+Perhaps someone out there has
+managed it? <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	You're right in thinking that
+the room called Nomen Luni is
+a&nbsp;take-off of Imagine's <I>Zzoom</I>
+game - in Latin, <I>Nomen Lundi</I> can be roughly
+translated as 'The name of the
+Game', Imagine's old
+catchline. But there's more to
+this than meets the eye. If you
+look at the central graphics
+blocks in&nbsp;this room, you
+wouldn't be blamed for
+thinking they gave the
+impression of the tail end of an
+aircraft. Now look at the room
+below (Under The Roof) -
+can you make out what could
+be the front end of the plane?
+Hey presto ... the joke is that a
+plane, probably from
+Imagine's <I>Zzoom</I>, has crashed
+into the top of of Willy's mansion. <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	I do admit to being one of
+those poor souls who, having
+read the <I>Jet Set Loony</I> letter
+in issue 7's Forum, waited six
+hours for the raft to appear.
+Well, I thought it was a joke at
+the time, but you can never be
+too sure. You also made a bit
+of a mess of your
+WRITETYPER chart by
+saying that Nomen Luni, The
+Wine Cellar, The Watch Tower
+and The Tool Shed can be
+reached using this method -
+they can't! You're forgiven this
+time, but consider your
+knuckles rapped.
+ <i>(David Bailey in Your Spectrum issue 09)</i> 
+
+<br><hr>
+	Meanwhile if you
+enjoyed looking at the
+unused sprites in <I>Jet Set Willy</I> using the little
+program in <A href="http://www.users.globalnet.co.uk/~jimg/yr16/yr16_07.htm#Hacking">issue 16</A>,
+<B>Christian Keane</B> of
+Liverpool suggests you try
+some of these numbers
+instead of the 512:
+300, 350, 10, 170.
+ <i>(Christian Keane in Your Spectrum issue 21)</i> 
+
+<br><hr>
+Neil Gore and Viv Shadbolt have both discovered the secret 'passages'. Try jumping off the Watchtower or rescuing Esmerelda to find yourself in the off-licence or Ball Room East respectively.
+ <i>(Neil Gore, Viv Shadbolt in Sinclair User issue 29)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Game bugs</i></b></font></td></tr>
+<TR><TD>It's not often that a
+software house comes up
+with the goods on how to
+break in to manipulate
+its own commercial
+output - but that's
+exactly what Software
+Projects are doing with
+its <I>Jet Set Willy</I> package.
+The much-publicised
+&quot;sneaky random hazards
+feature&quot; which befell
+unsuspecting players
+entering The Attic seems
+to have turned out to be
+the bug we all thought it
+was, and thanks to Ross
+Holman and Cameron
+Else (winners of the
+<I>JSW</I> champagne and
+glasses) the company
+now have a number of
+'fixes' you can add to
+your program. And this
+is what you do ... <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	Rewind the <I>Jet Set Willy</I> tape and load it
+using MERGE &quot;&quot;, press
+Enter and start the tape.
+Once the loader program has been loaded
+you will get the 'OK'
+message on the screen
+and you should stop the
+tape. Now enter: <BR><BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<CODE><B>CLEAR 32767 <BR>
+LOAD &quot;&quot; CODE</B>
+</CODE><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;as direct commands and
+start the tape. After the
+main part of the program
+has loaded, enter the
+following as direct
+commands: <BR><BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<CODE><B>POKE 60231,0 <BR>
+POKE 42183,11 <BR>
+POKE 59901,82 <BR>
+POKE 56876,4</B>
+</CODE>
+<BR><BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;and your problems
+should be over. To start
+the new version of the
+game,&enter GO TO 40. <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	Of course, if you don't
+want to go through this
+process each time,
+you can save it on
+another tape. So, once
+you've sorted out the
+leads for a SAVE, enter: <BR><BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<CODE><B>SAVE &quot;JETSET&quot; LINE 10 <BR>
+SAVE&nbsp&quot;JSW&quot; CODE 32769,32768</B>
+</CODE>
+ <i>(Ross Holman, Cameron Else in Your Spectrum issue 06)</i> 
+
+<br><hr>
+I HAVE managed recently to get my hands on a copy of the long-awaited Jet Set Willy. This game struck me as an example of the very finest games design possible and is a good target for other software houses but I was rather annoyed to find&nbsp;that there are one or two severe bugs in it.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;After playing the game for some time I found a room by the name of "Dr Jones will never believe this".<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;From the time I left the room I found that unusual things began to happen in certain rooms. For a start, all the nasties in the chapel disappeared, the UFO in the bridge disappeared, and if you enter either the kitchen or the east wall base or inside the mega trunk one by one all your lives disappear.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Another rather less cataclysmic bug is that when on the rope hanging over the beach, if you swing until the rope is at full swing and then jump off, so that you hit the top of the screen, you suddenly re-appear half way under the sand. Surely this could be corrected?
+ <i>(Joseph Robson in Sinclair User issue 27)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Cheat modes</i></b></font></td></tr>
+<TR><TD>Type 'WRITETYPER' to get into the table .
+ <i>(YS Smash Tips)</i> 
+
+<br><hr>
+Jonathan Cheetham discovered a means of gaining access to all rooms. First, guide Willy to the first landing and position him between the stairs and the entrance to 'To the Kitchens'. Then type WRITETYPER. Press key 9 and you should appear&nbsp;in the off-licence. Holding down combinations of keys 1-6 with key 9 should, according to Cheetham, transport you to other rooms. For example, 239 gets you to the entrance to Hades.
+ <i>(Jonathan Cheetham in Sinclair User issue 29)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><H3><A name="JSW1">WHO'S A CLEVER
+BOY?</A></H3>
+I am a follower of that great
+language Basic. However, after
+reading the <A href="http://www.users.globalnet.co.uk/~jimg/yr04/yr04_60.htm#JSW2"><I>Hacker's Guide</I></A> in
+issue 4, I collected all 83
+objects in ... ssshh, you know
+what ... with the help of the
+map and 18 of my own POKEs
+(including two from Software
+Projects which make the
+Banyan Tree and Conservatory
+Roof possible). Some not
+published are POKE 35899,0
+(immunity to arrows) and those
+to get the first landing object -
+56347,0; 56350,0; 56357,170;
+and 56358,170. For a larf, try
+POKE 36901,85 or POKE
+37805,60. Tee-hee! <BR>
+ <i>(David Fox in Your Spectrum issue 08)</i> 
+
+<br><hr>
+	Yet more POKEs have come
+in for <I>JSW</I> - there can't be
+many left now, surely! Anyway,
+here goes: <B>A Wiseman</B> sent in
+POKE 37874,0 which makes
+you collect any object as soon
+as you enter each room, and
+POKE 36353,60 which
+improves your jumping abilities. <B>M Firby</B> sent in POKE
+36353,44 which makes it much
+easier to get the object in The
+Nightmare Room, and <B>Andy W</B> (what's with the anonymity
+Andy?) reveals that POKE
+38207,24 removes the dreaded
+Maria (though you can still see
+the final effect). <BR>
+ <i>(A Wiseman, M Firby, Andy W in Your Spectrum issue 09)</i> 
+
+<br><hr>
+	Like everyone else, I've had
+it up to here with <I>Jet Set Willy</I>.
+But it's U-turn time, and all
+because of a letter from <B>Mike Smith</B>. To get the mysterious
+object in the First Landing, he
+supplied probably the best
+<I>JSW</I> POKEs I've seen in a
+long time, namely POKE
+56350,0: POKE 56358,0:
+POKE 56365,85. What these
+fiendishly simple POKEs do is
+add a platform so that you can
+go to the cross and get the
+object. Now, where was I? Oh
+yes, I've had it up to here with
+<I>JSW</I> POKEs.
+ <i>(Mike Smith in Your Spectrum issue 12)</i> 
+
+<br><hr>
+Try: FOR f=44800
+TO 44928 : POKE
+f,PEEK(f+512) : NEXT f. Now
+one of Matthew Smith's
+unused sprites is revealed
+- you'll see the penknife
+change into a moving top-hat. To see another one
+alter the 512 to 640, run it
+again and you'll get a
+rotating periscope.
+ <i>(Mark Sanderson in Your Spectrum issue 16)</i> 
+
+<br><hr>
+Load
+the first program, stop the
+tape and reset the
+machine. Next, MERGE the
+second program, and
+insert POKE VAL &quot;26744&quot;,
+NOT PI to stop the alien
+ships firing bombs, or
+POKE VAL &quot;24373&quot;, NOT
+PI for a very different
+effect! (Exactly <I>what</I> is a
+mystery!)
+ <i>(Nigel Bareham in Your Spectrum issue 19)</i> 
+
+<br><hr>
+<center>Also works for JSW3, Join The Jet Set, The Continuing Mission, The Deadly Mission, Willy's Holiday, Willy's New Hat, JSW In Space, Casa di Jack</center>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>35899,0</td></tr>
+<tr><td>Infinite Energy</td><td>36477,0</td></tr>
+<tr><td>No Enemies</td><td>35123,3</td></tr>
+<tr><td>Items</td><td>37874,0</td></tr>
+<tr><td>Walk Thru Monsters</td><td>37982,0:37994,0</td></tr>
+<tr><td>No death from fall</td><td>36477,1</td></tr>
+<tr><td>Maria disappears</td><td>38240,0</td></tr>
+<tr><td>No G-Force</td><td>36358,0</td></tr>
+<tr><td>Use Interface 1</td><td>36635,239</td></tr>
+<tr><td>Stop Colourcode</td><td>34493,195</td></tr>
+<tr><td>WRITETYPER on</td><td>34275,10</td></tr>
+<tr><td>Stoopid Music</td><td>56250,0</td></tr>
+<tr><td>Bug Fix (???)</td><td>42138,11:56876,4:59900,255:59901,82:60231,0</td></tr>
+<tr><td>Jump up some walls</td><td>36353,60</td></tr>
+<tr><td>Stops horizontal nasties</td><td>37203,0:37438,0</td></tr>
+<tr><td>Start in room x</td><td>34795,x:33824,x (x=1-63, see list)
+</table>
+<BR><BR><B>The No Enemies POKE seems to render the game pointless!
+<BR>The Use Interface 1 POKE seems useless with an Emulator!
+<BR>The "Stop Colourcode" also seems useless, not to mention it promotes Speccy piracy :-)
+<BR>And I don't know WHICH bugs are fixed, but I assume they can only help!
+<BR><BR>And here's the list of rooms for the rooms=x POKE. Thanks to whoever wrote it in the archive from WOS.
+<BR><BR>NOTE:- Room no. 47 ("[", above the conservatory) can only be accessed by using the&nbsp;cheat.
+<BR><BR>
+<CENTER>
+<table border="2">
+<tr>
+<td WIDTH="200" ALIGN="LEFT" VALIGN="TOP">
+00:The Off Licence<br>
+01:The Bridge<br>
+02:Under the MegaTree<br>
+03:At the Foot of the MegaTree<br>
+04:The Drive<br>
+05:The Security Guard<br>
+06:Entrance to Hades<br>
+07:Cuckoo's Nest<br>
+08:Inside the MegaTrunk<br>
+09:On a Branch Over the Drive<br>
+10:The Front Door<br>
+11:The Hall<br>
+12:Tree Top<br>
+13:Out on a limb<br>
+14:Rescue Esmeralda<br>
+15:I'm sure I've seen this before..<br>
+16:We must perform a Quirkafleeg<br>
+17:Up on the Battlements<br>
+18:On the Roof<br>
+19:The Forgotten Abbey<br>
+20:Ballroom East<br>
+21:Ballroom West<br>
+</td><td WIDTH="200" ALIGN="LEFT" VALIGN="TOP">
+22:To the Kitchens    Main Stairway<br>
+23:The Kitchen<br>
+24:West of Kitchen<br>
+25:Cold Store<br>
+26:East Wall Base<br>
+27:The Chapel<br>
+28:First Landing<br>
+29:The Nightmare Room<br>
+30:The Banyan Tree<br>
+31:Swimming Pool<br>
+32:Halfway up the East Wall<br>
+33:The Bathroom<br>
+34:Top Landing<br>
+35:Master Bedroom<br>
+36:A bit of tree<br>
+37:Orangery<br>
+38:Priests' Hole<br>
+39:Emergency Generator<br>
+40:Dr Jones will never believe this!<br>
+41:The Attic<br>
+42:Under the Roof<br>
+</td><td WIDTH="200" ALIGN="LEFT" VALIGN="TOP">
+43:Conservatory Roof<br>
+44:On top of the house<br>
+45:Under the Drive<br>
+46:Tree Root<br>
+47:[<br>
+48:Nomen Luni<br>
+49:The Wine Cellar<br>
+50:Watch Tower<br>
+51:Tool  Shed<br>
+52:Back Stairway<br>
+53:Back Door<br>
+54:West  Wing<br>
+55:West Bedroom<br>
+56:West Wing Roof<br>
+57:Above the West Bedroom<br>
+58:The Beach<br>
+59:The Yacht<br>
+60:The Bow<br>
+61:[unprintable]<br>
+62:[unprintable]<br>
+63:[unprintable]<br>
+</td></tr></table></center><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+
+<br><hr>
+MERGE the short loader program, stop the tape when loaded, insert the pokes you want into a new line 35, then run and start the tape again.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;POKE 38240,0 - removes all moving objects; POKE 36477,1 - stops death when falling; POKE 37982,0 -&nbsp;allows you to walk through nasties; POKE 35899,0 - infinite lives; POKE 35123,0 - disable any moving object; POKE 38207,0 - disable Maria; POKE 36545,0 banyan tree easier; POKE 36358,0 - extra zip when jumping.
+ <i>(Paul McCartan in Sinclair User issue 39)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD><a href="http://www.users.globalnet.co.uk/~jimg/yr04/yr04_60.htm#JSW2">http://www.users.globalnet.co.uk/~jimg/yr04/yr04_60.htm#JSW2</a>&nbsp; <i>(Andrew Pennell in Your Spectrum issue 04)</i> 
+
+<br><hr>
+I RECENTLY bought Jet Set Willy produced by Software Projects. It is an excellent game and I have found a way of poking in a code so that it is possible to have infinite lives. It has proved very useful and has enabled me to discover all the rooms and find the items without making the game boring. To obtain it you have to type in before loading:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<br>35 POKE 35899,0 (return)<br>
+MERGE "" (return)<br>
+Load until 'OK' statement<br>
+Stop tape<br>
+RUN<br>
+Start tape<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;When the game has loaded you will find that when you are killed you will lose no lives. A word of warning - never fall into a room. If you do and find that you die continuously, press Caps Shift and Break and you will have to start all over again.
+ <i>(David Gibson in Sinclair User issue 28)</i> 
+
+<br><hr>
+OUR THANKS to all who have sent letters revealing hints and tips for Jet Set Willy from Software Projects. First, infinite lives. To obtain immortality, load the program with MERGE "", stop the tape, and ENTER: 37 POKE 35899,0. Then ENTER:&nbsp;GOTO 10 and re-start the tape.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Pagett also tells of a way of disabling the sprite graphics to render the mansion virtually trouble-free. Using the preceding method, add the line: 35 FOR F=40000 TO 40191: POKE F,0:NEXT F: FOR F=43780 TO 46595: POKE F,0:NEXT F:FOR F=46845 TO 49178:POKE F,0:NEXT F.
+ <i>(L Griffiths, Ian Rogers, David Pagett in Sinclair User issue 29)</i> 
+
+<br><hr>
+Finally, the last word should go to Software Projects. Now that the game has been won - see news story - the company has revealed a means of bypassing the so-called bug which involved instant death in several locations after visiting the Attic.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;It was not a bug at all but a deliberate attempt to make the game even more difficult in the later stages. To negate the feature, load the first part of the program with MERGE "". Then ENTER: CLEAR 32767 and LOAD "" CODE. Start the tape. When the main program has loaded, ENTER: POKE 60231,0 POKE 42183,11 POKE 59901,82 and POKE 56876,4. To play the new version, ENTER: GOTO 40. To save the new version, ENTER: SAVE "JETSET" LINE 10 and SAVE "JSW" CODE 32768,32768.
+ <i>(Software Projects in Sinclair User issue 29)</i> 
+
+<br><hr>
+And if there are still Jet Set Willy fanatics out there I have some useful pokes. For any of the pokes type in CLEAR 30000: LOAD "" CODE: (put all pokes here separated by colons) : RANDOMISE USR 33792 (ENTER). Start your tape player.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;The pokes are: POKE 36353,44 - allows you to be sucked up a left hand wall; POKE 35899,0 - infinite lives; POKE 34795,x - type x as the number of the starting room, 0 to 60; POKE 36477,1 - stops you dying when you fall from a height; POKE 59900,255 - an anti-attic poke; POKE 41983,255 - get the tap from the bathroom, jump on your bed and see what happens; POKE 34275,10 - access to any room by pressing nine and another number key; POKE 36358,0 - jump higher than normal; POKE 35123,0 - deletes all baddies which move and removes ropes.
+ <i>(Ian Comerford in Sinclair User issue 38)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+			<title>Z80 Processor Overview</title>
+</head>
+<body bgcolor="#000000">
+
+<center>
+<table width="600" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+
+<table width="100%" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr>
+		<td>
+		<font face="verdana" size="2">
+<h1>THE JUMPS</h1>
+All the conditional jumps branch (or not) depending on the contents of the flags. So, for instance, JPZ says 'jump if the Zero flag is set'. Now we can see how the CP instruction can be used. Suppose, for example, that we wish to see if a particular byte, pointed at by HL, contains 1E hex. If it does, we want to branch to address 447B. The code is:
+<br><br>
+<font face="courier new">LD A, 1E<br>
+CP A, (HL)<br>
+JP Z, 447Bh</font>
+<br><br>
+All the other jumps behave similarly, as can be seen here:
+<br><br>
+JPNZ  - jump on a non-zero result (zero flag <i>not</i> set)<br>
+JPZ   - jump on a zero result (zero flag set)<br>
+JPP   - jump on a positive result (sign flag <i>not</i> set)<br>
+JPM   - jump on a negative result (sign flag set)<br>
+JPNC  - jump on no carry (carry flag <i>not</i> set)<br>
+JPC   - jump on carry (carry flag set)<br>
+<br><br>
+		</font>
+		</td>
+</tr>
+</table>
+
+<center><font face="verdana"><a href="instructions.html">Back to Instruction Overview</a></font></center>
+
+</td></tr>
+</table>
+</center>
+
+</body>
+</html>

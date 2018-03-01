@@ -1,0 +1,134 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Booty</b></font></center>
+<center>Number of entries found: 6</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>Nobody seems to have discovered yet that if you
+LOAD Firbird's <I>Booty</I> with the Currah MicroSpeech
+plugged in, you get an entirely different game? <BR>
+	The game LOADs as normal, but once you press the
+key to start playing, something odd happens. For starters, your
+cabin-boy doesn't appear when the first cabin is displayed and
+neither do the pirates! Then the new game begins ... <BR>
+	It involves swimming in the sea in a wetsuit (readily
+available in days of old, of course!), collecting small fish
+and avoiding the larger species of flickering marine life. All the
+time you air supply is running down to zilch. During this
+under-sea escapade, sailing ships like the one on the
+LOADing screen float past <BR>
+	When your air's run out and you've suffocated, just
+resurface between ships and stock up with more oxygen.
+Then it's back to the fishing trip. The keys are the same as
+those for <I>Booty</I>, but the Open/Hold key has no effect. And
+there's&nbsp;no need for the infinite lives POKE as it's impossible
+to die. All in all, a bit of a snore! <BR>
+<B>P J S Melia <BR>
+Ormskirk, Lancs</B>
+ <i>(P J S Melia in Your Spectrum issue 17)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Game bugs</i></b></font></td></tr>
+<TR><TD>I was on a platform when I missed a lift, and fell to the floor. The computer then locked.
+ <i>(Matthew Sharples in Sinclair User issue 43)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD>	If <I>Booty</I>'s the game
+that's giving you grief,
+<B>Alan Garner</B> has a
+swashbuckling routine to
+get you infinite lives:
+<BR><BR>
+<B>10 CLEAR 26879: LOAD &quot;&quot; SCREEN$: LOAD &quot;&quot; CODE 26880 <BR>
+20 RANDOMIZE USR 26880:&nbsp;POKE 58294,4 <BR>
+30 RANDOMIZE USR 52500</B>
+<BR><BR>
+	Run this, and play the
+original, it'll ignore the
+normal loader program.
+ <i>(Alan Garner in Your Spectrum issue 19)</i> 
+
+<br><hr>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>55294,0</td></tr>
+<tr><td>Access Hidden Game</td><td>52796,32:52798,58</td></tr>
+<tr><td>Infinite Oxygen (Hidden Game)</td><td>54045,0</td></tr>
+<tr><td>Fish To Be Caught=x (Hidden Game)</td><td>52824,x (x= 1-255)</td></tr>
+<tr><td>Fish Caught=x (Hidden Game)</td><td>53037,x (x= 1-255)</td></tr>
+<tr><td>Always Complete Hidden Game</td><td>52824,195</td></tr>
+</table>
+<BR><BR><B>Enter the access hidden game POKE on the main control menu</B><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD><pre>
+10 CLEAR 26000: LOAD "" CODE: LOAD "" CODE 26880: RANDOMIZE USR 26880: POKE
+58294,0: RANDOMIZE USR 52500: REM INFINITE LIVES
+</pre>
+ <i>(YS Smash Tips)</i> 
+
+<br><hr>
+HERE ARE some infinite lives for Booty. Type in the program then load as normal.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<br><pre>10 BORDER 0: PAPER 0: INK 0
+20 CLEAR 26870
+30 LOAD "" SCREEN$
+40 BORDER 0: PAPER 0: INK 0
+50 PRINT AT 19,0: LOAD "" CODE 26880
+60 RANDOMIZE USR 26880
+170 POKE 58294,0
+80 RANDOMIZE USR 52500</pre>
+ <i>(Darren Hutchinson in Sinclair User issue 41)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

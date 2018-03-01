@@ -1,0 +1,284 @@
+<HEAD>
+<LINK REV=made href="mailto:ysrnry@the-den.clara.net">
+<META NAME="keywords" CONTENT="your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews">
+<META NAME="description" CONTENT="Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>The Your Sinclair Rock'n'Roll Years TV Show</title>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="../ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 >
+<tr><td>
+<IMG SRC="/cgi-bin/banner.pl" ALT="The Your Sinclair Rock'n'Roll Years"><br>
+</td></tr>
+<tr><td bgcolor="black">
+<IMG SRC="../spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>
+<b><i>The Story So Far...</i></b>
+</font>
+</td></tr>
+<tr><td>
+<center>
+<a href="../cover1.htm"><IMG SRC="../front.gif" ALT="Front Page" BORDER=0></a><a href="../search.htm"><IMG SRC="../search.gif" ALT="Search Site" BORDER=0></a><a href="../email.htm"><IMG SRC="../email.gif" ALT="E-Mail Me" BORDER=0></a><a href="../articles/index.htm"><IMG SRC="../index.gif" ALT="Article Index" BORDER=0></a><a href="../faq.htm"><IMG SRC="../faq.gif" ALT="FAQ" BORDER=0></a>
+</center>
+</td></tr>
+</table>
+</center>
+<p>
+
+<center>
+<font size=5><b>
+<a href="index.htm">About</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="downloads.htm">Downloads</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="whatsnew.htm">The Story So Far</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="credits.htm">Credits</a>
+</b></font>
+<p>
+<TABLE CELLSPACING=0 CELLPADDING=0 width=600 >
+<tr><td>
+        <TABLE WIDTH=550 align="center"><TR>
+            <TD width=100><FONT SIZE=4><B><A HREF="whatsnew_2004.htm">&lt;&lt; 2004</A></B></FONT></TD>
+            <TD ALIGN="CENTER"><FONT SIZE=4><B>2003</B></FONT></TD>
+            <TD width=100>&nbsp;</TD>
+        </TR></TABLE><P>
+<b>16/11/03:</b> Things are moving along quite nicely now, and I think it's safe to say that I'll have the first installment done by the end of the year.<p>
+
+In my long quest to rewrite Adobe Premiere in Perl, I've now written a text rendering script that uses ImageMagick, and here's a sample of one of the
+slides that will be used in the documentary:<p>
+<center><img src="1982_03.png"></center><p>
+I now have all the slides done for 1982 and have worked on some timings so that I know the minimum time to show them to give everyone a chance of reading
+their contents before moving onto the next one. On the basis that it will take some people up to three times the amount of time it takes me to read the text,
+I've come to the rule of thumb that it will take around eight seconds per line of text. This allows me to come up with a storyboard that will help me when
+choosing which movie clips to put where. You can see the storyboard <a href="http://obdwww.egyptus.co.uk/tvprog/1982.htm">for 1982 here</a>. Looks like it will
+be at least six minutes long, which should be OK.<p>
+
+Now comes the fun part - using the tools I've acquired or written to produce the movie content I'll be needing. Once I've done that, all I'll need to do is add
+a sound track.
+<p>
+<hr>
+<p>
+<b>18/9/03:</b> I think the 2D animation engine has been perfected now, having just added variable scaling, bright/dim, opacity and rotation.
+So, another <a href="http://obdwww.egyptus.co.uk/ys2.mpg">demo is available</a> to download, this time featuring 
+<a href="../articles/tetris.htm">Tetris</a>. This is a 3.5Mb download - don't worry about sending me download stats anymore, I have enough, and many
+thanks to those who did them. And here's a screengrab:<p>
+<center><IMG SRC="tetris.jpg"></center><p>
+Right. Onto 3D stuff...
+<p>
+<hr>
+<p>
+<b>7/9/03:</b> After three months of doing nothing due to other commitments, I had a very strong brainwave about how to do the animations
+that will introduce each section: "How about I base them on Spectrum games, and have the YS logo central to it?" No probs, I thought. Just
+load up Flash and set to work. Then I realised I wanted pixel-perfect placement, something that's an awful hassle to do in Flash, so I dreamt up
+this 2D animation renderer written in Perl that uses Netpbm.<p>
+
+Yes, I'm rewriting Flash in Perl. Again.<p>
+
+This bit of software I wrote allows you to specify the path of any image across any size of image. You work with layers, like with Flash, and
+each layer overlaps the layer beneath using transparencies and alpha-blending. Each layer has a config file, which is dead simple:<p>
+
+DURATION 3<br>
+LINE 0 3 (0,0) (100,100) (100,200) a.gif<br>
+CURVE 0 3 (0,0) (100,100) (100,200) b.gif<br>
+<br>
+This very simple example uses a similar syntax to the panning program I wrote in that you describe a path (the list of coordinates), a time frame (the first two numbers on
+the line), and an image filename or wildcard (so you can have animated images within the animation). There's also a FILTER entry you can add which allows you to pass the generated frame through a pipeline of commands before being written to disk.<P.
+
+The power comes into it when you realise you can write programs that generate these config files, so you can experiment with your animations a hell
+of a lot easily than with Flash. Say you want to speed things up a bit, change the scale of everything, add some filters to some layers, alter some paths, etc...
+All very painstaking to do with Flash, but just alter your config generator and it's done in a few minutes. Rendering time is quite long, but just
+leave it in the background running overnight and everything's fine.<p>
+
+I suppose you'd like an example... Remember <a href="../articles/splitpersonalities.htm">Split Personalities</a>?:<p>
+<center><img SRC="splitp.jpg"></center><p>
+Well, <a href="http://obdwww.egyptus.co.uk/ys1.mpg">here's the demo!</a> It's a 5.2Mb download - if you can <a href="../email.htm">email me</a> how long it took to download
+and what sort of internet connection you have, I'd be incredibly grateful. obdwww is on my home network and I'm just testing out the idea
+of using that as a file server for when the movie is done.<p>
+
+Another 2D animation is in the works. I'm looking at extending the functionality to allow you to rotate the individual images, scale them, brighten them, 
+and change their opacity too. Each should be as difficult as each other. Once the movie's done I'll release this script and the panning script
+under the GPL so that someone else can tidy it up :)<p>
+
+And next...? Well, I've just discovered a Perl interface to Open GL, which will allow me to do <b>3</b>D animations. Watch this space...
+<p>
+<hr>
+<p>
+
+<b>24/5/03:</b> Been busy writing a Perl program that will take any image file, a command file, and then
+generate a movie file that pans over the image. It uses a combination of ImageMagick, Netpbm, bmp2avi
+and avi2mpg.<p>
+
+Probably best to illustrate this. <a href="preview1.jpg">Here</a> is a picture of the ZX Interface 2 that I scanned
+in from a magazine. Rather than just display the whole picture in the MPEG, I want to zoom in and pan over bits of
+it. Using my Perl script, I can describe the motion I want by the following commands:<p>
+
+900,361,327,* fade 1 (0,100)<br>
+900,361,327,* curve 18 (427,495,327,*, 70,336,459,*, 151,141,441,*, 652,43,603,*, 780,750,775,*)<br>
+780,750,775,* line 2 (0,0,1548,*)<br>
+0,0,1548,* pause 1<br>
+0,0,1548,* fade 1 (100,0)<p>
+
+Each frame that I want to generate is 352x212 (VCD size, minus a bit at the bottom for the subtitles). Each set of four
+numbers above describe the rectangles I want to extract from the image, and are in the form of x-coord, y-coord,
+width, height. A star in the width or height field means generate that value using the aspect ratio of the movie you're generating.<p>
+
+The number after each command is the duration in seconds that command should take up.<p>
+
+Lines describe lines, in the above example just between two points.<p>
+
+Curves are the same as lines, in this case having six points,
+but the path is then smoothed so that the corners are rounded.<p>
+
+Pause just freezes on a given position.<p>
+
+Fade is used to dim or brighten a frame over the given time.<p>
+
+The above script can be previewed to see what sort of motion it will produce - <a href="preview2.jpg">here</a>
+is what the preview looks like. The blue rectangles represent the frame of each coordinate defined in the script.
+The yellow dots are plotted at the corners of each generated frame. Yellow rectangles are drawn when there's a horizontal or
+vertical direction change so I can easily see what area of the image the pan will cover. The red lines are drawn between
+each coordinate used to describe each line and curve, and the green line shows the path of each curve.<p>
+
+I think it's quite nifty - I'm rather proud of it!<p>
+
+Once I'm happy with the preview, I can generate the movie - and <a href="http://www.the-den.clara.net/preview.mpg">here</a> is
+the movie it generates. Be warned, it's a 3.5Mb download.<p>
+
+In practice, I don't use JPGs and MPEGs - I only used them here to minimise download time. I deal with BMP and
+PNG image files, and generate uncompressed AVI files for use in Premiere. The file sizes involved are about 50 times
+larger than these files you can download here. My 80Gb hard disk is starting to look small...<p>
+
+So... I now have all the tools I need to start work on the MPEG proper. I'll be starting in the middle of the movie with
+the section on 1982 as that looks like the simplest one to do. I've revised the script and I'm ready to go!<p>
+
+<hr>
+<p>
+<b>20/4/03:</b> Finally mastered using Premiere - it's very user-friendly, providing the user knows what he's
+doing. The User Guide is <i>very</i> hard to follow. Anyway, I think I know everything I need to know, and
+I think I'm now in a position to start sourcing all the AVIs and images I need. This means LOTS of 
+game-playing and finally producing a few AVIs using RealSpectrum. Should be fun - been ages since I last
+had an excuse to raid the Speccy archives. If my draft script is anything to go by, there'll be over 100 games covered
+in the program, plus a few dozen still images used.<p>
+
+Yikes. That's the first time I've counted them... The maximum VCD size is around 50-60 minutes. I thought 
+I wouldn't fill it up...<p>
+
+The one area I haven't touched is the soundtrack. I have a large list of songs which I'd like to use,
+but have stayed away from sound mixers and editors for now - that's for another day.<p>
+<hr>
+<p>
+<b>19/4/03:</b> I've come to the conclusion that Premiere's MPEG compressor is very naff indeed. One of
+the things which will form a large amount of the MPEG will be close-up pans of various image scans - photos
+of machines, adverts, photos and the like. So, I load up Flash, create a simple AVI of this panning, import
+it into Premiere, export the MPEG, play it back...<p>
+
+Judder, judder, judder...<p>
+
+Thinking that Premiere must be perfect as it costs so much, I write my own program to generate the frames
+individually from the source image using the Netpbm tools, create the perfect AVI using bmp2avi, and then
+import <i>that</i> into Premiere, export the MPEG, playback...<p>
+
+Judder, judder, judder...<p>
+
+Wasn't happy. Then I began to suspect Premiere itself as I was slowly coming to the opinion that it's a bit flakey
+and that it really should do what I want it to do. So, I got Premiere to export to uncompressed AVI (massive
+file sizes-a-go-go, but then I have an 80Gb hard disk that's barely filled), then encoded an MPEG using
+the freeware (repeat, <i>freeware</i>) tool TMPGEnc, then played it back.<p>
+
+It was perfect. Now why couldn't Premiere, costing hundreds of pounds (not mine, thank god), do that? Grrr...
+Still, I quite like the little panning tool I wrote and I'll be using that again in future. Here's a frame
+that uses the panning AVI.<p>
+
+<center><img src="example2.gif"></center><p>
+
+One other thing to note is that TMPGEnc produces much better quality MPEGs than Premiere, with only slightly
+larger file sizes. Hey ho. Next on the list of things to do is decide how to switch between blocks
+of text in the subtitles. Premiere looks <i>very</i> basic when compared to Flash - ideally I want
+the old block to fade into the new block of text using alpha-blending, but I can't see how you'd do
+that in Premiere. If it wasn't for the fact that the movies exported by Premiere anti-aliased text
+far better than Flash does then I probably would have ditched it by now. Actually, that's a bit harsh -
+Premiere really does come into its own when editing clips together - I just have to jump through a few
+hoops to get it to do what I want...<p>
+<hr>
+<p>
+<b>13/4/03:</b> After various dramas at work, I've returned to this. I've been having a play around
+with Adobe Premiere, VirtualDub, and writing CDs and playing them back on my DVD player and
+big-screen TV.<p>
+
+VirtualDub is a VERY nice utility for mucking about with AVIs - now have a nice clear (well, as clear as you can get when making an MPEG) test movie playing from my DVD player. Decided to go with the VCD resolution as it lends itself to the Speccy resolution rather well - SVCD would only have worked well if the Speccy game movies were taking up the full screen, which won't be the case.
+<p>
+
+Here's the sort of screen design I'm going after:
+<p>
+	<center><IMG SRC="template.gif"></center>
+<p>
+<ul>
+<li>The Speccy movie plays at single magnification.
+</li>
+<li>The brown border is 20 pixels wide and marks the "text unsafe" area. TVs display VCDs differently - mine misses out a 10-pixel border altogether, so I thought I's better have all my text and movies within a safe area.
+</li>
+<li>The blue area is where I'm going to have my subtitles.
+</li>
+<li>The green area I'm still thinking about - probably game name/publisher/year details.
+</li>
+<li>For other bits in the movie, like image pans, I'll use the whole area above the blue rectangle.
+</li>
+</uL>
+
+I'm now having a play about with Adobe experimenting with captions and the like. Here's an early
+attempt:<p>
+<center><IMG SRC="example1.gif"></center>
+<p>
+I still have to decide on what fonts to use and how much text to display at once - it's
+a toss-up between three or four lines of text at the bottom, and I also have to confirm that it 
+displays well on other people's TV/DVD combos.<p>
+Decided to release the video in two forms.
+<ul>
+<li> Full quality: MPEG1 352x288 25fps - looks much nicer on TV than on the computer, you hardly notice the compression artifacts.
+</li>
+<li>Low quality for distribution over the internet - needs more research, but probably half resolution, half framerate and compressed as far as possible. Heard a lot about DivX, so will probably have a play with that.
+</li>
+</ul>
+
+
+<p><hr>
+<b>9/2/03:</b> The first draft script has been written. Each chapter covers a given year between 1980 and 1990, then there's a chapter for 1991 to 1993. One more chapter is planned, but not scripted, which will cover the emulation scene and surrounding events such as websites, remakes, etc.<p>
+
+I've trawled through the music charts for soundtrack ideas for each chapter and have a list of songs that I'll sample from (with relevant apologies - I'm hoping no one will mind me doing this wrong thing). I won't actually start work on the soundtrack until the very end when I have the video more or less done.<p>
+
+A few Flash animations have been scripted on paper, and I hope to use those to link chapters together.<p>
+
+I've borrowed a copy of Adobe Premiere 6.5, and I'm hoping that'll do everything I want to do to put everything together. I need to learn how to use it effectively. I also need to decide what resolution the MPEG should be - I want something that will show the Speccy AVIs crystal clear. I'll have to do some playing about - I'll put together a short test MPEG to show you what sort of thing I'm aiming for.<p>
+
+<hr>
+<p>
+</td></tr></table>
+</center>
+<center>
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</center>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</BODY>
+

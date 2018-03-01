@@ -1,0 +1,131 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Shockway Rider</b></font></center>
+<center>Number of entries found: 5</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>On the first level, it's best to go on to the slow lane, and go along a bit
+to get the bricks.  Walking along the top allows vigilantes to get you
+easily.  Once you've got the bricks, go wild and hit every pedestrian
+possible.  Go for nine&nbsp;lives as they're harder to get in later levels.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;On level 2, go for speed.  If you go for mailbags you can sometimes get
+stuck.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;On level 3, get the bricks and keep to the faster lanes.  Don't bother with
+bottles as you'll probably lose three or four lives getting the five
+needed.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 4; walk along the top to get the bricks - and don't worry about the
+vigilantes since they don't appear until past the halfway mark.  Keep
+firing at the targets.  Go for speed in this level and you'll probably get
+a 4000+ bonus.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 5, panic!  There aren't any bricks until block 3, so you'll have to
+punch your way through for a bit.  At about block 8, three bars appear, so
+watch out for them.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 6 this is another level where a high bonus is easy to get.  Go for
+the targets here.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 7, if you're low on lives, here is the place to get them back.  The
+best lanes are the slow one and the fast one for mailbags.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Level 8; if you're low on lives, start praying!  Go on the fast lane and
+the blokes at the top find it hard to hit you.  Don't waste time trying to
+gain extra lives, unless you've just lost a life and are just next to an
+onlooker.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Follow all this advice and wow, you have a Full Circle and a bonus of
+50,000!
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>46119,183</td></tr>
+<tr><td>Infinite Lives Extra</td><td>46119,0</td></tr>
+<tr><td>Minutes = x</td><td>43825,x (x= 1-255)</td></tr>
+<tr><td>Infinite Time</td><td>57363,201</td></tr>
+<tr><td>Last Level</td><td>52340,0</td></tr>
+</table>
+<BR><BR><B>The "Infinite Lives Extra POKE gives you Infinite Lives, plus when you die, you
+complete the level. Pointless, but an easy way of getting through the game :)
+<BR>I wouldn't set the "Minutes" POKE to more than 6, as you will have to wait
+AGES when you complete the level (because of the bonus counter)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/SinclairUser/Issue74/Tape/">this issue of Poke City</a>.
+ <i>(Cover Tape in Sinclair User issue 74)</i> 
+
+<br><hr>
+This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/YourSinclair/Issue40/Tape/">this issue of Pokes</a> in the alphabetical section.
+ <i>(Cover Tape in Your Sinclair issue 40)</i> 
+
+<br><hr>
+<pre>
+10 CLEAR 24799: LOAD ""CODE
+20 FOR f=60408 TO 60412
+30 READ a: POKE f,a: NEXT f
+40 RANDOMIZE USR 6e4
+50 DATA 62,183,50,139,180
+</pre><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Type the above program and play the game tape from the start for infinite lives.
+If you want infinite lives so, when you die you automatically go to the next
+level, just replace the 183 in line 50 to a 0. The last digit on the countdown
+is a bit bigger when loading, but don't worry - all's well.
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

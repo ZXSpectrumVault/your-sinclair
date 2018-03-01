@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+			<title>Z80 Processor Overview</title>
+</head>
+<body bgcolor="#000000">
+
+<center>
+<table width="600" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+
+<table width="100%" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr>
+		<td>
+		<font face="verdana" size="2">
+<h1>CP</h1>
+
+This is the 'compare' instruction. The contents of the A-register are compared with those of another 8-bit field. That raises a problem, though: how is the result of the comparison signalled?
+<br><br>
+This is what the F (or <i>flags</i>) register is used for. Each bit of the F-register holds some information about the effect of the last instruction to alter them. (Not all instructions do alter them.)
+<br><br>
+The flags which most interest us are the Carry, Zero, Overflow and Sign flags. CP can alter any of these, but the one of most significance here is the Zero flag, which is set if the two values being compared are equal.
+<br><br>
+If the A-register contents are <i>less</i> than those of the compared byte, the sign flag is set. This is the equivalent of saying 'the result is negative'.
+<br><br>
+		</font>
+		</td>
+</tr>
+</table>
+
+<center><font face="verdana"><a href="instructions.html">Back to Instructions Overview</a></font></center>
+
+</td></tr>
+</table>
+</center>
+
+</body>
+</html>

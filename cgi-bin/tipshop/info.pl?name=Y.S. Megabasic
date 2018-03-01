@@ -1,0 +1,181 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Y.S. Megabasic</b></font></center>
+<center>Number of entries found: 4</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>Pssst, wanna be an instant
+hacker? Then load a copy of
+<A href="http://www.users.globalnet.co.uk/~jimg/yr08/yr08_50.htm"><I>YS MegaBasic</I></A> right now (you
+do have a copy don't you?). <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	Once it's loaded, you're
+asked to Press 'm' to copy to a
+microdrive (aaargh, I feel an
+attack of BAD SECTORS
+coming on). Instead, quickly
+press the following sequence of
+keys: g,a,m,l. <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	Do it as quickly as possible
+as you've only got four seconds
+to press all four keys. For all
+your hard work you'll be
+greeted with a message usually
+hidden from yer average
+Speccy user. <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<B>Andy Taylor <BR>
+Sheffield</B>
+ <BR> <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<I>And of course, there's no
+chance of us letting on what the
+secret message is. You'll just
+have to take a butchers at your
+own copy of YS MegaBasic for
+that. <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	Now, what we'd really like to
+know is, what do the letters
+stand for? We can work out
+m.l, no problem, but who's
+g.a? C'mon Mike, name the
+mystery person - we think the
+world should be told!</I>
+ <i>(Andy Taylor in Your Spectrum issue 16)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Game bugs</i></b></font></td></tr>
+<TR><TD>It had to happen. As soon as
+you all got hold of your copies
+of <A href="http://www.users.globalnet.co.uk/~jimg/yr08/yr08_50.htm"><I>YS Megabasic</I></A>, you turned
+up bugs which I had
+unfortunately missed during
+the production of the
+program. All I can say is that
+it's such a big program it was
+inevitable that some things
+would slip through. <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	However, I have come up
+with a bit of code which will
+fix the few bugs that have
+come to light. Top of the flops
+is the MONitor bug. First of
+all, to get this code into
+MegaBasic, load up your
+master copy in the normal way
+and then type in the given
+listing to the MegaBasic
+system. Save the MegaBasic
+program you've just typed in,
+and then RUN it. If the
+Spectrum NEWs itself, then
+all has gone well; if you get an
+error report - check your
+typing! <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;	To save the new version of
+MegaBasic, type SAVE &quot;MB&quot;
+CODE 44996,20373; or if
+you prefer to save onto
+Microdrive, type SAVE
+&quot;M&quot;;1;&quot;MB&quot; CODE
+44996,20373. When you want
+to load it all back in again,
+type CLEAR 44999: LOAD &quot;&quot; CODE, or from Microdrive
+type CLEAR 44999: LOAD *&quot;M&quot;;1;&quot;MB&quot; CODE. Once
+loaded, Megabasic will
+automatically&nbsp;execute itself.
+That should stop anyone
+executing me! <BR><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<B>Mike Leaman, <BR>
+Torquay, Devon</B>
+ <i>(Mike Leaman in Your Spectrum issue 14)</i> 
+
+<br><hr>
+<PRE>1000 LET c=0
+1010 FOR a=47110 TO 47367
+1020 READ b: POKE a,b
+1030 LET c=c+b
+1040 NEXT a
+1050 IF c&lt;&gt;27311 THEN PRINT "checksum error": ST
+OP
+1055 POKE 53361,195: DOKE_53362,47352
+1060 RANDOMIZE USR 47110
+1070 DATA 62,229,50,80,222,62,255,50,115,206,1,19
+5,175,205,183,30,33,36,219,34,196,175,33,50,184,9
+4,35,86,35,123
+1080 DATA 178,202,183,17,1,3,0,237,176,24,240,195
+,6,184,37,219,195,67,184,125,219,195,90,184,78,21
+0,195,227,184,0,0,58,20,255,167,202
+1090 DATA 20,5,33,84,184,229,237,115,61,92,207,49
+,33,0,220,195,40,219,33,200,174,34,54,92,205,110,
+13,175,211,254,62,6,50,72,92,50,143
+1100 DATA 92,50,141,92,205,175,13,62,2,205,1,22,1
+7,173,184,175,205,10,12,58,8,92,254,46,40,3,195,1
+73,207,6,69,33,112,23,126,35,50,143
+1110 DATA 92,229,197,175,17,164,184,205,10,12,193
+,225,16,238,195,173,207,128,4,32,76,65,82,65,32,1
+32,128,22,0,0,4,89,83,32,77,69,71,65
+1120 DATA 66,65,83,73,67,13,13,3,86,101,114,115,1
+05,111,110,32,49,46,49,13,13,2,127,32,77,105,107,
+101,32,76,101,97,109,97,110,32,49,57
+1130 DATA 56,53,13,141,254,255,40,7,190,194,85,21
+0,195,81,210,58
+1140 DATA 52,233,167,202,179,181,193,175,201
+1150 DATA 237,91,218,251,19,19,19,19,19,19,19,19,
+19,195,117,208</PRE>
+ <i>(Mike Leaman in Your Spectrum issue 14)</i> 
+
+<br><hr>
+<FONT SIZE=1><B>This program kills all known Megabasic bugs dead!</B></FONT>
+ <i>(Mike Leaman in Your Spectrum issue 14)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

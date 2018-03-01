@@ -1,0 +1,118 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Into The Eagle's Nest</b></font></center>
+<center>Number of entries found: 5</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Cheat modes</i></b></font></td></tr>
+<TR><TD>When you select the LOAD DATA option (option 9) you are asked for a password,
+type 02303104. The following cheats can be accessed by getting a high score,
+then typing the password as your name (N.B. You have to type the spaces);<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;DAS CHT -&nbsp;Infinite hits<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;DAS NME - Get rid of nasties<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;DAS MAP - Map mode.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;In map mode, when the game starts you control the cursor.  Use the
+keys/joysticks to move it around to get a 'feel' of the map, Fire puts you
+up a level.  In the corner you will find a hex address, this is the memory
+location of where your cursor is situated (useful if you want to write a
+screen editor).  You also get a score of 100,000, useful for using the
+other cheats).<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;MAP OFF - Turns the map off.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;These passwords also return some interesting replies, although they don't
+actually aid your gameplay.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;CRASH,
+SIMON,
+VERSION,
+AAAAAAAA
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Ammo</td><td>36642,58</td></tr>
+<tr><td>Infinite Keys</td><td>40514,58</td></tr>
+<tr><td>No Injury</td><td>41138,58</td></tr>
+<TR><TD>No injury when explosives shot</TD><TD>39946,0</TD></TR>
+</table>
+<BR><BR><B>Note the "No Injury" POKE does not help if you shoot explosives!<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/SinclairUser/Issue74/Tape/">this issue of Poke City</a>.
+ <i>(Cover Tape in Sinclair User issue 74)</i> 
+
+<br><hr>
+This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/YourSinclair/Issue40/Tape/">this issue of Pokes</a> in the alphabetical section.
+ <i>(Cover Tape in Your Sinclair issue 40)</i> 
+
+<br><hr>
+<pre>
+10 CLEAR 57344: LOAD ""CODE
+20 POKE 58726,175
+30 FOR F=58727 TO 1e9: READ A
+40 IF A=999 THEN RUN USR 58368
+50 POKE F,A: NEXT F
+60 DATA 50,32,143: REM ammo
+70 DATA 50,64,158: REM keys
+80 DATA 50,176,160: REM hits
+90 DATA 201,999: REM end mark
+</pre>
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

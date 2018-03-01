@@ -1,0 +1,28 @@
+<title>Zoom-in</title>
+<body background="http://www.ysrnry.co.uk/yslight.gif" bgcolor="black" text="cyan">
+<center>
+From The Your Sinclair Rock'n'Roll Years:<p>
+<table border>
+<TR><TD>
+<IMG SRC="/gifs/cryscast.gif" HEIGHT=192 WIDTH=256><Br>
+</td></tr>
+</table>
+
+<p>
+<form action="/cgi-bin/zoompic.pl" method=get>
+<input type=hidden name=url value="/gifs/cryscast.gif">
+<input type=hidden name=orgsize value="256x192">
+Magnify by a factor of
+<select name=zoom>
+<option>0.25
+<option>0.5
+<option selected>1
+<option>2
+<option>3
+<option>4
+<option>5
+</select>
+<INPUT type=submit value="GO">
+<p></form>
+</center>
+

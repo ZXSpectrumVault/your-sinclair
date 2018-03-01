@@ -1,0 +1,12 @@
+User-agent: FreeFind
+Disallow: /ys3/
+
+User-agent: *
+Disallow: /mame
+Disallow: /gifs
+Disallow: /stats
+Disallow: /thumbs
+Disallow: /scratch
+Disallow: /m/
+
+

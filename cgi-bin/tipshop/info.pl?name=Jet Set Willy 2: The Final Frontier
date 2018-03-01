@@ -1,0 +1,111 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Jet Set Willy 2: The Final Frontier</b></font></center>
+<center>Number of entries found: 5</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD>The following line, when added to the mega-brill hacking
+program in <I>YS</I> [issue 18] will remove the
+infinite death syndrome at the touch of a button (0 to be
+precise!). This is extremely useful when you're playing the
+game with just the infinite lives POKEs. <BR>
+170 DATA 33,62,229,34,208,122,33,219,254,34,210,122,33,31,56,34,212,122,33,1,52,34,214,122  <BR>
+	If you should get stuck in the wall after using this you'll
+have to teleport out.
+ <i>(Michael West in Your Spectrum issue 21)</i> 
+
+<br><hr>
+<table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>31249,0</td></tr>
+<tr><td>Immunity</td><td>31224,201</td></tr>
+<tr><td>No Enemies</td><td>31653,201</td></tr>
+<tr><td>Walk on water</td><td>30436,205</td></tr>
+<tr><td>Need 1 object</td><td>34686,1</td></tr>
+<tr><td>Harmless nasties</td><td>32269,201</td></tr>
+<tr><td>Start room=x</td><td>30027,x</td><td>30027,x (x= 1-130)</td></tr>
+<tr><td>Max baddies per screen=x</td><td>31657,x (x=1-15)</td></tr>
+<tr><td>Fall any height</td><td>30579,255</td></tr>
+</table>
+<BR><BR><B>I don't think the "Need 1 Object" POKE works completely as when you&nbsp;go
+to the Central Cavern (From Manic Miner), all you do is jump!<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/SinclairUser/Issue128/Tape/">this issue of Hacks Amazing</a>.
+ <i>(Cover Tape in Sinclair User issue 128)</i> 
+
+<br><hr>
+<a href="http://www.users.globalnet.co.uk/~jimg/yr18/yr18_22.htm">http://www.users.globalnet.co.uk/~jimg/yr18/yr18_22.htm</a>&nbsp; <i>(Chris Wood, Zareh Johannes, David Smith in Your Spectrum issue 18)</i> 
+
+<br><hr>
+Here's a quick hack for infinite lives which also lets you choose the start room
+(contained in the variable ROOM) and the number of objects you need to complete
+the game (contained within the variable OBJ).<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<pre>
+ 10 CLEAR 64999
+ 20 LET OBJ=150
+ 30 LET ROOM=32
+ 40 FOR N=65000 TO 65047: READ A: POKE N,A: NEXT N
+ 50 PAPER 0: INK 0: BORDER 0: CLS
+ 60 RANDOMIZE USR 65000
+ 70 DATA 221,333,0,64,17,56,185,62,255,55,205,86,5,243,48,240
+ 80 DATA 33,6,254,17,197,100,1,59,0,237,176,195,0,95
+ 90 DATA 62,195,50,22,122
+100 DATA 62,0BJ,50,126,135
+110 DATA 62,ROOM,50,75,117
+120 DATA 195,0,112
+</pre>
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

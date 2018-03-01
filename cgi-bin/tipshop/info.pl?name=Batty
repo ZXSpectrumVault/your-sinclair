@@ -1,0 +1,122 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Batty</b></font></center>
+<center>Number of entries found: 3</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>48440,0</td></tr>
+<TR><TD>Lives=x</TD></TR>47633,X (x=1-255)</TD></TR>
+</table><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD>This can be found in <a href="ftp://ftp.void.jump.org/pub/sinclair/magazines/YourSinclair/Issue40/Tape/">this issue of Pokes</a> in the alphabetical section.
+ <i>(Cover Tape in Your Sinclair issue 40)</i> 
+
+<br><hr>
+A quick hack for infinite lives might aid your progress.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<pre>
+10 CLEAR 60000: LOAD ""CODE: POKE 65522,252
+20 FOR N=64512 TO 64517: READ A: NEXT N
+30 PRINT USR 64753
+40 DATA 50,56,189,195,0,104
+</pre><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;This second hack is for the more serious typists who want to control cheat modes
+from within the game! Once you've loaded the Batty program into this routine you
+can press any one of the keys below to get the feature you require. You don't
+have to press any of these keys, but then that makes typing the routine in a bit
+of a waste!<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Q Turns Infinite lives on<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;W Turns Infinite lives off<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;E Gives three more lives if you lose one<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<pre>
+ 10 CLEAR 6e4: LET t=0
+ 20 FOR f=64512 TO 64616
+ 30 READ a: POKE f,a
+ 40 LET t=t+(f- 64502)*a: NEXT f
+ 50 IF t<>766540 THEN STOP
+ 60 LOAD "" CODE
+ 70 POKE 65522,252
+ 80 RANDOMIZE USR 64753
+ 90 DATA 33,44,252,17,0
+100 DATA 91,1,200,0,237
+110 DATA 176,62,205,50,236
+120 DATA 161,50,167,151,33
+130 DATA 0,91,34,168,151
+140 DATA 33,0,0,34,170
+150 DATA 151,33,9,91,34
+160 DATA 237,161,175,50,239
+170 DATA 161,195,0,104,205
+180 DATA 17,91,219,254,17
+190 DATA 230,31,201,205,17
+200 DATA 91,219,31,230,31
+210 DATA.201,229,197,213,245
+220 DATA 205,142,2,123,254
+230 DATA 37,40,13,254,29
+240 DATA 40,12,254,21,40
+250 DATA 12,241,209,193,225
+260 DATA 201,175,24,11,62
+270 DATA 183,24,7,62,4
+280 DATA 50,232,183,24,237
+290 DATA 50,56,189,24,232
+</pre>
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+

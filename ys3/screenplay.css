@@ -1,0 +1,25 @@
+#normtxt  {
+	font-family : courier;
+	font-size : 10pt;
+	margin-bottom: 0cm;
+	font-weight: medium;
+}
+
+#chartxt  {
+	font-family : courier;
+	font-size : 10pt;
+	margin-left: 5.68cm;
+	margin-bottom: 0cm;
+	font-weight: medium;
+}
+
+#speechtxt  {
+	font-family : courier;
+	font-size : 10pt;
+	margin-left: 2.5cm;
+	margin-right: 2.5cm;
+	margin-bottom: 0cm;
+	font-weight: medium;
+}
+
+

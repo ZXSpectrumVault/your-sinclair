@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+			<title>Z80 Processor Overview</title>
+</head>
+<body bgcolor="#000000">
+
+<center>
+<table width="600" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+
+<table width="100%" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr>
+		<td>
+		<font face="verdana" size="2">
+<h1>LOAD</h1>
+There are five different addressing modes.
+
+<h2>1. Direct Addressing</h2>
+
+<font face="courier new">LD A, (0F1C)</font>
+<br><br>
+This loads the contents of 0F1C into the A-register. Note that, by convention, the movement is from right to left, so that we can write:
+<br><br>
+<font face="courier new">LD (0F1C), A</font>
+<br><br>
+and mean "copy the contents of the A-register into 0F1C".
+<br><br>
+The A-register is the only 8-bit register that can be directly addressed.
+
+<h2>2. Indirect Addressing</h2>
+
+<font face="courier new">LD A, (HL)</font>
+<br><br>
+This means "load the A-register <i>through</i> (ie from the address contained in) the HL register". To pass data in the opposite direction
+we could have:
+<br><br>
+<font face="courier new">LD (HL), A</font>
+<br><br>
+which puts the contents of A into the address <i>contained</i> in HL. (For this instruction, registers other than A are allowed.)
+
+<h2>3. Indexed addressing</h2>
+
+Here, we need to indicate which index register is in use, and the amount of the offset:
+<br><br>
+<font face="courier new">LD A, (IX+2E)</font>
+<br><br>
+Note that in direct addressing, I showed an address of 4 hex digits, because 16 bits (2 bytes) are allowed for the address. The offset value in an indexed address instruction must be held in 1 byte, however, so I've only shown two hex digits.
+
+<h2>4. Register-to-register</h2>
+
+We can transfer data between registers like this:
+<br><br>
+<font face="courier new">LD D, B</font>
+<br><br>
+which means "load the contents of B into D".
+
+
+<h2>5. Immediate</h2>
+
+Here, data itself, rather than the address of data, is placed in the address field. So we can write:
+<br><br>
+<font face="courier new">LD B, 07</font>
+<br><br>
+to mean "put the number 7 in B". Note again that the number is two hex digits, since it has to be stored in the single byte of the B-register. Note also that a "LD" is really a <i>copy</i>: the numbers are retained in their original addresses or registers, but a copy is placed at the destination.
+<br><br>
+		</font>
+		</td>
+</tr>
+</table>
+
+<center><font face="verdana"><a href="instructions.html">Back to Instructions Overview</a></font></center>
+
+</td></tr>
+</table>
+</center>
+
+</body>
+</html>

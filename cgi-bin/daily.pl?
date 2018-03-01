@@ -1,0 +1,382 @@
+<BASE HREF="http://www.ysrnry.co.uk/articles/">
+<title>Your daily YS fix! - OutRun Europa - Original Version/US Gold  (28/4/2015)</title>
+	<center><TABLE WIDTH=750 BGCOLOR="#000000" BACKGROUND=""><TR><TD COLSPAN=3><center><b><font size=+1 color="#ff0000">Your daily <i>Your Sinclair</i> fix!</font></b><IMG WIDTH=1 HEIGHT=1 SRC="/daily_bug.png"></center></TD></TR><TR><TD ALIGN="RIGHT" WIDTH=10%><b><font size=+2 color="#ffff00"><a href="http://www.ysrnry.co.uk/cgi-bin/daily.pl?d=27&m=4&y=2015">&lt;&lt;&lt;</a></b></font></TD><TD ALIGN="CENTER"><b><font size=+2 color="#ffff00">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tuesday 28th April 2015&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></TD><TD WIDTH=10%><b><font size=+2 color="#ffff00">&nbsp;</b></font></TD></TR></TABLE></center>
+<HEAD>
+<!-- TEMPLATE: previewtemplate.txt -->
+<META NAME="keywords" CONTENT="OutRun Europa - Original Version Duncan Macdonald your sinclair spectrum zx sam coupe snapshot snapshots game games review reviews joystick jugglers">
+<META NAME="description" CONTENT="OutRun Europa - Original Version review, by Duncan Macdonald from a Your Sinclair tribute site, with game reviews, and loads of other groovy stuff.">
+<title>OutRun Europa - Original Version</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="../yslight.gif">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=750>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR="#000000" COLSPAN=3>
+<center>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo5.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</TABLE>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587><TR><TD ALIGN="CENTER">
+                        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</TD></TR></TABLE>
+</center>
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+<TR><TD COLSPAN=5 BGCOLOR=black HEIGHT=5></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD COLSPAN=3 BGCOLOR="#E6E6E6" BACKGROUND="../ysgrey.gif" VALIGN="TOP">
+<style type="text/css">div { margin-left: 4px; margin-right: 4px; }</style>
+<TABLE ALIGN=RIGHT CELLSPACING=0 CELLPADDING=0 WIDTH=260>
+<TR><TD COLSPAN=2 HEIGHT=5 BGCOLOR=black></TD></TR>
+<TR><TD WIDTH=5 BGCOLOR=black></TD><TD BGCOLOR=BLACK>
+<center><TABLE CELLSPACING=0 CELLPADDING=0><TR><TD><TR><TD><a href="/cgi-bin/zoompic.pl?orgsize=256x192&url=/patchfiles/ingame/outruneuropaoriginal.gif"><IMG ALT="Screenshot" WIDTH=256 HEIGHT=192 BORDER=0 SRC="../patchfiles/ingame/outruneuropaoriginal.gif"></a></TD></TR>
+<TR><TD HEIGHT=5 BGCOLOR=black></TD></TR>
+<MAP NAME="pagetable">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue41/Pages/YourSinclair4100026.jpg" COORDS="1,1,128,179">
+<AREA SHAPE=RECT HREF="http://www.worldofspectrum.org/showmag.cgi?mag=YourSinclair/Issue41/Pages/YourSinclair4100027.jpg" COORDS="129,1,256,179">
+</MAP>
+
+
+<TR><TD><IMG ALT="YS Scan" WIDTH=256 HEIGHT=179 SRC="../wosfiles/page_thumbs/ys41_26.jpg" BORDER=0 USEMAP="#pagetable"></TD></TR>
+</TD></TR></TABLE></center>
+</TD></TR>
+<TR><TD COLSPAN=2 BGCOLOR=black><center><FONT SIZE=2 COLOR=yellow><b><i>Click images to enlarge</i></b></font></center></TD></TR>
+</TABLE>
+
+
+
+
+<TABLE WIDTH=480 CELLSPACING=0 CELLPADDING=0>
+<TR><TD BGCOLOR=black>
+
+
+<TABLE WIDTH=100% HEIGHT=100%>
+<TR><TD COLSPAN=2 ALIGN="CENTER" BGCOLOR="#FFFFFF"><FONT SIZE=6><b>
+OutRun Europa - Original Version
+</B></FONT></TD></TR>
+<TR><TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../bycompany/US_Gold.htm">US Gold</a>
+</b></TD>
+<TD ALIGN="CENTER" BGCOLOR="#FFFFFF"><b>
+<a href="../ys41.htm">May 1989 YS41</a>
+</b></TD></TR>
+<TR><TD COLSPAN=2 ALIGN="CENTER" BGCOLOR="#FFFFFF">
+	<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<!--	<TR><TD NOWRAP> -->
+	<TR><TD NOWRAP ALIGN=CENTER VALIGN=MIDDLE WIDTH=50%>
+	<FONT SIZE=5><B>PREVIEW</B></FONT>
+	</TD>
+	<TD BGCOLOR="#FFFFFF" ALIGN="CENTER" VALIGN="MIDDLE">
+	<table><tr><td align=center><a href="" target="wos"><IMG SRC="bigwos.gif" alt="Search WOS" BORDER=0></a></td></tr>
+	<tr><td align=center><a href="http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=" target="tip"><IMG SRC="tips.gif" ALT="Get tips for this game" BORDER=0></a></td></tr></table>
+	</TD></TR></TABLE>
+</TD></TR>
+
+</TABLE>
+</TD></TR>
+<TR><TD HEIGHT=2 BGCOLOR=black></TD></TR>
+</TABLE>
+
+<TABLE ALIGN=LEFT><TR><TD ALIGN=CENTER><TABLE CELLSPACING=1 CELLPADDING=0 BGCOLOR="#000000"><TR><TD WIDTH=60 ALIGN=CENTER><IMG SRC="../jugglers/duncanm.gif" ALT="  " BORDER=2></TD></TR></TABLE></TD></TR><TR><TD WIDTH=60 ALIGN=CENTER><FONT SIZE=2 COLOR="#000000"><b><i><a href="Duncan_Macdonald_index.htm">Duncan Macdonald</a></i></b></FONT></TD></TR></TABLE>
+<div><b><I><a href="outruneuropa.htm">OutRun Europa</a></I>  about to 
+rev its way onto Speccys 
+around the globe, so we 
+plonked <I>Duncan MacDonald</I> into a Reliant 
+Robin and sent him over 
+to Probe to have a quick 
+pre-release gander at it! </b>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;The conversion of the arcade classic 
+<I><a href="outrun.htm">OutRun</a></I> was a bit of a disappointment 
+for Spec-chums, as you probably know 
+-- the problem being that the 
+programmers actually tried too hard to 
+be faithful to the original coin-op. Four 
+hundred trillion sprites the size of 
+Mount Everest was a nice idea in 
+theory, but in practice even the 
+renowned processing speed of the 
+rubber beermat couldn't cope -- 
+leaving the gameplay wallowing in 
+sticky mud. The race crawled along at 
+the speed of Ayers Rock (that's not 
+particularly quickly) making the 32,000 
+multi-loads a tiresome chore rather 
+than a brief resting period between 
+levels. So what of <I><a href="outruneuropa.htm">OutRun Europa</a></I>, the 
+follow-up? Have the programmers 
+learnt their lesson? The answer is a 
+resounding 'yes indeedy' by cracko, so 
+read on to see how well they've done. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b>Drive On </b><br
+In <I><a href="outruneuropa.htm">OutRun Europa</a></I> you're at the wheel 
+of a convertible Ferrari Testrossa (like 
+you were in the original <I><a href="outrun.htm">OutRun</a></I>) and 
+you've still got the tasty 'chick' in the 
+passenger seat, praise the Lord. <I>(That's 
+nuff of that! Ed)</I> You've got a lot of 
+driving in front of you though, namely 
+from here in good old Blighty all the 
+way to West Germany, taking in the 
+'delights' of France, Italy and 
+Switzerland en route. Each of the five 
+countries is split into three different 
+stages; rural, suburban and urban, so 
+in essence we're talking 15 rip-roaring, 
+hard driving levels! Yahooo! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Hacking along England's country 
+lanes at hundreds of miles an hour, you 
+pass hedges, trees and telephone 
+boxes. Up hill, down dale, as the road 
+scrolls inexorably towards you - oh 
+dear, what's that up ahead? Looks a bit 
+like another 'motor', a Lotus if I'm not 
+mistaken -- a nifty bit of overtaking's 
+in order here, I'll be bound. Blimey, he's 
+moving over. Crikey, I can't get 
+through. Quick, over to the other side 
+of the road. Yikes -- a telephone box! 
+Blaaaarrgh! Curse British Telecom! In 
+fact, curse these country roads and all 
+Lotus drivers -- I'll be much happier 
+when I get to the city. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;An hour later. Yippee, there's the 
+Post Office Tower -- and there's a 
+London bus. Yahoo, there's a taxi-cab, 
+I'll carve him up. The infidel. Inhale my 
+exhaust fumes, cabbie. Ho ho ho. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;From the city it's back into the 
+country again, aiming for the English 
+Channel and, ultimately, the Continent 
+(after crossing the Channel 'Bridge' -- 
+which the programmers plumped for 
+instead of a tunnel in the interests of in-game speed). 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;France, aaaah. Ooh lala, the weather 
+over here's a bit naff (yes, there are 
+actually climatic changes in this game) 
+and the rain's coming down in buckets. 
+Oh look a couple of 2CV's. No mirror/indicate/manoeuvre malarkey in this 
+country -- just steam past with all the 
+stops pulled out, that's the only kind of 
+driving they understand. Yikes, slippy 
+road 'cos of the rain. I forgot. 
+Blammo!! My apologies, monsieur 
+'Johnny Onion'! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b>When In Rome... </b><br>
+Drive through Paris, head South East 
+(the weather improves in these parts) 
+and you hit Italy. Bang. Oh dear, the 
+drivers here are even more mental 
+than they are in France, and there are 
+some mean cars to go up against, like 
+other Ferraris and Lamborghinis. They 
+try and barge you off the road, and to 
+make matters worse the weather 
+closes in again. Still, go for broke, eh? 
+Wheeeel Yes, yes, yes! Yes, yes, yes!
+Bang! Drat!
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Having negotiated the torturous 
+twists and turns of the Italian 
+landscape, it's time to head north 
+through Switzerland where it's not only 
+snowing and very slippery, but for the 
+most part you're driving on mountain 
+roads with a sheer drop on one side. 
+Yikes. Anyway, should you make it 
+through unscathed you'll find yourself 
+on the final leg -- a high speed romp 
+on a German autobahn. You're 
+badgered by BMW's and Porsches, the 
+weather's got better again but now 
+you've got to get to Berlin, where the 
+race ends. Good luck chum, you're 
+going to need it! 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;The steering of the car has been 
+programmed beautifully. You can 
+oversteer, understeer and even pull 
+yourself out of a potential skid by 
+yanking the steering wheel (sorry, 
+joystick) from one side to the other. Oh, 
+and another nice touch is that after 
+you've finished a country a passport 
+pops up on screen and you get a 
+stamp in it (a passport stamp, not a 19p 
+postage stamp you clot). 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Yes, it has to be said, <I><a href="outruneuropa.htm">OutRun Europa</a></I> 
+looks like it's going to be the definitive 
+motor-car racing game. With brilliantly 
+detailed scrolling backdrops, beautiful 
+road-side graphics, changing weather 
+and cars that are 'intelligent' ('cos the 
+Speccy remembers where they are -- 
+even if they're behind you), the 
+successor to <I><a href="outrun.htm">OutRun</a></I> looks like it's 
+going to be everything (and more) that 
+<I><a href="outrun.htm">OutRun</a></I> should have been - that's, 
+erm, oh dear, I can't think of a good 
+enough superlative. Hang on, I'll just 
+have a look at the back of a Code 
+Masters cassette inlay. Ah yes, that'll 
+do. <I><a href="outruneuropa.htm">OutRun Europa</a></I> is going to be 
+amazingly brilliant. Boing. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br<center><b>A CLOTS GUIDE TO HOW AND WHY</b></center><p>
+<b>Why Is The Animation So Good 
+In OutRun Europa? </b><br>
+Animation with a pseudo 3-D 
+effect relies on things in the 
+distance being small and things 
+close up being big. These are two 
+'frames' of animation -- near and 
+far. Here's an <I><a href="outruneuropa.htm">OutRun Europa</a></I> 
+Beetle in the distance. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><I>[Or not, as the case may be. Imagine a very tiny car sprite - NickH]</I><br>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;If you put your foot down to catch 
+the rogue VW up you wouldn't 
+expect it to suddenly look like 
+this, would you. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><I>[And image a very big car sprite here - NickH]</I><br>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Unless of course you closed your 
+eyes for a couple of seconds, but 
+that's not the kind of driving 
+that's likely to get you through a 
+driving test, is it now? In fact 
+closing your eyes while driving at 
+speed is downright dangerous. 
+DON'T DO IT. Anyway, with open 
+eyes you'd expect the beetle to 
+get gradually bigger. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;Much more lifelike, n'est ce pas? 
+The same thing applies to bus 
+stops, telephone boxes and, well, 
+everything really. 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;All the objects in the game have 
+twelve frames of animation, 
+which is why everything scrolls 
+smoothly towards youl 
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><b>If There's So Much In The 
+Game How Come It's Not 
+Slow Like <I><a href="outrun.htm">OutRun</a></I>? </b><br>
+Because programmers Probe 
+learnt from the mistakes made on 
+<I><a href="outrun.htm">OutRun</a></I>. Also, because this is an 
+original game (not a conversion) 
+Probe were able to do pretty 
+much what was needed to make 
+the game really playable, rather 
+than just attempt to mimic a coin-op which couldn't be mimicked. 
+One 'time-saving' move was to 
+drop the fork in the road at the 
+end of levels -- this apparently 
+used up loads and loads (and 
+loads) of memory space and 
+added nothing much to the 
+enjoyment of the game. <I><a href="outrun.htm">OutRun</a></I> 
+updated its screens at something 
+like four frames per second, while 
+<I>Europa</I> manages ten (more than 
+twice as fast) -- even with sprites 
+as big as the bus to deal with.
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><I>[NB - This version of OutRun Europa was scrapped when US Gold acquired the rights to the official coin-op sequel, Turbo OutRun. OutRun Europa did eventually get released, albeit in a completely different form - NickH]</I>
+
+<br><br>
+<p>
+
+
+
+
+</TD><TD WIDTH=5 BGCOLOR=black></TD></TR>
+</TABLE>
+
+<TABLE CELLSPACING=5 BGCOLOR="#000000" WIDTH=750>
+<TR><TD BGCOLOR="#FFFFFF" ALIGN="center"><B><I>Duncan Macdonald has kindly authorised this site<br>
+</i></b></td></tr>
+
+
+<TR><TD BGCOLOR="red" ALIGN="center"><font color="white"><B>LOOKING FOR EX-YS WRITERS! <a href="../seeking.htm">Do you know where any are?</a></b></font></td></tr>
+
+<TR><TD BGCOLOR="#FF0000"><FONT SIZE=1 COLOR="#000000"><B>READERS NOTE: </b>The original YS articles on this site were written many many years ago, and should provide <i><b>no indication WHATSOEVER</b></i> of the author's present writing style. Judge these people on their current work, not articles they wrote decades ago.</font></TD></TR>
+
+<TR><TD BGCOLOR="#FFFFFF"><FONT SIZE=1 COLOR="#000000"><b><i>All original YS text is still copyright to their original owners, including BOTH publishers and authors. Permission has been granted to reproduce these articles by a few of these owners - if you see your work on here and would like it to be taken down, <a href="../email.htm">e-mail me</a> and I'll do it straightaway. All other pages have similar restrictions - email me for more details.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;None of the pages on this website may be reproduced in any way, nor sold to the general public (i.e. put onto a CD-ROM) without the consent of Nick Humphries and the author of each article. If you want to include any of these articles on a site or a CD, <a href="../email.htm">contact me</a> for more instructions.</i></b></font></TD></TR>
+
+</TABLE>
+
+<img ALT="Date" src="/onepx.png"> <img ALT="Time" src="/onepx.png"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?encodeURIComponent(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="/onepx.png">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="/onepx.png">
+</NOSCRIPT>
+
+
+</CENTER>
+
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+p.name+"|"; }
+document.write("");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+
+</NOSCRIPT>

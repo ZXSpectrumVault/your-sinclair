@@ -1,0 +1,134 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 6</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=5&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;5</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=7&show_all=1"><font size=2>DEC&nbsp;7&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_6.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_6.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>IRONMAN</i></b></font><br><font size=3 color="red"><b><i>19 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+What's Christmas without a bit of Humbug? Christmas 1990 didn't mark
+the end of the golden era - the era ended well before then!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The hype cycle had lost its sparkle and had become disappointingly
+cynical. Amongst the big names for that year were <i>Teenage Mutant Hero
+Turtles</i> and <i>Gazza</i> - two high-profile franchises, the latter of which
+made little sense to me. <i>Gazza</i> was even riding high in the charts with
+<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/qgDKtLPp46s&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qgDKtLPp46s&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Only You / Flying Pickets</u></b></font></center><font size=-1 color="#ffffff">Beautiful - a Christmas song which brings a tear to your eye, and was a nice distraction from the miners strikes of the time. <b><i>(3:17)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=qgDKtLPp46s" target="qgDKtLPp46s">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+
+songs such as "Fog On The Tyne", and even had an album out for
+Christmas. It even sold well. Sequels became inevitable, and <i>Robocop 2</i>
+and <i>Chase HQ 2</i> arrived, made a brief splash, and then were more or
+less instantly forgotten.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/SzzxZRXJPQg&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/SzzxZRXJPQg&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Christmas 1983 Adverts</u></b></font></center><font size=-1 color="#ffffff">I love the adverts in the run-up to Christmas, so here's a few from 1983. See if you can spot a young Mel Smith and Hugh Laurie... <b><i>(8:28)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=SzzxZRXJPQg" target="SzzxZRXJPQg">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+By this time I had already switched my Spectrum 48k+ for one of the
+doomed SAM Coupes. My SAM seemed to have some sort of spiritual link
+with it's manufacturer - when MGT went under, so did my SAM. Then
+SAMCo took over, my SAM got repaired, only to fail again when SAMCo
+did. The long and the short of it was that I was restricted to 48K
+games, SAM PD stuff, and the rather basic SAM <i>Defenders Of The Earth</i>.
+Which was rather unfortunate as the Spectrum full price market was
+switching over to 128K-only titles, so the prospect of an Ocean-free
+Christmas wasn't exactly thrilling me at that time.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;However, one game stood out for me purely because of the YS MegaPreview: <i>Ivan "Ironman" Stewart's Super Off-Road Racer</i>, and not
+just because it has one of the longest names for a Spectrum game ever.
+Sure, a <i>SuperSprint</i> clone is a <i>SuperSprint</i> clone, but this had very
+<TABLE ALIGN="right" WIDTH=200 CELLPADDING=5><TR>
+<TD><a href="pngs/d6_ironmanyspreview.png" target="ironmanyspreview.png"><IMG SRC="pngs/d6_ironmanyspreview_small.jpg" WIDTH=200 HEIGHT=222></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>Who says computer games weren't educational?</i></b></font></TD></TR>
+</TABLE>
+sharp colourful graphics, tough courses, and lots of pseudo-3D bumps
+and ramps together with a smart physics engine that made the game a
+lot more fun to play. And it came out on 48K!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The playable demo for it didn't help its cause: it didn't work for me!
+I'd get the front menu, and that's as far as it would go. Turns out that the demo would only work on one particular version of the Spectrum +2. But it
+didn't matter - the moment the great reviews came out for it was the
+moment I bought it and I never looked back.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The game's a damn fine one, but eventually I discovered it had a
+single flaw to do with lastability. Since I played the game to death,
+I became very very good at it. Suddenly I was playing through all the
+courses, forwards, backwards, with tougher opponents, and I'd soup up
+my truck to the max before the game turned into one giant endurance
+test.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;It turned out that the only way to end a game was to turn the machine
+off! But boy was the game challenging whilst you were getting to grips
+with it - if only it had a few more difficulty levels and it would
+have become an all-time classic. As it is, it's merely the best
+top-down driving game available for the Spectrum.
+<TABLE ALIGN="center"><TR><TD VALIGN="top"><TABLE CELLPADDING=10 ALIGN=""><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/DVnPvno6V9g&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/DVnPvno6V9g&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Christmas 1985 Adverts</u></b></font></center><font size=-1 color="#ffffff">Featuring a long Woolworths advert with lots of vinyl albums - strange to see again! <b><i>(2:35)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=DVnPvno6V9g" target="DVnPvno6V9g">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</TD><TD>&nbsp;&nbsp;</TD><TD VALIGN="top"><TABLE  WIDTH=177 CELLPADDING=5><TR>
+<TD><a href="pngs/d6_ironmanysposter.jpg" target="ironmanysposter.jpg"><IMG SRC="pngs/d6_ironmanysposter_small.jpg" WIDTH=177 HEIGHT=250></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>YS went a bundle over <i>Ironman</i>, with a demo, poster, MegaPreview and eventual Megagame rating.</i></b></font></TD></TR>
+</TABLE></TD><TD>&nbsp;&nbsp;</TD><TD VALIGN="top"><TABLE CELLPADDING=10 ALIGN=""><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/8BkZbuJFMeo&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/8BkZbuJFMeo&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>YS Ironman Demo</u></b></font></center><font size=-1 color="#ffffff">Only playable on <i>one</i> of the many Spectrum models, so here's what you missed! <b><i>(2:30)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=8BkZbuJFMeo" target="8BkZbuJFMeo">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</TD></TR></TABLE>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+			<title>Z80 Processor Overview</title>
+</head>
+<body bgcolor="#000000">
+
+<center>
+<table width="600" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+
+<table width="100%" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr>
+		<td align="center" colspan="2"><img src="logo/z80knight.jpg" alt="The Z80 Knights"><br><hr width="40%"></td>
+</tr>
+<tr>
+		<td valign="top">
+				<img src="img/overview.gif" alt="">
+		</td>
+</tr>
+</table>
+
+<table width="100%" bgcolor="#fefefe" cellspacing="0" cellpadding="0" border="0">
+<tr>
+		<td>
+		<font face="verdana" size="2">
+For now we'll ignore the alternate register set - you can get by perfectly well without ever touching them. (The Gameboy's Z80-based processor doesn't have them, and GB programmers do okay.)
+<br><br>
+The registers appear in pairs, indicating that they may be used either as 8-bit or 16-bit registers. For instance, we can refer to the B-register (8 bits), or the C-register (8 bits) or the BC register (16 bits). The B, C, D, E, H and L registers can all be used in this way (in pairs BC, DE, and HL <i>only</i>) but the A and F registers are strictly 8-bit registers and cannot be combined.
+<br><br>
+There are two index registers, the IX and IY, a stack pointer (SP) and program counter (PC). Again, these are not registers we shall dwell on too much. It's the main general-purpose set that we shall be dealing with, since they are the fastest and most useful.
+<br><br>
+		</font>
+		</td>
+</tr>
+</table>
+
+<center><font face="verdana"><a href="z80.html">Back to Main Page</a></font></center>
+
+</td></tr>
+</table>
+</center>
+
+</body>
+</html>

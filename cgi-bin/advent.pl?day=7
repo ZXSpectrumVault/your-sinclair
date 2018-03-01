@@ -1,0 +1,156 @@
+<HEAD>
+<BASE href="http://www.ysrnry.co.uk/advent_files/index.html">
+<TITLE>Advent Calendar - Day 7</TITLE>
+</HEAD>
+<BODY BGCOLOR="#000000" BACKGROUND="/ysback.gif" TEXT="#80FFFF" LINK="#80FF00" VLINK="#FF0000">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37805289-1']);
+  _gaq.push(['_setDomainName', 'ysrnry.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=0 WIDTH=800>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3></TD></TR>
+<tr BACKGROUND="" BGCOLOR="#000000"><td align="center" COLSPAN=3>
+<TABLE BGCOLOR="#000000" BACKGROUND="" WIDTH=587>
+        <TR><TD ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="YSRnRY" BORDER=0 WIDTH="579" HEIGHT="64" SRC="http://www.ysrnry.co.uk/logo1.jpg"></a></TD></TR>
+        <TR><TD NOWRAP ALIGN="CENTER"><a href="/cover1.htm"><IMG ALT="[WEBSITE]" BORDER=0 SRC="/read_website.png" WIDTH="96" HEIGHT="30"></a><a href="/forums/"><IMG ALT="[FORUMS]" BORDER=0 SRC="/read_forum.png" WIDTH="96" HEIGHT="30"></a><a href="http://www.facebook.com/YourSinclairRRY"><IMG ALT="[FACEBOOK]" BORDER=0 SRC="/like_facebook.png" WIDTH="96" HEIGHT="30"><a href="http://twitter.com/#!/YourSinclairRRY"><IMG ALT="[TWITTER]" BORDER=0 SRC="/follow_twitter.png" WIDTH="96" HEIGHT="30"></a><a href="/tvprog/downloads.htm"><IMG ALT="[YOUTUBE]" BORDER=0 SRC="/watch_youtube.png" WIDTH="96" HEIGHT="30"></a><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="/share_this.png" alt="Bookmark and Share" style="border: 0pt none ;" height="30" width="96"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script><br></TD></TR>
+</td></tr>
+<TR HEIGHT=5 BACKGROUND="" BGCOLOR="#000000"><TD colspan=3></TD></TR>
+<tr><td bgcolor="black" colspan=3>
+<IMG SRC="/spec.gif" Alt="*" ALIGN="RIGHT">
+<FONT COLOR="white" SIZE=6>&nbsp;
+<b><i>Advent Calendar</i></b>
+</font>
+</td></tr>
+<tr><td colspan=3 bgcolor="black"><center>
+        <a href="/cover1.htm"><IMG ALT="[FRONT]" BORDER=0 SRC="/frontpage_button.png" WIDTH="96" HEIGHT="15"></a><a href="/tvprog/"><IMG ALT="[DOCUMENTARY]" BORDER=0 SRC="/documentary_button.png" WIDTH="96" HEIGHT="15"></a><a href="/articles/"><IMG ALT="[INDEX]" BORDER=0 SRC="/index_button.png" WIDTH="96" HEIGHT="15"></a><a href="/search.htm"><IMG ALT="[SEARCH]" BORDER=0 SRC="/search_button.png" WIDTH="96" HEIGHT="15"></a><a href="/email.htm"><IMG ALT="[EMAIL]" BORDER=0 SRC="/email_button.png" WIDTH="96" HEIGHT="15"></a><a href="/cgi-bin/daily.pl"><IMG ALT="[DAILY FIX]" BORDER=0 SRC="/dailyfix_button.png" WIDTH="96" HEIGHT="15"></a><p>
+</center>
+</td></tr>
+</TABLE>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3><TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD WIDTH=200 ALIGN="LEFT">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/cgi-bin/advent.pl?day=6&show_all=1"><font size=2>&lt;&lt;&lt;&nbsp;DEC&nbsp;6</font></a></TD><TD WIDTH=200 ALIGN="CENTER"><a href="/cgi-bin/advent.pl"><font size=2>HOME</font></a></TD><TD ALIGN="CENTER"><a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4b157e7f1b908808"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b157e7f1b908808"></script></TD><TD WIDTH=200 ALIGN="RIGHT"><a href="/cgi-bin/advent.pl?day=8&show_all=1"><font size=2>DEC&nbsp;8&nbsp;&gt;&gt;&gt;</font></a>&nbsp;&nbsp;&nbsp;&nbsp;</TD></TR></TABLE></TD></TR>
+<TR HEIGHT=5><TD COLSPAN=3 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD>
+<TD BACKGROUND="/black6.png">
+<TABLE CELLPADDING=5><TR><TD>
+	<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0><TR><TD>
+<IMG ALIGN=RIGHT WIDTH=130 HEIGHT=130 SRC="chocs/choc_day_7.png" ALT="chocolate"><IMG ALIGN=LEFT WIDTH=200 HEIGHT=190 SRC="globes/advent_globe_7.png" ALT="snowglobe"><table cellpadding=10 align="center" background="/black4.png" width=430><TR><TD><center><font size=6 color="#ffff00"><b><i>SINCLAIR USER</i></b></font><br><font size=3 color="red"><b><i>18 days to Christmas</i></b></font></center></TD></TR></TABLE><p>
+Christmas with Sinclair User was always a bit of a non-event. If
+you're lucky, the cover might mention that the festive season was upon
+us, but other than that, you'd find maybe one or two
+Christmas-related... "things"... within the pages of the magazine. I'd
+call them "features" but that's really talking them up too much.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;For a magazine which started in 1982 aiming to be the unofficial user
+group for the Sinclair range of machines, it's surprising that you'd
+have to skip to the 1988 Christmas issue before they went further than
+the annual Festive Quiz, and that's skipping over the previous year's
+special which was adorned with traditional seasonal images of Kamikaze
+Bear going about his business in Santa costume or in the snow whilst
+blasting all and sundry. Such heart-warming images of the holiday
+time can only bring a subtle tear to one's eye.
+<TABLE ALIGN="center" WIDTH=456 CELLPADDING=5><TR>
+<TD><a href="pngs/d7_1983_1-5.png" target="1983_1-5.png"><IMG SRC="pngs/d7_1983_1-5_small.jpg" WIDTH=106 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d7_1985_cov3.png" target="1985_cov3.png"><IMG SRC="pngs/d7_1985_cov3_small.jpg" WIDTH=106 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d7_1986_cov3.png" target="1986_cov3.png"><IMG SRC="pngs/d7_1986_cov3_small.jpg" WIDTH=107 HEIGHT=150></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d7_1987_cov3.png" target="1987_cov3.png"><IMG SRC="pngs/d7_1987_cov3_small.jpg" WIDTH=107 HEIGHT=150></a></TD></TR>
+<TR><TD COLSPAN=7 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>As you can see, after the initial "unofficial user group" phase SU didn't really go for the tinsel on their covers, just the games - although the image of Kamikaze Bear on jet-powered skis shooting all and sundry is vaguely festive. Vaguely.</i></b></font></TD></TR>
+</TABLE>
+<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/KMzVTeLZIxA&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KMzVTeLZIxA&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Moonwalker Trailer</u></b></font></center><font size=-1 color="#ffffff">A Michael Jackson movie which was <i>very</i> Michael Jackson... <b><i>(1:34)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=KMzVTeLZIxA" target="KMzVTeLZIxA">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+Even once 1988 came and went, they still didn't really push the boat
+out, instead choosing to have a couple of pages of space-filler or the
+odd cartoon, the last of which featured one of the staffers drawn in
+stockings and suspenders tempting some "bad dudes" out to ravish her -
+this was the Christmas 1990 issue, by which time the average reader
+age was dropping down to ten or twelve and beyond.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="right" WIDTH=310 CELLPADDING=5><TR>
+<TD><a href="pngs/d7_1987_cov3.png" target="1987_cov3.png"><IMG SRC="pngs/d7_1987_cov3_small.jpg" WIDTH=150 HEIGHT=209></a></TD><TD>&nbsp;&nbsp;</TD><TD><a href="pngs/d7_sucrew.jpg" target="sucrew.jpg"><IMG SRC="pngs/d7_sucrew_small.jpg" WIDTH=150 HEIGHT=206></a></TD></TR>
+<TR><TD COLSPAN=3 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>That's about as festive as you can expect with SU - snow, guns, Santa, and lingerie...</i></b></font></TD></TR>
+</TABLE>But Sinclair User had one saving grace - it was sensationalist, it was
+trashy, and it hyped the flip out of the forthcoming Christmas
+biggies. Tinsel, tradition and decorations wasn't really their style,
+so in the three or four issues running up to Christmas huge
+double-page spreads of preview features of the Number One contenders
+where dotted around their magazines. Sometimes their preview features
+would somehow turn into full reviews (hem, hem) when they'd get a tad
+overenthusiastic about a title - a subtle clue to that would be if the
+review screenshots matched the preview screenshots which appeared in
+an earlier SU or its sister magazine Computer & Video Games. I
+remember being rather suspicious about the <i>Afterburner</i> review not
+having new screenshots and gaining a 90% rating. Hmmmmmm...
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<TABLE ALIGN="left" WIDTH=300 CELLPADDING=5><TR>
+<TD><a href="pngs/d7_1990_rev4.png" target="1990_rev4.png"><IMG SRC="pngs/d7_1990_rev4_small.jpg" WIDTH=300 HEIGHT=209></a></TD></TR>
+<TR><TD COLSPAN=1 ALIGN="CENTER"><font size=-1 color="yellow"><b><i>SU knew how to do their double-page features - but look how little actual text there is in this review!</i></b></font></TD></TR>
+</TABLE><TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/VrQ7hkCAplo&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VrQ7hkCAplo&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>BBC2 Xmas 1984 Promo</u></b></font></center><font size=-1 color="#ffffff">A taste of what BBC2 telly was like during Christmas, followed by BBC2 closing down for the night in a rather festive way. <b><i>(2:41)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=VrQ7hkCAplo" target="VrQ7hkCAplo">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+The cover tapes also helped the hypefest, with big-name demos
+appearing such as <i>Chase HQ</i>, <i>Operation Wolf</i>, <i>The Untouchables</i>, and even
+some other games which weren't by Ocean. Of course, most cover tapes
+were dross, not only SU's but on Your Sinclair and Crash as well, but
+the odd decent playable demo really helped pump up the hype, making
+some demo bugs like the <i>Chase HQ</i> demo crashing should you change the
+game controls utterly unbearable until you figure out the workaround.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;But Sinclair User as a Christmas event? Forget it!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<p></TD></TR><TR><TD><IMG SRC="chocs/voxpop.png" ALIGN="LEFT"><br><IMG SRC="pngs/arnt.jpg" ALIGN="RIGHT"><TABLE BACKGROUND="/black7.png"><TR><TD><FONT SIZE=5 COLOR="#ffff00"><B><I>&nbsp;&nbsp;&nbsp;&nbsp;ARNT GULBRANDSEN&nbsp;&nbsp;&nbsp;&nbsp;</I></B></FONT></TD></TR></TABLE><br>
+<b>Arnt is probably one of the most important people in the Speccy retroscene who you've probably never heard of. Not only did he write JPP (one of the very first Spectrum emulators), but he also created the comp.sys.sinclair newsgroup in 1993 to succeed the closing-down SincNews email mailing list. Also! He created the NVG FTP archive which at one time was <i>the</i> major Speccy archive. Without him, the Speccy retroscene would probably look rather different.</b><br><br><b><i><font color="#ff3030">Who are you and what are you up to?</font></i></b><br>
+Arnt, and I tell computers what to do and they do it. I've written much fine code in my time, mostly in the vicinity of linux, open source, blah. Four dotcoms behind me, one successful, two earned me a bit of money one lost me some. I feel a fifth coming on, despite having ruled that definitely out in the past.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Now that I'm old I have grown lazy and no longer hack until midnight.. So I go dancing. I do a fine Viennese Waltz. (Cue Loona's Hijo de la Luna.)
+<br><b><i><font color="#ff3030">Favourite cracker gift (aside from fortune-telling fish, naturally)?<TABLE CELLPADDING=10 ALIGN="left"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/y_sOX-xg_-Q&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/y_sOX-xg_-Q&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>Coca Cola Christmas Advert</u></b></font></center><font size=-1 color="#ffffff">It's sad, but we don't get to see the string of Coca Cola trucks every Christmas, and it's one of those things which I get a real thrill out of. So, here's an old one to ensure that your Christmas is never truckless. <b><i>(1:00)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=y_sOX-xg_-Q" target="y_sOX-xg_-Q">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</font></i></b><br>
+No idea what a cracker gift even is.
+<br><b><i><font color="#ff3030">Favourite Christmas Song?</font></i></b><br>
+Oh god, no! If any, then the traditional Christmas song whose lyrics were slightly adapted to be about a local shopkeeper. The adaption was never condoned by adults, but those "noes" never sounded heartfelt.
+<br><b><i><font color="#ff3030">Best memory of Christmases gone by?</font></i></b><br>
+Oooohh.... let's just say one day it snowed too heavily. My brother and I had to deal with the snow, which I did in a conscientous fashion and he did by playing in the huge pile I laboriously accumulated. Eventually I finished and went in, and a short while later my brother came too, dripping wet, somehow stomping and running at the same time. In! Into the bathroom! Shower to the right temperature! Shout "hot tea ready?"! Fetch new dry clothes while the shower the right temperature! (While he did that, I tiptoed in and set the controls to ice cold.) Back to bathroom! Run into shower to warm up! AAAARRRRRRRRRRRRRRRRRRRRRRRRRRRGH!
+<br><b><i><font color="#ff3030">Best Speccy Christmas memory?</font></i></b><br>
+Christmas, that's the time when you can sit with the computer for two weeks almost without interruption, right?
+<br><b><i><font color="#ff3030">Favourite Quality Street chocolate?<TABLE CELLPADDING=10 ALIGN="right"><TR><TD><TABLE WIDTH=222 ALIGN="CENTER" VALIGN="MIDDLE" BGCOLOR="#000000" BACKGROUND=""><TR><TD><center><object width="212" height="172"><param name="movie" value="http://www.youtube.com/v/2XCdXWdtO5E&hl=en_GB&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/2XCdXWdtO5E&hl=en_GB&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="212" height="172"></embed></object><br>
+<FONT size=-1 COLOR="#FFFF00"><b><u>ITV Southern Xmas 1981 Line Up</u></b></font></center><font size=-1 color="#ffffff">ITV always had a more commercial line-up, and this lot from 1981 is a good taster. <b><i>(1:08)</i></b></font><center><font size=-2 color="#ffffff"><i>Watch full-sized <a href="http://www.youtube.com/watch?v=2XCdXWdtO5E" target="2XCdXWdtO5E">at YouTube</a></font></center></TD></TR></TABLE><br></TD></TR></TABLE>
+</font></i></b><br>
+I did once get a very fine present in a Quality Street box. (In my family, presents must be wrapped very well, lest the recipient guess their contents. Padding, a dummy weight and a tin box is good.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;But I've never tasted any chocolate bearing that label. Until now I did not know anything about the brand.
+<br><b><i><font color="#ff3030">Best present ever?</font></i></b><br>
+I was awed by Knuth vol 2...
+<br><b><i><font color="#ff3030">Speccy game you most looked forward to?</font></i></b><br>
+No question. <i>JSW</i>.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;ost enjoyed, perhaps <i>Manic Miner</i> or <i>TLL</i> or that 3D motorcycle game in the woods, that was primitive but violently great, or the wonderful game where you guide a spinning thingy around the world. Not the arcade game that was well known, but instead the knock-off that was so much better. Or <i>Dark Star</i>, or <i>Forbidden Planet</i>.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;But, actually, to be brutally honest, the game I most enjoyed was the one called "Arnt vs. Copy Protection". Later, with proper source code storage facilities, "Arnt vs. the Blank Sheet", "Arnt vs. the Devious Bug" and "Arnt vs. Limited Number of Lives".
+</TD></TR>
+</TABLE><p>
+</TD></TR></TABLE>
+</TD><TD WIDTH=5 BACKGROUND="" BGCOLOR="#000000"></TD></TR>
+<TR BACKGROUND="" BGCOLOR="#000000"><TD COLSPAN=3 align="center">
+<img ALT="Date" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> 
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-");
+document.writeln('<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=' + qs + '">');
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<img  ALT="Counter" src="http://www.the-tipshop.co.uk/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=counter&ref=nojavascript">
+</NOSCRIPT>
+</TABLE>
+<p>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+if(document.referrer) qs=escape(document.referrer)+","; else qs="-,";
+qs=qs+screen.width+"x"+screen.height+","+screen.colorDepth+",";
+if(navigator.javaEnabled()) qs=qs+"1,"; else qs=qs+"0,";
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs=qs+"|"+escape(p.name)+"|"; }
+document.write("<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"" BORDER=0>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" BORDER=0>
+</NOSCRIPT>
+</body>

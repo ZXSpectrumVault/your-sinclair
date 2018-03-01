@@ -1,0 +1,163 @@
+<HEAD>
+<LINK REV=made href="mailto:tipshop@ysrnry.co.uk">
+<META NAME="keywords" CONTENT="spectrum sam games tips solutions cheats pokes maps">
+<META NAME="description" CONTENT="A central archive for hints, tips, cheats, pokes and maps for Spectrum and SAM games.">
+<title>The Tipshop</title>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" BACKGROUND="http://www.ysrnry.co.uk/tipshop/background.jpg" TEXT="#000000" LINK="#0000FF" VLINK="#FF0000">
+
+<center>
+<TABLE CELLSPACING=0 CELLPADDING=2>
+<tr><td BGCOLOR="black" colspan=3>
+	<IMG SRC="http://www.ysrnry.co.uk/tipshop/banner.jpg" ALT="The Tipshop"><br>
+</td></tr>
+<tr><td><center>A central archive for all Spectrum and SAM games hints, tips, cheats, maps, hacks and pokes.</center></td></tr>
+</table>
+</center>
+<p>
+<center><a href="http://www.ysrnry.co.uk/tipshop/">HOME</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="getlist.pl">0123</a> <a href="getlist.pl?letter=a">A</a> <a href="getlist.pl?letter=b">B</a> <a href="getlist.pl?letter=c">C</a> <a href="getlist.pl?letter=d">D</a> <a href="getlist.pl?letter=e">E</a> <a href="getlist.pl?letter=f">F</a> <a href="getlist.pl?letter=g">G</a> <a href="getlist.pl?letter=h">H</a> <a href="getlist.pl?letter=i">I</a> <a href="getlist.pl?letter=j">J</a> <a href="getlist.pl?letter=k">K</a> <a href="getlist.pl?letter=l">L</a> <a href="getlist.pl?letter=m">M</a> <a href="getlist.pl?letter=n">N</a> <a href="getlist.pl?letter=o">O</a> <a href="getlist.pl?letter=p">P</a> <a href="getlist.pl?letter=q">Q</a> <a href="getlist.pl?letter=r">R</a> <a href="getlist.pl?letter=s">S</a> <a href="getlist.pl?letter=t">T</a> <a href="getlist.pl?letter=u">U</a> <a href="getlist.pl?letter=v">V</a> <a href="getlist.pl?letter=w">W</a> <a href="getlist.pl?letter=x">X</a> <a href="getlist.pl?letter=y">Y</a> <a href="getlist.pl?letter=z">Z</a> <P>
+<form action="http://www.ysrnry.co.uk/cgi-bin/tipshop.pl" method=post><b>Search: </b><input type=text size=30 name=name><input type=submit value="GO"></form>
+</center><p>
+<center><font size=7><b>Way Of The Exploding Fist 2, The</b></font></center>
+<center>Number of entries found: 5</center><p>
+<center>
+<table width=600>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Tips</i></b></font></td></tr>
+<TR><TD>And now for some fighting tips:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;NINJA:  The safest move is a sweep or a floor punch.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;PANTHERS:  There are only two moves which can kill them, and they're a
+mid-kick or a floor punch.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;PEASANT SOLDIERS:  The best move on these is the flying kick.  Try to do
+about three at a time.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Here is a table of the most powerful kicks and punches:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;01 - Flying kick<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;02 - Roundhouse<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;03 - Back kick<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;04 - High kick<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;05 - Mid kick<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;06 - Sweep<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;07 - High punch<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;08 - Floor punch<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;09 -weep<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;10 - Low kick<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;11 - Low punch
+ <i>(Nigel Ison in Your Sinclair issue 18)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Multiface pokes</i></b></font></td></tr>
+<TR><TD><table border="0">
+<tr>
+<td WIDTH="200" ALIGN="LEFT"><B><U>DESCRIPTION</B></U></TD>
+<td WIDTH="200" ALIGN="LEFT"><B><U>POKE(s)</B></U></TD>
+</TR>
+<tr><td>Infinite Lives</td><td>27061,0</td></tr>
+<tr><td>Lives = x</td><td>27233,x (x= 1-255)</td></tr>
+</table>
+<BR><BR><B>Change x to whatever value you wish, using the POKE option on the ZXAM GUI</B><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <i>(Gerard Sweeney in Hack Attack III)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Type-in hacks</i></b></font></td></tr>
+<TR><TD><pre>
+ 10 CLEAR 65535: LET t=0
+ 20 FOR f=3e4 TO 30036: READ a
+ 30 POKE f,a: LET t=t+(f- 29990)*a
+ 40 NEXT f: READ a
+ 50 IF t<>a THEN STOP
+ 60 RANDOMIZE USR 3e4
+ 70 DATA 221,33,175j253,17
+ 80 DATA 171,0,62,255,55
+ 90 DATA 205,86,5,48,241
+100 DATA 33,76,117,17,252
+110 DATA 253,1,10,0,237
+120 DATA 176,195,232,253
+130 DATA 175,50,181,105,0,195,14,241,132431
+for infinite lives, or change line 130 to
+130 DATA 62,1iv,50,97,106,195,14,241,12487
+</pre><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;for x lives. If using x lives,&nbsp;you also need this line:<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;45 LET t=t- (liv*40)
+ <i>(YS Smash Tips)</i> 
+<br>
+</td></tr>
+<TR><TD bgcolor="blue" background=""><font color="white"><b><i>Complete solutions</i></b></font></td></tr>
+<TR><TD>Just go Right and Up until you can go no further.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Then go Left until you reach the ladder going Up.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Go Up it and then carry on going Right and Up.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Follow this procedure until you find a temple to the far left of the screen
+that leads to&nbsp;the gas chamber.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Meditate then walk Right and fall into the gas chamber.  Having meditated,
+you're safe to walk back out.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Go back right, but somersault this time and you'll find yourself in a
+purple coloured cave.<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Kill the Buddha (or whatever the flip it is) and the 'completed' message
+pops up!
+ <i>(James Sammon in Your Sinclair issue 17)</i> 
+
+<br><hr>
+(L=Left, R=Right, D=Down, and U=Up)<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;R, D, R, U, L, PRAY, R, U, R, U, R, U, R, D, R, GET SCROLL, R, D, L, PRAY,
+R, R, D, L, JUMP HOLE, GET SCROLL, R, D, L, U, R, U, R, U, R, D, R, D, L,
+JUMP HOLE, PRAY, R, D, R, GET SCROLL, L, PRAY, R, D, R, GET SCROLL (hidden
+behind panel in hut), D, R, D, R, U, L, PRAY, R, U, R, U, R, U, R, U, R, D,
+R, D, L, PRAY, R, D, L, D, L, U, R, D, R, D, R, D, L, PRAY, R, D, L, PRAY,
+R, U, U, R, D, R, D, L, PRAY, R<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;When you go in the cave to the right of the ladder, you must somersault or
+you'll fall down a hole<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;R, FIGHT WARLORD.  As soon as you've beaten him to vermicelli, that's it!
+You've done it!!
+ <i>(Nigel Ison in Your Sinclair issue 18)</i> 
+<br>
+</td></tr>
+</table></center><P>
+<br><br><br><br>
+<center>
+<img ALT="Date" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=date"> <img ALT="Time" src="/cgi-bin/count.cgi?df=the-den.dat&dd=C&ft=0&display=clock"> <img ALT="Counter" src="/cgi-bin/count.cgi?df=tipshop.dat&dd=C&ft=0&display=counter">
+<p>
+<i>Brought to you courtesy of <a href="http://www.ysrnry.co.uk/tipshop/email.htm">Gerard Sweeney and Nick Humphries</a><br>
+plus various other <a href="http://www.ysrnry.co.uk/tipshop/credits.htm">good eggs</a>.</i>
+<p>
+</center>
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+qs=(document.referrer?escape(document.referrer):"-")+",";
+qs+=screen.width+"x"+screen.height+","+(screen.colorDepth==0?screen.pixelDepth:screen.colorDepth)+",";
+qs+=(navigator.javaEnabled()?"1,":"0,");
+for(i=0;i<navigator.plugins.length;i++)
+{p=navigator.plugins[i];
+if(p.name.substring(0,16)!="Netscape Default") qs+="|"+escape(p.name)+"|"; }
+document.write("<A HREF=\"http://www.thunderstats.com/viewstats.cgi\">");
+document.write("<IMG SRC=\"http://www.thunderstats.com/thunderstat.cgi?hide&info="+qs+"\" WIDTH=103 HEIGHT=27 BORDER=0 ALT=\"Site statistics\"></A>");
+// -->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://www.thunderstats.com/viewstats.cgi"><IMG SRC="http://www.thunderstats.com/thunderstat.cgi?hide" WIDTH=103 HEIGHT=27 BORDER=0 ALT="Site statistics"></A>
+</NOSCRIPT>
+
